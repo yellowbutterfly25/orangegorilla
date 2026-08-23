@@ -1,2 +1,1635 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="Dispatcharr Dynamic Stream EPG"/>
+<tv generator-info-name="Dispatcharr Dynamic Stream EPG">
+  <channel id="US_-_WNBA_GAME_10_:">
+    <display-name lang="en">US - WNBA GAME 10 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_09_:">
+    <display-name lang="en">US - WNBA GAME 09 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_08_:">
+    <display-name lang="en">US - WNBA GAME 08 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_07_:">
+    <display-name lang="en">US - WNBA GAME 07 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_06_:">
+    <display-name lang="en">US - WNBA GAME 06 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_05_:">
+    <display-name lang="en">US - WNBA GAME 05 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <display-name lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <display-name lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <display-name lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <display-name lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="#####_WNBA_PPV_#####">
+    <display-name lang="en">##### WNBA PPV #####</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_10">
+    <display-name lang="en">WNBA 10</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_10">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_09">
+    <display-name lang="en">WNBA 09</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_09">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_08">
+    <display-name lang="en">WNBA 08</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_08">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_07">
+    <display-name lang="en">WNBA 07</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_07">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_06">
+    <display-name lang="en">WNBA 06</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_06">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_05">
+    <display-name lang="en">WNBA 05</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_05">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_04">
+    <display-name lang="en">WNBA 04</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_04">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_03">
+    <display-name lang="en">WNBA 03</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_03">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_02">
+    <display-name lang="en">WNBA 02</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_02">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="WNBA_01">
+    <display-name lang="en">WNBA 01</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="WNBA_01">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_10_:">
+    <display-name lang="en">US - WNBA GAME 10 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_10_:">
+    <title lang="en">US - WNBA GAME 10 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_09_:">
+    <display-name lang="en">US - WNBA GAME 09 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_09_:">
+    <title lang="en">US - WNBA GAME 09 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_08_:">
+    <display-name lang="en">US - WNBA GAME 08 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_08_:">
+    <title lang="en">US - WNBA GAME 08 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_07_:">
+    <display-name lang="en">US - WNBA GAME 07 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_07_:">
+    <title lang="en">US - WNBA GAME 07 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_06_:">
+    <display-name lang="en">US - WNBA GAME 06 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_06_:">
+    <title lang="en">US - WNBA GAME 06 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_05_:">
+    <display-name lang="en">US - WNBA GAME 05 :</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_05_:">
+    <title lang="en">US - WNBA GAME 05 : </title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <display-name lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_04_:_LAS_VEGAS_ACES_@_TORONTO_TEMPO_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 04 : LAS VEGAS ACES @ TORONTO TEMPO – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <display-name lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_03_:_WASHINGTON_MYSTICS_@_PORTLAND_FIRE_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 03 : WASHINGTON MYSTICS @ PORTLAND FIRE – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <display-name lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_02_:_INDIANA_FEVER_@_CHICAGO_SKY_–_AUG_23_–_7:00_PM_ET_/_AUG_24_–_12:00_AM_UK">
+    <title lang="en">US - WNBA GAME 02 : INDIANA FEVER @ CHICAGO SKY – AUG 23 – 7:00 PM ET / AUG 24 – 12:00 AM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <display-name lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="US_-_WNBA_GAME_01_:_SEATTLE_STORM_@_DALLAS_WINGS_–_AUG_23_–_4:00_PM_ET_/_9:00_PM_UK">
+    <title lang="en">US - WNBA GAME 01 : SEATTLE STORM @ DALLAS WINGS – AUG 23 – 4:00 PM ET / 9:00 PM UK</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <channel id="#####_WNBA_PPV_#####">
+    <display-name lang="en">##### WNBA PPV #####</display-name>
+  </channel>
+  <programme start="20260823000000 +0000" stop="20260823060000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823120000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823180000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260823180000 +0000" stop="20260824000000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824060000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824060000 +0000" stop="20260824120000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824120000 +0000" stop="20260824180000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260824180000 +0000" stop="20260825000000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825000000 +0000" stop="20260825060000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825060000 +0000" stop="20260825120000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825120000 +0000" stop="20260825180000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260826000000 +0000" channel="#####_WNBA_PPV_#####">
+    <title lang="en">##### WNBA PPV #####</title>
+    <desc lang="en">Sourced directly from the first Dispatcharr stream name.</desc>
+  </programme>
+</tv>
