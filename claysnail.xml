@@ -297,6 +297,9 @@
   <channel id="Vancouver_Whitecaps_FC_2">
     <display-name lang="en">Vancouver Whitecaps FC 2</display-name>
   </channel>
+  <channel id="Ohio_State_Wrestling_(M)_2">
+    <display-name lang="en">Ohio State Wrestling (M) 2</display-name>
+  </channel>
   <channel id="Ohio_State_Football_(M)_2">
     <display-name lang="en">Ohio State Football (M) 2</display-name>
   </channel>
@@ -11584,147 +11587,147 @@
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907020000 +0000" stop="20260907040000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907040000 +0000" stop="20260907060000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907060000 +0000" stop="20260907080000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907080000 +0000" stop="20260907100000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907100000 +0000" stop="20260907120000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907160000 +0000" stop="20260907180000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907180000 +0000" stop="20260907200000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907200000 +0000" stop="20260907220000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907220000 +0000" stop="20260908000000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908000000 +0000" stop="20260908020000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908020000 +0000" stop="20260908040000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908040000 +0000" stop="20260908060000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908060000 +0000" stop="20260908080000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908080000 +0000" stop="20260908100000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908100000 +0000" stop="20260908120000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908120000 +0000" stop="20260908140000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908140000 +0000" stop="20260908160000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908160000 +0000" stop="20260908180000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908180000 +0000" stop="20260908200000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908200000 +0000" stop="20260908220000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908220000 +0000" stop="20260909000000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909000000 +0000" stop="20260909020000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909020000 +0000" stop="20260909040000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909040000 +0000" stop="20260909060000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909060000 +0000" stop="20260909080000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909080000 +0000" stop="20260909100000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909100000 +0000" stop="20260909120000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909120000 +0000" stop="20260909140000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909140000 +0000" stop="20260909160000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909160000 +0000" stop="20260909180000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909180000 +0000" stop="20260909200000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909200000 +0000" stop="20260909220000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909220000 +0000" stop="20260910000000 +0000" channel="FC_Cincinnati_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="FC_Dallas_2">
@@ -13312,147 +13315,147 @@
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907020000 +0000" stop="20260907040000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907040000 +0000" stop="20260907060000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907060000 +0000" stop="20260907080000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907080000 +0000" stop="20260907100000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907100000 +0000" stop="20260907120000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907160000 +0000" stop="20260907180000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907180000 +0000" stop="20260907200000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907200000 +0000" stop="20260907220000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907220000 +0000" stop="20260908000000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908000000 +0000" stop="20260908020000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908020000 +0000" stop="20260908040000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908040000 +0000" stop="20260908060000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908060000 +0000" stop="20260908080000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908080000 +0000" stop="20260908100000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908100000 +0000" stop="20260908120000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908120000 +0000" stop="20260908140000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908140000 +0000" stop="20260908160000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908160000 +0000" stop="20260908180000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908180000 +0000" stop="20260908200000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908200000 +0000" stop="20260908220000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260908220000 +0000" stop="20260909000000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909000000 +0000" stop="20260909020000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909020000 +0000" stop="20260909040000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909040000 +0000" stop="20260909060000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909060000 +0000" stop="20260909080000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909080000 +0000" stop="20260909100000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909100000 +0000" stop="20260909120000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909120000 +0000" stop="20260909140000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909140000 +0000" stop="20260909160000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909160000 +0000" stop="20260909180000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909180000 +0000" stop="20260909200000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909200000 +0000" stop="20260909220000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260909220000 +0000" stop="20260910000000 +0000" channel="Philadelphia_Union_2">
-    <title lang="en">Next Game On: Sep 09 7:30 PM EST</title>
+    <title lang="en">Next Game On: Sep 09 7:45 PM EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="Portland_Timbers_2">
@@ -14749,6 +14752,150 @@
   </programme>
   <programme start="20260909220000 +0000" stop="20260910000000 +0000" channel="Vancouver_Whitecaps_FC_2">
     <title lang="en">Next Game On: Sep 09 10:30 PM EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907020000 +0000" stop="20260907040000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907040000 +0000" stop="20260907060000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907060000 +0000" stop="20260907080000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907080000 +0000" stop="20260907100000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907100000 +0000" stop="20260907120000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907160000 +0000" stop="20260907180000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907180000 +0000" stop="20260907200000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907200000 +0000" stop="20260907220000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260907220000 +0000" stop="20260908000000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908000000 +0000" stop="20260908020000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908020000 +0000" stop="20260908040000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908040000 +0000" stop="20260908060000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908060000 +0000" stop="20260908080000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908080000 +0000" stop="20260908100000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908100000 +0000" stop="20260908120000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908120000 +0000" stop="20260908140000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908140000 +0000" stop="20260908160000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908160000 +0000" stop="20260908180000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908180000 +0000" stop="20260908200000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908200000 +0000" stop="20260908220000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260908220000 +0000" stop="20260909000000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909000000 +0000" stop="20260909020000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909020000 +0000" stop="20260909040000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909040000 +0000" stop="20260909060000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909060000 +0000" stop="20260909080000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909080000 +0000" stop="20260909100000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909100000 +0000" stop="20260909120000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909120000 +0000" stop="20260909140000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909160000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909160000 +0000" stop="20260909180000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909180000 +0000" stop="20260909200000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909200000 +0000" stop="20260909220000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
+    <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
+  </programme>
+  <programme start="20260909220000 +0000" stop="20260910000000 +0000" channel="Ohio_State_Wrestling_(M)_2">
+    <title lang="en">Next Game On: Nov 01 TBA EST</title>
     <desc lang="en">Custom schedule feed extracted from official league sources.</desc>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="Ohio_State_Football_(M)_2">
