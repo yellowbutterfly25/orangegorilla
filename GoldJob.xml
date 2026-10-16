@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+
+<!--
+  Weekly YouTube Live Episode Guide (XMLTV Format)
+  Channels: @MeidasTouch, @parkergetajob
+  Timezone: Eastern Time (ET / -0400)
+-->
+
+
+<tv source-info-url="https://www.youtube.com" source-info-name="YouTube Live Weekly Schedule" generator-info-name="Custom GitHub EPG">
+
+
+  <!-- ========================================== -->
+
+
+  <!-- CHANNEL DEFINITIONS                        -->
+
+
+  <!-- ========================================== -->
+
+
+  <channel id="meidastouch.youtube">
+    <display-name lang="en">MeidasTouch Network</display-name>
+    <display-name lang="en">@MeidasTouch</display-name>
+    <url>https://www.youtube.com/@MeidasTouch</url>
+  </channel>
+
+
+  <channel id="parkergetajob.youtube">
+    <display-name lang="en">Parker (ParkerGetAJob)</display-name>
+    <display-name lang="en">@parkergetajob</display-name>
+    <url>https://www.youtube.com/@parkergetajob</url>
+  </channel>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- MONDAY SCHEDULE                            -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Monday -->
+
+
+  <programme start="20261012133000 -0400" stop="20261012143000 -0400" channel="meidastouch.youtube">
+    <title lang="en">MeidasTouch Live: Midday Breaking News</title>
+    <sub-title lang="en">Monday Rapid Response</sub-title>
+    <desc lang="en">Live midday breaking news coverage and legal rapid response hosted by Ben Meiselas.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261012200000 -0400" stop="20261012213000 -0400" channel="meidastouch.youtube">
+    <title lang="en">The MeidasTouch Podcast</title>
+    <sub-title lang="en">Monday Prime Live Edition</sub-title>
+    <desc lang="en">Brothers Ben, Brett, and Jordy Meiselas break down the biggest political and legal stories starting the week.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+      <presenter>Brett Meiselas</presenter>
+      <presenter>Jordy Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Monday -->
+
+
+  <programme start="20261012130000 -0400" stop="20261012170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Monday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Parker hosts live call-in political debates with conservative and MAGA callers. (Streams in either the 1:00 PM ET daytime slot or 9:00 PM ET late-night slot.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261012210000 -0400" stop="20261013010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Monday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Parker hosts a four-hour live call-in political debate marathon. (Alternate evening broadcast window when not streaming midday.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- TUESDAY SCHEDULE                           -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Tuesday -->
+
+
+  <programme start="20261013133000 -0400" stop="20261013143000 -0400" channel="meidastouch.youtube">
+    <title lang="en">MeidasTouch Live: Midday Breaking News</title>
+    <sub-title lang="en">Tuesday Rapid Response</sub-title>
+    <desc lang="en">Live midday breaking news coverage and political updates hosted by Ben Meiselas.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261013200000 -0400" stop="20261013210000 -0400" channel="meidastouch.youtube">
+    <title lang="en">The Intersection with Michael Popok</title>
+    <sub-title lang="en">Tuesday Legal &amp; Political Deep Dive</sub-title>
+    <desc lang="en">Practicing trial lawyer Michael Popok analyzes the intersection of law, politics, and national security.</desc>
+    <credits>
+      <presenter>Michael Popok</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Law</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261013210000 -0400" stop="20261013220000 -0400" channel="meidastouch.youtube">
+    <title lang="en">The PoliticsGirl Podcast</title>
+    <sub-title lang="en">Tuesday Evening Edition</sub-title>
+    <desc lang="en">Leigh McGowan (PoliticsGirl) breaks down key pro-democracy issues, policy, and current events.</desc>
+    <credits>
+      <presenter>Leigh McGowan</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Talk</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Tuesday -->
+
+
+  <programme start="20261013130000 -0400" stop="20261013170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Tuesday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Parker hosts live call-in political debates with conservative and MAGA callers. (Streams in either the 1:00 PM ET daytime slot or 9:00 PM ET late-night slot.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261013210000 -0400" stop="20261014010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Tuesday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Parker hosts a four-hour live call-in political debate marathon. (Alternate evening broadcast window when not streaming midday.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- WEDNESDAY SCHEDULE                         -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Wednesday -->
+
+
+  <programme start="20261014160000 -0400" stop="20261014170000 -0400" channel="meidastouch.youtube">
+    <title lang="en">UNCOVERED</title>
+    <sub-title lang="en">MAGA Uncovered Live</sub-title>
+    <desc lang="en">Ron Filipkowski and Troy Matthews track and expose the week's extremism and political storylines.</desc>
+    <credits>
+      <presenter>Ron Filipkowski</presenter>
+      <presenter>Troy Matthews</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261014200000 -0400" stop="20261014210000 -0400" channel="meidastouch.youtube">
+    <title lang="en">Legal AF</title>
+    <sub-title lang="en">Midweek Edition</sub-title>
+    <desc lang="en">Flagship midweek legal analysis show breaking down major federal and state court developments.</desc>
+    <credits>
+      <presenter>Michael Popok</presenter>
+      <presenter>Karen Friedman Agnifilo</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Law</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Wednesday -->
+
+
+  <programme start="20261014130000 -0400" stop="20261014170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Wednesday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Parker hosts live call-in political debates with conservative and MAGA callers. (Streams in either the 1:00 PM ET daytime slot or 9:00 PM ET late-night slot.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261014210000 -0400" stop="20261015010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Wednesday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Parker hosts a four-hour live call-in political debate marathon. (Alternate evening broadcast window when not streaming midday.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- THURSDAY SCHEDULE                          -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Thursday -->
+
+
+  <programme start="20261015133000 -0400" stop="20261015143000 -0400" channel="meidastouch.youtube">
+    <title lang="en">MeidasTouch Live: Midday Breaking News</title>
+    <sub-title lang="en">Thursday Rapid Response</sub-title>
+    <desc lang="en">Live midday breaking news coverage and rapid response hosted by Ben Meiselas.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261015200000 -0400" stop="20261015213000 -0400" channel="meidastouch.youtube">
+    <title lang="en">The MeidasTouch Podcast</title>
+    <sub-title lang="en">Thursday Prime Live &amp; Breaking News Response</sub-title>
+    <desc lang="en">Ben, Brett, and Jordy Meiselas go live to cover Thursday breaking news and major political developments.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+      <presenter>Brett Meiselas</presenter>
+      <presenter>Jordy Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Thursday -->
+
+
+  <programme start="20261015130000 -0400" stop="20261015170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Thursday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Parker hosts live call-in political debates with conservative and MAGA callers. (Streams in either the 1:00 PM ET daytime slot or 9:00 PM ET late-night slot.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261015210000 -0400" stop="20261016010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Thursday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Parker hosts a four-hour live call-in political debate marathon. (Alternate evening broadcast window when not streaming midday.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- FRIDAY SCHEDULE                            -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Friday -->
+
+
+  <programme start="20261016133000 -0400" stop="20261016143000 -0400" channel="meidastouch.youtube">
+    <title lang="en">MeidasTouch Live: Midday Breaking News</title>
+    <sub-title lang="en">Friday Rapid Response</sub-title>
+    <desc lang="en">Afternoon live stream covering end-of-week court filings and breaking political news.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261016200000 -0400" stop="20261016213000 -0400" channel="meidastouch.youtube">
+    <title lang="en">MeidasTouch Friday Night Live</title>
+    <sub-title lang="en">Special Breaking News Coverage</sub-title>
+    <desc lang="en">Friday evening live coverage wrapping up the week's biggest legal drops and political stories.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Friday -->
+
+
+  <programme start="20261016130000 -0400" stop="20261016170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Friday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Parker hosts live call-in political debates with conservative and MAGA callers. (Streams in either the 1:00 PM ET daytime slot or 9:00 PM ET late-night slot.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261016210000 -0400" stop="20261017010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Friday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Parker hosts a four-hour live call-in political debate marathon. (Alternate evening broadcast window when not streaming midday.)</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- SATURDAY SCHEDULE                          -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Saturday -->
+
+
+  <programme start="20261017200000 -0400" stop="20261017210000 -0400" channel="meidastouch.youtube">
+    <title lang="en">Legal AF</title>
+    <sub-title lang="en">Weekend Edition</sub-title>
+    <desc lang="en">Michael Popok and Ben Meiselas co-host the flagship Saturday night legal roundup.</desc>
+    <credits>
+      <presenter>Michael Popok</presenter>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Law</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Saturday -->
+
+
+  <programme start="20261017130000 -0400" stop="20261017170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Saturday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Weekend live call-in political debates hosted by Parker (subject to travel schedule).</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261017210000 -0400" stop="20261018010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Saturday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Weekend late-night four-hour political debate stream (subject to travel schedule).</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <!-- ========================================== -->
+
+
+  <!-- SUNDAY SCHEDULE                            -->
+
+
+  <!-- ========================================== -->
+
+
+  <!-- @MeidasTouch - Sunday -->
+
+
+  <programme start="20261018160000 -0400" stop="20261018173000 -0400" channel="meidastouch.youtube">
+    <title lang="en">The Weekend Show</title>
+    <sub-title lang="en">Sunday Afternoon Edition</sub-title>
+    <desc lang="en">Anthony Davis hosts in-depth weekend political commentary and long-form interviews.</desc>
+    <credits>
+      <presenter>Anthony Davis</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261018200000 -0400" stop="20261018210000 -0400" channel="meidastouch.youtube">
+    <title lang="en">MeidasTouch Live: On Sunday</title>
+    <sub-title lang="en">Sunday Evening Update</sub-title>
+    <desc lang="en">Ben Meiselas goes live Sunday evening to preview the week ahead and cover breaking weekend news.</desc>
+    <credits>
+      <presenter>Ben Meiselas</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <live />
+  </programme>
+
+
+  <!-- @parkergetajob - Sunday -->
+
+
+  <programme start="20261018130000 -0400" stop="20261018170000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Sunday Daytime Shift (Window 1)</sub-title>
+    <desc lang="en">Sunday afternoon live call-in political debates hosted by Parker.</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+  <programme start="20261018210000 -0400" stop="20261019010000 -0400" channel="parkergetajob.youtube">
+    <title lang="en">Debates Vs Republicans LIVE</title>
+    <sub-title lang="en">Sunday Late-Night Shift (Window 2)</sub-title>
+    <desc lang="en">Sunday night four-hour live call-in political debate marathon.</desc>
+    <credits>
+      <presenter>Parker Sedgwick</presenter>
+    </credits>
+    <category lang="en">Politics</category>
+    <category lang="en">Debate</category>
+    <live />
+  </programme>
+
+
+</tv>
