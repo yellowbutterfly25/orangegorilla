@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Dispatcharr-PPV-Category-EPG" source-info-name="Ligue.xml">
+  <channel id="ppv.ligue.0001">
+    <display-name>Ligue 0001</display-name>
+  </channel>
+  <channel id="ppv.ligue.0002">
+    <display-name>Ligue 0002</display-name>
+  </channel>
+  <channel id="ppv.ligue.0003">
+    <display-name>Ligue 0003</display-name>
+  </channel>
+  <channel id="ppv.ligue.0004">
+    <display-name>Ligue 0004</display-name>
+  </channel>
+  <channel id="ppv.ligue.0005">
+    <display-name>Ligue 0005</display-name>
+  </channel>
+  <channel id="ppv.ligue.0006">
+    <display-name>Ligue 0006</display-name>
+  </channel>
+  <channel id="ppv.ligue.0007">
+    <display-name>Ligue 0007</display-name>
+  </channel>
+  <channel id="ppv.ligue.0008">
+    <display-name>Ligue 0008</display-name>
+  </channel>
+  <channel id="ppv.ligue.0009">
+    <display-name>Ligue 0009</display-name>
+  </channel>
+  <channel id="ppv.ligue.0010">
+    <display-name>Ligue 0010</display-name>
+  </channel>
+  <channel id="ppv.ligue.0011">
+    <display-name>Ligue 0011</display-name>
+  </channel>
+  <channel id="ppv.ligue.0012">
+    <display-name>Ligue 0012</display-name>
+  </channel>
+  <channel id="ppv.ligue.0013">
+    <display-name>Ligue 0013</display-name>
+  </channel>
+  <channel id="ppv.ligue.0014">
+    <display-name>Ligue 0014</display-name>
+  </channel>
+  <channel id="ppv.ligue.0015">
+    <display-name>Ligue 0015</display-name>
+  </channel>
+  <channel id="ppv.ligue.0016">
+    <display-name>Ligue 0016</display-name>
+  </channel>
+  <channel id="ppv.ligue.0017">
+    <display-name>Ligue 0017</display-name>
+  </channel>
+  <channel id="ppv.ligue.0018">
+    <display-name>Ligue 0018</display-name>
+  </channel>
+  <channel id="ppv.ligue.0019">
+    <display-name>Ligue 0019</display-name>
+  </channel>
+  <channel id="ppv.ligue.0020">
+    <display-name>Ligue 0020</display-name>
+  </channel>
+  <channel id="ppv.ligue.0021">
+    <display-name>Ligue 0021</display-name>
+  </channel>
+  <channel id="ppv.ligue.0022">
+    <display-name>Ligue 0022</display-name>
+  </channel>
+  <channel id="ppv.ligue.0023">
+    <display-name>Ligue 0023</display-name>
+  </channel>
+  <channel id="ppv.ligue.0024">
+    <display-name>Ligue 0024</display-name>
+  </channel>
+  <channel id="ppv.ligue.0025">
+    <display-name>Ligue 0025</display-name>
+  </channel>
+  <channel id="ppv.ligue.0026">
+    <display-name>Ligue 0026</display-name>
+  </channel>
+  <channel id="ppv.ligue.0027">
+    <display-name>Ligue 0027</display-name>
+  </channel>
+  <channel id="ppv.ligue.0028">
+    <display-name>Ligue 0028</display-name>
+  </channel>
+  <channel id="ppv.ligue.0029">
+    <display-name>Ligue 0029</display-name>
+  </channel>
+  <channel id="ppv.ligue.0030">
+    <display-name>Ligue 0030</display-name>
+  </channel>
+  <channel id="ppv.ligue.0031">
+    <display-name>Ligue 0031</display-name>
+  </channel>
+  <channel id="ppv.ligue.0032">
+    <display-name>Ligue 0032</display-name>
+  </channel>
+  <channel id="ppv.ligue.0033">
+    <display-name>Ligue 0033</display-name>
+  </channel>
+  <channel id="ppv.ligue.0034">
+    <display-name>Ligue 0034</display-name>
+  </channel>
+  <channel id="ppv.ligue.0035">
+    <display-name>Ligue 0035</display-name>
+  </channel>
+  <channel id="ppv.ligue.0036">
+    <display-name>Ligue 0036</display-name>
+  </channel>
+  <channel id="ppv.ligue.0037">
+    <display-name>Ligue 0037</display-name>
+  </channel>
+  <channel id="ppv.ligue.0038">
+    <display-name>Ligue 0038</display-name>
+  </channel>
+  <channel id="ppv.ligue.0039">
+    <display-name>Ligue 0039</display-name>
+  </channel>
+  <channel id="ppv.ligue.0040">
+    <display-name>Ligue 0040</display-name>
+  </channel>
+  <channel id="ppv.ligue.0041">
+    <display-name>Ligue 0041</display-name>
+  </channel>
+  <channel id="ppv.ligue.0042">
+    <display-name>Ligue 0042</display-name>
+  </channel>
+  <channel id="ppv.ligue.0043">
+    <display-name>Ligue 0043</display-name>
+  </channel>
+  <channel id="ppv.ligue.0044">
+    <display-name>Ligue 0044</display-name>
+  </channel>
+  <channel id="ppv.ligue.0045">
+    <display-name>Ligue 0045</display-name>
+  </channel>
+  <channel id="ppv.ligue.0046">
+    <display-name>Ligue 0046</display-name>
+  </channel>
+  <channel id="ppv.ligue.0047">
+    <display-name>Ligue 0047</display-name>
+  </channel>
+  <channel id="ppv.ligue.0048">
+    <display-name>Ligue 0048</display-name>
+  </channel>
+  <channel id="ppv.ligue.0049">
+    <display-name>Ligue 0049</display-name>
+  </channel>
+  <channel id="ppv.ligue.0050">
+    <display-name>Ligue 0050</display-name>
+  </channel>
+  <channel id="ppv.ligue.0051">
+    <display-name>Ligue 0051</display-name>
+  </channel>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0001">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 1</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 1</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0001">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 1</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 1</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0001">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 1</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 1</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0001">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 1</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 1</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0001">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 1</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 1</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0001">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 1</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 1</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0002">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 2</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 2</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0002">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 2</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 2</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0002">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 2</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 2</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0002">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 2</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 2</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0002">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 2</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 2</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0002">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 2</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 2</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0003">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 3</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 3</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0003">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 3</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 3</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0003">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 3</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 3</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0003">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 3</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 3</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0003">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 3</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 3</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0003">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 3</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 3</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0004">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 4</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 4</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0004">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 4</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 4</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0004">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 4</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 4</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0004">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 4</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 4</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0004">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 4</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 4</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0004">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 4</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 4</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0005">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 5</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 5</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0005">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 5</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 5</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0005">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 5</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 5</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0005">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 5</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 5</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0005">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 5</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 5</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0005">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 5</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 5</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0006">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 6</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 6</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0006">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 6</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 6</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0006">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 6</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 6</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0006">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 6</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 6</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0006">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 6</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 6</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0006">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 6</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 6</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0007">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 7</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 7</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0007">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 7</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 7</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0007">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 7</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 7</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0007">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 7</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 7</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0007">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 7</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 7</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0007">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 7</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 7</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0008">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 8</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 8</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0008">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 8</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 8</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0008">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 8</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 8</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0008">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 8</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 8</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0008">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 8</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 8</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0008">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 8</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 8</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0009">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 9</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 9</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0009">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 9</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 9</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0009">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 9</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 9</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0009">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 9</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 9</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0009">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 9</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 9</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0009">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 9</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 9</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0010">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 10</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 10</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0010">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 10</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 10</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0010">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 10</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 10</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0010">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 10</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 10</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0010">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 10</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 10</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0010">
+    <title lang="en">UK: LIGUE 1 PPV | MATCH 10</title>
+    <desc lang="en">UK: LIGUE 1 PPV | MATCH 10</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0011">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0011">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0011">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0011">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0011">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0011">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0012">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0012">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0012">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0012">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0012">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0012">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0013">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0013">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0013">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0013">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0013">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0013">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0014">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0014">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0014">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0014">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0014">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0014">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0015">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0015">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0015">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0015">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0015">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0015">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0016">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0016">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0016">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0016">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0016">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0016">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0017">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0017">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0017">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0017">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0017">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0017">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0018">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0018">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0018">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0018">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0018">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0018">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0019">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0019">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0019">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0019">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0019">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0019">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0020">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0020">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0020">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0020">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0020">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0020">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0021">
+    <title lang="en">AR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">AR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0021">
+    <title lang="en">AR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">AR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0021">
+    <title lang="en">AR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">AR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0021">
+    <title lang="en">AR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">AR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0021">
+    <title lang="en">AR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">AR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0021">
+    <title lang="en">AR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">AR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0022">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0022">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0022">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0022">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0022">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0022">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0023">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0023">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0023">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0023">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0023">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0023">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0024">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0024">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0024">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0024">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0024">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0024">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0025">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0025">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0025">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0025">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0025">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0025">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0026">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0026">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0026">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0026">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0026">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0026">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0027">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0027">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0027">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0027">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0027">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0027">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0028">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0028">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0028">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0028">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0028">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0028">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0029">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0029">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0029">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0029">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0029">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0029">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0030">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0030">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0030">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0030">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0030">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0030">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0031">
+    <title lang="en">FR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">FR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0031">
+    <title lang="en">FR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">FR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0031">
+    <title lang="en">FR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">FR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0031">
+    <title lang="en">FR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">FR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0031">
+    <title lang="en">FR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">FR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0031">
+    <title lang="en">FR - LORIENT VS BREST 20:45 CET</title>
+    <desc lang="en">FR - LORIENT VS BREST 20:45 CET</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0032">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0032">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0032">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0032">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0032">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0032">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0033">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0033">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0033">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0033">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0033">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0033">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0034">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0034">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0034">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0034">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0034">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0034">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0035">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0035">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0035">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0035">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0035">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0035">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0036">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0036">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0036">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0036">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0036">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0036">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0037">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0037">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0037">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0037">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0037">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0037">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0038">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0038">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0038">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0038">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0038">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0038">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0039">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0039">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0039">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0039">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0039">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0039">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0040">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0040">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0040">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0040">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0040">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0040">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0041">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0041">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0041">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0041">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0041">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0041">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0042">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0042">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0042">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0042">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0042">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0042">
+    <title lang="en">Ligue 1 | Match 1</title>
+    <desc lang="en">Ligue 1 | Match 1</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0043">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0043">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0043">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0043">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0043">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0043">
+    <title lang="en">Ligue 1 | Match 2</title>
+    <desc lang="en">Ligue 1 | Match 2</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0044">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0044">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0044">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0044">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0044">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0044">
+    <title lang="en">Ligue 1 | Match 3</title>
+    <desc lang="en">Ligue 1 | Match 3</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0045">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0045">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0045">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0045">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0045">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0045">
+    <title lang="en">Ligue 1 | Match 4</title>
+    <desc lang="en">Ligue 1 | Match 4</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0046">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0046">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0046">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0046">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0046">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0046">
+    <title lang="en">Ligue 1 | Match 5</title>
+    <desc lang="en">Ligue 1 | Match 5</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0047">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0047">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0047">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0047">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0047">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0047">
+    <title lang="en">Ligue 1 | Match 6</title>
+    <desc lang="en">Ligue 1 | Match 6</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0048">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0048">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0048">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0048">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0048">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0048">
+    <title lang="en">Ligue 1 | Match 7</title>
+    <desc lang="en">Ligue 1 | Match 7</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0049">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0049">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0049">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0049">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0049">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0049">
+    <title lang="en">Ligue 1 | Match 8</title>
+    <desc lang="en">Ligue 1 | Match 8</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0050">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0050">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0050">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0050">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0050">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0050">
+    <title lang="en">Ligue 1 | Match 9</title>
+    <desc lang="en">Ligue 1 | Match 9</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102230000 +0000" channel="ppv.ligue.0051">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103050000 +0000" channel="ppv.ligue.0051">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103110000 +0000" channel="ppv.ligue.0051">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103170000 +0000" channel="ppv.ligue.0051">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103230000 +0000" channel="ppv.ligue.0051">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104050000 +0000" channel="ppv.ligue.0051">
+    <title lang="en">Ligue 1 | Match 10</title>
+    <desc lang="en">Ligue 1 | Match 10</desc>
+  </programme>
+</tv>
