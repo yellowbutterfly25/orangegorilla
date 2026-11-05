@@ -120,963 +120,963 @@
   <channel id="ppv.wnba.0040">
     <display-name>WNBA 0040</display-name>
   </channel>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0001">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0001">
     <title lang="en">WNBA 03 :</title>
     <desc lang="en">WNBA 03 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0001">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0001">
     <title lang="en">WNBA 03 :</title>
     <desc lang="en">WNBA 03 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0001">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0001">
     <title lang="en">WNBA 03 :</title>
     <desc lang="en">WNBA 03 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0001">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0001">
     <title lang="en">WNBA 03 :</title>
     <desc lang="en">WNBA 03 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0001">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0001">
     <title lang="en">WNBA 03 :</title>
     <desc lang="en">WNBA 03 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0001">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0001">
     <title lang="en">WNBA 03 :</title>
     <desc lang="en">WNBA 03 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0002">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0002">
     <title lang="en">WNBA 04 :</title>
     <desc lang="en">WNBA 04 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0002">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0002">
     <title lang="en">WNBA 04 :</title>
     <desc lang="en">WNBA 04 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0002">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0002">
     <title lang="en">WNBA 04 :</title>
     <desc lang="en">WNBA 04 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0002">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0002">
     <title lang="en">WNBA 04 :</title>
     <desc lang="en">WNBA 04 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0002">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0002">
     <title lang="en">WNBA 04 :</title>
     <desc lang="en">WNBA 04 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0002">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0002">
     <title lang="en">WNBA 04 :</title>
     <desc lang="en">WNBA 04 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0003">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0003">
     <title lang="en">WNBA 05 :</title>
     <desc lang="en">WNBA 05 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0003">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0003">
     <title lang="en">WNBA 05 :</title>
     <desc lang="en">WNBA 05 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0003">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0003">
     <title lang="en">WNBA 05 :</title>
     <desc lang="en">WNBA 05 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0003">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0003">
     <title lang="en">WNBA 05 :</title>
     <desc lang="en">WNBA 05 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0003">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0003">
     <title lang="en">WNBA 05 :</title>
     <desc lang="en">WNBA 05 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0003">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0003">
     <title lang="en">WNBA 05 :</title>
     <desc lang="en">WNBA 05 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0004">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0004">
     <title lang="en">WNBA 06</title>
     <desc lang="en">WNBA 06</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0004">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0004">
     <title lang="en">WNBA 06</title>
     <desc lang="en">WNBA 06</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0004">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0004">
     <title lang="en">WNBA 06</title>
     <desc lang="en">WNBA 06</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0004">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0004">
     <title lang="en">WNBA 06</title>
     <desc lang="en">WNBA 06</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0004">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0004">
     <title lang="en">WNBA 06</title>
     <desc lang="en">WNBA 06</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0004">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0004">
     <title lang="en">WNBA 06</title>
     <desc lang="en">WNBA 06</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0005">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0005">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0005">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0005">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0005">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0005">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0005">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0005">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0005">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0005">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0005">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0005">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0006">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0006">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0006">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0006">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0006">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0006">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0006">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0006">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0006">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0006">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0006">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0006">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0007">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0007">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0007">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0007">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0007">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0007">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0007">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0007">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0007">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0007">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0007">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0007">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0008">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0008">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0008">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0008">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0008">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0008">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0008">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0008">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0008">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0008">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0008">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0008">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0009">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0009">
     <title lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</title>
     <desc lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0009">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0009">
     <title lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</title>
     <desc lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0009">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0009">
     <title lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</title>
     <desc lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0009">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0009">
     <title lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</title>
     <desc lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0009">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0009">
     <title lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</title>
     <desc lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0009">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0009">
     <title lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</title>
     <desc lang="en">wnba: 1 name: Golden State Valkyries x Atlanta Dream start:2026-10-31 23:50:00 stop:2026-11-01 04:00:00</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0010">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0010">
     <title lang="en">wnba: 02 name:</title>
     <desc lang="en">wnba: 02 name:</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0010">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0010">
     <title lang="en">wnba: 02 name:</title>
     <desc lang="en">wnba: 02 name:</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0010">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0010">
     <title lang="en">wnba: 02 name:</title>
     <desc lang="en">wnba: 02 name:</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0010">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0010">
     <title lang="en">wnba: 02 name:</title>
     <desc lang="en">wnba: 02 name:</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0010">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0010">
     <title lang="en">wnba: 02 name:</title>
     <desc lang="en">wnba: 02 name:</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0010">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0010">
     <title lang="en">wnba: 02 name:</title>
     <desc lang="en">wnba: 02 name:</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0011">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0011">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0011">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0011">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0011">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0011">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0011">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0011">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0011">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0011">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0011">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0011">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0012">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0012">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0012">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0012">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0012">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0012">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0012">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0012">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0012">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0012">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0012">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0012">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0013">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0013">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0013">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0013">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0013">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0013">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0013">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0013">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0013">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0013">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0013">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0013">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0014">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0014">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0014">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0014">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0014">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0014">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0014">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0014">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0014">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0014">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0014">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0014">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0015">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0015">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0015">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0015">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0015">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0015">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0015">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0015">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0015">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0015">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0015">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0015">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0016">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0016">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0016">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0016">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0016">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0016">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0016">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0016">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0016">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0016">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0016">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0016">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0017">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0017">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0017">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0017">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0017">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0017">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0017">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0017">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0017">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0017">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0017">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0017">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0018">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0018">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0018">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0018">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0018">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0018">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0018">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0018">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0018">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0018">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0018">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0018">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0019">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0019">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0019">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0019">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0019">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0019">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0019">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0019">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0019">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0019">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0019">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0019">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0020">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0020">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0020">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0020">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0020">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0020">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0020">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0020">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0020">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0020">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0020">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0020">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0021">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0021">
     <title lang="en">US - WNBA GAME 01 :</title>
     <desc lang="en">US - WNBA GAME 01 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0021">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0021">
     <title lang="en">US - WNBA GAME 01 :</title>
     <desc lang="en">US - WNBA GAME 01 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0021">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0021">
     <title lang="en">US - WNBA GAME 01 :</title>
     <desc lang="en">US - WNBA GAME 01 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0021">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0021">
     <title lang="en">US - WNBA GAME 01 :</title>
     <desc lang="en">US - WNBA GAME 01 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0021">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0021">
     <title lang="en">US - WNBA GAME 01 :</title>
     <desc lang="en">US - WNBA GAME 01 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0021">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0021">
     <title lang="en">US - WNBA GAME 01 :</title>
     <desc lang="en">US - WNBA GAME 01 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0022">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0022">
     <title lang="en">US - WNBA GAME 02 :</title>
     <desc lang="en">US - WNBA GAME 02 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0022">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0022">
     <title lang="en">US - WNBA GAME 02 :</title>
     <desc lang="en">US - WNBA GAME 02 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0022">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0022">
     <title lang="en">US - WNBA GAME 02 :</title>
     <desc lang="en">US - WNBA GAME 02 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0022">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0022">
     <title lang="en">US - WNBA GAME 02 :</title>
     <desc lang="en">US - WNBA GAME 02 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0022">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0022">
     <title lang="en">US - WNBA GAME 02 :</title>
     <desc lang="en">US - WNBA GAME 02 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0022">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0022">
     <title lang="en">US - WNBA GAME 02 :</title>
     <desc lang="en">US - WNBA GAME 02 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0023">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0023">
     <title lang="en">US - WNBA GAME 03 :</title>
     <desc lang="en">US - WNBA GAME 03 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0023">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0023">
     <title lang="en">US - WNBA GAME 03 :</title>
     <desc lang="en">US - WNBA GAME 03 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0023">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0023">
     <title lang="en">US - WNBA GAME 03 :</title>
     <desc lang="en">US - WNBA GAME 03 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0023">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0023">
     <title lang="en">US - WNBA GAME 03 :</title>
     <desc lang="en">US - WNBA GAME 03 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0023">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0023">
     <title lang="en">US - WNBA GAME 03 :</title>
     <desc lang="en">US - WNBA GAME 03 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0023">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0023">
     <title lang="en">US - WNBA GAME 03 :</title>
     <desc lang="en">US - WNBA GAME 03 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0024">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0024">
     <title lang="en">US - WNBA GAME 04 :</title>
     <desc lang="en">US - WNBA GAME 04 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0024">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0024">
     <title lang="en">US - WNBA GAME 04 :</title>
     <desc lang="en">US - WNBA GAME 04 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0024">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0024">
     <title lang="en">US - WNBA GAME 04 :</title>
     <desc lang="en">US - WNBA GAME 04 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0024">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0024">
     <title lang="en">US - WNBA GAME 04 :</title>
     <desc lang="en">US - WNBA GAME 04 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0024">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0024">
     <title lang="en">US - WNBA GAME 04 :</title>
     <desc lang="en">US - WNBA GAME 04 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0024">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0024">
     <title lang="en">US - WNBA GAME 04 :</title>
     <desc lang="en">US - WNBA GAME 04 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0025">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0025">
     <title lang="en">US - WNBA GAME 05 :</title>
     <desc lang="en">US - WNBA GAME 05 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0025">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0025">
     <title lang="en">US - WNBA GAME 05 :</title>
     <desc lang="en">US - WNBA GAME 05 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0025">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0025">
     <title lang="en">US - WNBA GAME 05 :</title>
     <desc lang="en">US - WNBA GAME 05 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0025">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0025">
     <title lang="en">US - WNBA GAME 05 :</title>
     <desc lang="en">US - WNBA GAME 05 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0025">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0025">
     <title lang="en">US - WNBA GAME 05 :</title>
     <desc lang="en">US - WNBA GAME 05 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0025">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0025">
     <title lang="en">US - WNBA GAME 05 :</title>
     <desc lang="en">US - WNBA GAME 05 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0026">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0026">
     <title lang="en">US - WNBA GAME 06 :</title>
     <desc lang="en">US - WNBA GAME 06 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0026">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0026">
     <title lang="en">US - WNBA GAME 06 :</title>
     <desc lang="en">US - WNBA GAME 06 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0026">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0026">
     <title lang="en">US - WNBA GAME 06 :</title>
     <desc lang="en">US - WNBA GAME 06 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0026">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0026">
     <title lang="en">US - WNBA GAME 06 :</title>
     <desc lang="en">US - WNBA GAME 06 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0026">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0026">
     <title lang="en">US - WNBA GAME 06 :</title>
     <desc lang="en">US - WNBA GAME 06 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0026">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0026">
     <title lang="en">US - WNBA GAME 06 :</title>
     <desc lang="en">US - WNBA GAME 06 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0027">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0027">
     <title lang="en">US - WNBA GAME 07 :</title>
     <desc lang="en">US - WNBA GAME 07 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0027">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0027">
     <title lang="en">US - WNBA GAME 07 :</title>
     <desc lang="en">US - WNBA GAME 07 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0027">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0027">
     <title lang="en">US - WNBA GAME 07 :</title>
     <desc lang="en">US - WNBA GAME 07 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0027">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0027">
     <title lang="en">US - WNBA GAME 07 :</title>
     <desc lang="en">US - WNBA GAME 07 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0027">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0027">
     <title lang="en">US - WNBA GAME 07 :</title>
     <desc lang="en">US - WNBA GAME 07 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0027">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0027">
     <title lang="en">US - WNBA GAME 07 :</title>
     <desc lang="en">US - WNBA GAME 07 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0028">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0028">
     <title lang="en">US - WNBA GAME 08 :</title>
     <desc lang="en">US - WNBA GAME 08 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0028">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0028">
     <title lang="en">US - WNBA GAME 08 :</title>
     <desc lang="en">US - WNBA GAME 08 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0028">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0028">
     <title lang="en">US - WNBA GAME 08 :</title>
     <desc lang="en">US - WNBA GAME 08 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0028">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0028">
     <title lang="en">US - WNBA GAME 08 :</title>
     <desc lang="en">US - WNBA GAME 08 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0028">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0028">
     <title lang="en">US - WNBA GAME 08 :</title>
     <desc lang="en">US - WNBA GAME 08 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0028">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0028">
     <title lang="en">US - WNBA GAME 08 :</title>
     <desc lang="en">US - WNBA GAME 08 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0029">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0029">
     <title lang="en">US - WNBA GAME 09 :</title>
     <desc lang="en">US - WNBA GAME 09 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0029">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0029">
     <title lang="en">US - WNBA GAME 09 :</title>
     <desc lang="en">US - WNBA GAME 09 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0029">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0029">
     <title lang="en">US - WNBA GAME 09 :</title>
     <desc lang="en">US - WNBA GAME 09 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0029">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0029">
     <title lang="en">US - WNBA GAME 09 :</title>
     <desc lang="en">US - WNBA GAME 09 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0029">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0029">
     <title lang="en">US - WNBA GAME 09 :</title>
     <desc lang="en">US - WNBA GAME 09 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0029">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0029">
     <title lang="en">US - WNBA GAME 09 :</title>
     <desc lang="en">US - WNBA GAME 09 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0030">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0030">
     <title lang="en">US - WNBA GAME 10 :</title>
     <desc lang="en">US - WNBA GAME 10 :</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0030">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0030">
     <title lang="en">US - WNBA GAME 10 :</title>
     <desc lang="en">US - WNBA GAME 10 :</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0030">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0030">
     <title lang="en">US - WNBA GAME 10 :</title>
     <desc lang="en">US - WNBA GAME 10 :</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0030">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0030">
     <title lang="en">US - WNBA GAME 10 :</title>
     <desc lang="en">US - WNBA GAME 10 :</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0030">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0030">
     <title lang="en">US - WNBA GAME 10 :</title>
     <desc lang="en">US - WNBA GAME 10 :</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0030">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0030">
     <title lang="en">US - WNBA GAME 10 :</title>
     <desc lang="en">US - WNBA GAME 10 :</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0031">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0031">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0031">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0031">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0031">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0031">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0031">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0031">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0031">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0031">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0031">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0031">
     <title lang="en">WNBA 1</title>
     <desc lang="en">WNBA 1</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0032">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0032">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0032">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0032">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0032">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0032">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0032">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0032">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0032">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0032">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0032">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0032">
     <title lang="en">WNBA 2</title>
     <desc lang="en">WNBA 2</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0033">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0033">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0033">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0033">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0033">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0033">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0033">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0033">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0033">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0033">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0033">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0033">
     <title lang="en">WNBA 3</title>
     <desc lang="en">WNBA 3</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0034">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0034">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0034">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0034">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0034">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0034">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0034">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0034">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0034">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0034">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0034">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0034">
     <title lang="en">WNBA 4</title>
     <desc lang="en">WNBA 4</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0035">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0035">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0035">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0035">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0035">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0035">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0035">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0035">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0035">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0035">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0035">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0035">
     <title lang="en">WNBA 5</title>
     <desc lang="en">WNBA 5</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0036">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0036">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0036">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0036">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0036">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0036">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0036">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0036">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0036">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0036">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0036">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0036">
     <title lang="en">WNBA 6</title>
     <desc lang="en">WNBA 6</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0037">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0037">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0037">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0037">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0037">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0037">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0037">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0037">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0037">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0037">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0037">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0037">
     <title lang="en">WNBA 7</title>
     <desc lang="en">WNBA 7</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0038">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0038">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0038">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0038">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0038">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0038">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0038">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0038">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0038">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0038">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0038">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0038">
     <title lang="en">WNBA 8</title>
     <desc lang="en">WNBA 8</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0039">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0039">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0039">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0039">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0039">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0039">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0039">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0039">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0039">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0039">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0039">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0039">
     <title lang="en">WNBA 9</title>
     <desc lang="en">WNBA 9</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.wnba.0040">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.wnba.0040">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.wnba.0040">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.wnba.0040">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.wnba.0040">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.wnba.0040">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.wnba.0040">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.wnba.0040">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.wnba.0040">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.wnba.0040">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.wnba.0040">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.wnba.0040">
     <title lang="en">WNBA 10</title>
     <desc lang="en">WNBA 10</desc>
   </programme>

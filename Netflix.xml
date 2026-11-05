@@ -84,675 +84,675 @@
   <channel id="ppv.netflix.0028">
     <display-name>Netflix 0028</display-name>
   </channel>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0001">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0001">
     <title lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0001">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0001">
     <title lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0001">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0001">
     <title lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0001">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0001">
     <title lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0001">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0001">
     <title lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0001">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0001">
     <title lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0002">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0002">
     <title lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0002">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0002">
     <title lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0002">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0002">
     <title lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0002">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0002">
     <title lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0002">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0002">
     <title lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0002">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0002">
     <title lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0003">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0003">
     <title lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0003">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0003">
     <title lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0003">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0003">
     <title lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0003">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0003">
     <title lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0003">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0003">
     <title lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0003">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0003">
     <title lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0004">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0004">
     <title lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0004">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0004">
     <title lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0004">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0004">
     <title lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0004">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0004">
     <title lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0004">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0004">
     <title lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0004">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0004">
     <title lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</title>
     <desc lang="en">NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0005">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0005">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0005">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0005">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0005">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0005">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0005">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0005">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0005">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0005">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0005">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0005">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0006">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0006">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0006">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0006">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0006">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0006">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0006">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0006">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0006">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0006">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0006">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0006">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0007">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0007">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0007">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0007">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0007">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0007">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0007">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0007">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0007">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0007">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0007">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0007">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0008">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0008">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0008">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0008">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0008">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0008">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0008">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0008">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0008">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0008">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0008">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0008">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0009">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0009">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0009">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0009">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0009">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0009">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0009">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0009">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0009">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0009">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0009">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0009">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0010">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0010">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0010">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0010">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0010">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0010">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0010">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0010">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0010">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0010">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0010">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0010">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0011">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0011">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0011">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0011">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0011">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0011">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0011">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0011">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0011">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0011">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0011">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0011">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0012">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0012">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0012">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0012">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0012">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0012">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0012">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0012">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0012">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0012">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0012">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0012">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0013">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0013">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0013">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0013">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0013">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0013">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0013">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0013">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0013">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0013">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0013">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0013">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0014">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0014">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0014">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0014">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0014">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0014">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0014">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0014">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0014">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0014">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0014">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0014">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0015">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0015">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0015">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0015">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0015">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0015">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0015">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0015">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0015">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0015">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0015">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0015">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0016">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0016">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0016">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0016">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0016">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0016">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0016">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0016">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0016">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0016">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0016">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0016">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0017">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0017">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0017">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0017">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0017">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0017">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0017">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0017">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0017">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0017">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0017">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0017">
     <title lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 1 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0018">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0018">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0018">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0018">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0018">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0018">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0018">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0018">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0018">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0018">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0018">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0018">
     <title lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 2 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0019">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0019">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0019">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0019">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0019">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0019">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0019">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0019">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0019">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0019">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0019">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0019">
     <title lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 3 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0020">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0020">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0020">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0020">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0020">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0020">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0020">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0020">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0020">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0020">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0020">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0020">
     <title lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 4 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0021">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0021">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0021">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0021">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0021">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0021">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0021">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0021">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0021">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0021">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0021">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0021">
     <title lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 5 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0022">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0022">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0022">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0022">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0022">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0022">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0022">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0022">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0022">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0022">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0022">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0022">
     <title lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 6 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0023">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0023">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0023">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0023">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0023">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0023">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0023">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0023">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0023">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0023">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0023">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0023">
     <title lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 7 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0024">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0024">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0024">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0024">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0024">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0024">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0024">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0024">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0024">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0024">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0024">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0024">
     <title lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 8 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0025">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0025">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0025">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0025">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0025">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0025">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0025">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0025">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0025">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0025">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0025">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0025">
     <title lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 9 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0026">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0026">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0026">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0026">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0026">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0026">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0026">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0026">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0026">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0026">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0026">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0026">
     <title lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</title>
     <desc lang="en">US: NETFLIX PPV 10 - | 8K EXCLUSIVE</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0027">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0027">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0027">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0027">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0027">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0027">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0027">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0027">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0027">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0027">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0027">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0027">
     <title lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 1 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105060000 +0000" stop="20261105120000 +0000" channel="ppv.netflix.0028">
+  <programme start="20261105080000 +0000" stop="20261105140000 +0000" channel="ppv.netflix.0028">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105120000 +0000" stop="20261105180000 +0000" channel="ppv.netflix.0028">
+  <programme start="20261105140000 +0000" stop="20261105200000 +0000" channel="ppv.netflix.0028">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261105180000 +0000" stop="20261106000000 +0000" channel="ppv.netflix.0028">
+  <programme start="20261105200000 +0000" stop="20261106020000 +0000" channel="ppv.netflix.0028">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ppv.netflix.0028">
+  <programme start="20261106020000 +0000" stop="20261106080000 +0000" channel="ppv.netflix.0028">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.netflix.0028">
+  <programme start="20261106080000 +0000" stop="20261106140000 +0000" channel="ppv.netflix.0028">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.netflix.0028">
+  <programme start="20261106140000 +0000" stop="20261106200000 +0000" channel="ppv.netflix.0028">
     <title lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</title>
     <desc lang="en">US| NETFLIX PPV 2 EVENT ONLY FHD</desc>
   </programme>
