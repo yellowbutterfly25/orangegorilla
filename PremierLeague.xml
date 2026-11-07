@@ -219,22 +219,6 @@
   <channel id="ppv.premier.league.0073">
     <display-name>Premier League 0073</display-name>
   </channel>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0001">
-    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
-  </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0001">
-    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
-  </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0001">
-    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
-  </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0001">
-    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
-  </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0001">
     <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
     <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
@@ -243,21 +227,21 @@
     <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
     <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0002">
-    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0001">
+    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0002">
-    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0001">
+    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0002">
-    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0001">
+    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0002">
-    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
-    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0001">
+    <title lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0002">
     <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
@@ -267,21 +251,21 @@
     <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
     <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0003">
-    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
-    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0002">
+    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0003">
-    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
-    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0002">
+    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0003">
-    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
-    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0002">
+    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0003">
-    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
-    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0002">
+    <title lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</title>
+    <desc lang="en">UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0003">
     <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
@@ -291,21 +275,21 @@
     <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
     <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0004">
-    <title lang="en">UK: EPL ARSENAL</title>
-    <desc lang="en">UK: EPL ARSENAL</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0003">
+    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
+    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0004">
-    <title lang="en">UK: EPL ARSENAL</title>
-    <desc lang="en">UK: EPL ARSENAL</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0003">
+    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
+    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0004">
-    <title lang="en">UK: EPL ARSENAL</title>
-    <desc lang="en">UK: EPL ARSENAL</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0003">
+    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
+    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0004">
-    <title lang="en">UK: EPL ARSENAL</title>
-    <desc lang="en">UK: EPL ARSENAL</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0003">
+    <title lang="en">UK: EPL AFC BOURNEMOUTH</title>
+    <desc lang="en">UK: EPL AFC BOURNEMOUTH</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0004">
     <title lang="en">UK: EPL ARSENAL</title>
@@ -315,21 +299,21 @@
     <title lang="en">UK: EPL ARSENAL</title>
     <desc lang="en">UK: EPL ARSENAL</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0005">
-    <title lang="en">UK: EPL ASTON VILLA</title>
-    <desc lang="en">UK: EPL ASTON VILLA</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0004">
+    <title lang="en">UK: EPL ARSENAL</title>
+    <desc lang="en">UK: EPL ARSENAL</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0005">
-    <title lang="en">UK: EPL ASTON VILLA</title>
-    <desc lang="en">UK: EPL ASTON VILLA</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0004">
+    <title lang="en">UK: EPL ARSENAL</title>
+    <desc lang="en">UK: EPL ARSENAL</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0005">
-    <title lang="en">UK: EPL ASTON VILLA</title>
-    <desc lang="en">UK: EPL ASTON VILLA</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0004">
+    <title lang="en">UK: EPL ARSENAL</title>
+    <desc lang="en">UK: EPL ARSENAL</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0005">
-    <title lang="en">UK: EPL ASTON VILLA</title>
-    <desc lang="en">UK: EPL ASTON VILLA</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0004">
+    <title lang="en">UK: EPL ARSENAL</title>
+    <desc lang="en">UK: EPL ARSENAL</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0005">
     <title lang="en">UK: EPL ASTON VILLA</title>
@@ -339,21 +323,21 @@
     <title lang="en">UK: EPL ASTON VILLA</title>
     <desc lang="en">UK: EPL ASTON VILLA</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0006">
-    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0005">
+    <title lang="en">UK: EPL ASTON VILLA</title>
+    <desc lang="en">UK: EPL ASTON VILLA</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0006">
-    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0005">
+    <title lang="en">UK: EPL ASTON VILLA</title>
+    <desc lang="en">UK: EPL ASTON VILLA</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0006">
-    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0005">
+    <title lang="en">UK: EPL ASTON VILLA</title>
+    <desc lang="en">UK: EPL ASTON VILLA</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0006">
-    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0005">
+    <title lang="en">UK: EPL ASTON VILLA</title>
+    <desc lang="en">UK: EPL ASTON VILLA</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0006">
     <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
@@ -363,21 +347,21 @@
     <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
     <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0007">
-    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0006">
+    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0007">
-    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0006">
+    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0007">
-    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0006">
+    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0007">
-    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
-    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0006">
+    <title lang="en">UK: EPL beIN ENGLISH 1 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 1 STABLE</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0007">
     <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
@@ -387,21 +371,21 @@
     <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
     <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0008">
-    <title lang="en">UK: EPL BRENTFORD</title>
-    <desc lang="en">UK: EPL BRENTFORD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0007">
+    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0008">
-    <title lang="en">UK: EPL BRENTFORD</title>
-    <desc lang="en">UK: EPL BRENTFORD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0007">
+    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0008">
-    <title lang="en">UK: EPL BRENTFORD</title>
-    <desc lang="en">UK: EPL BRENTFORD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0007">
+    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0008">
-    <title lang="en">UK: EPL BRENTFORD</title>
-    <desc lang="en">UK: EPL BRENTFORD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0007">
+    <title lang="en">UK: EPL beIN ENGLISH 2 STABLE</title>
+    <desc lang="en">UK: EPL beIN ENGLISH 2 STABLE</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0008">
     <title lang="en">UK: EPL BRENTFORD</title>
@@ -411,21 +395,21 @@
     <title lang="en">UK: EPL BRENTFORD</title>
     <desc lang="en">UK: EPL BRENTFORD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0009">
-    <title lang="en">UK: EPL BRIGHTON</title>
-    <desc lang="en">UK: EPL BRIGHTON</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0008">
+    <title lang="en">UK: EPL BRENTFORD</title>
+    <desc lang="en">UK: EPL BRENTFORD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0009">
-    <title lang="en">UK: EPL BRIGHTON</title>
-    <desc lang="en">UK: EPL BRIGHTON</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0008">
+    <title lang="en">UK: EPL BRENTFORD</title>
+    <desc lang="en">UK: EPL BRENTFORD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0009">
-    <title lang="en">UK: EPL BRIGHTON</title>
-    <desc lang="en">UK: EPL BRIGHTON</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0008">
+    <title lang="en">UK: EPL BRENTFORD</title>
+    <desc lang="en">UK: EPL BRENTFORD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0009">
-    <title lang="en">UK: EPL BRIGHTON</title>
-    <desc lang="en">UK: EPL BRIGHTON</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0008">
+    <title lang="en">UK: EPL BRENTFORD</title>
+    <desc lang="en">UK: EPL BRENTFORD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0009">
     <title lang="en">UK: EPL BRIGHTON</title>
@@ -435,21 +419,21 @@
     <title lang="en">UK: EPL BRIGHTON</title>
     <desc lang="en">UK: EPL BRIGHTON</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0010">
-    <title lang="en">UK: EPL BURNLEY</title>
-    <desc lang="en">UK: EPL BURNLEY</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0009">
+    <title lang="en">UK: EPL BRIGHTON</title>
+    <desc lang="en">UK: EPL BRIGHTON</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0010">
-    <title lang="en">UK: EPL BURNLEY</title>
-    <desc lang="en">UK: EPL BURNLEY</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0009">
+    <title lang="en">UK: EPL BRIGHTON</title>
+    <desc lang="en">UK: EPL BRIGHTON</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0010">
-    <title lang="en">UK: EPL BURNLEY</title>
-    <desc lang="en">UK: EPL BURNLEY</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0009">
+    <title lang="en">UK: EPL BRIGHTON</title>
+    <desc lang="en">UK: EPL BRIGHTON</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0010">
-    <title lang="en">UK: EPL BURNLEY</title>
-    <desc lang="en">UK: EPL BURNLEY</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0009">
+    <title lang="en">UK: EPL BRIGHTON</title>
+    <desc lang="en">UK: EPL BRIGHTON</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0010">
     <title lang="en">UK: EPL BURNLEY</title>
@@ -459,21 +443,21 @@
     <title lang="en">UK: EPL BURNLEY</title>
     <desc lang="en">UK: EPL BURNLEY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0011">
-    <title lang="en">UK: EPL CHELSEA</title>
-    <desc lang="en">UK: EPL CHELSEA</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0010">
+    <title lang="en">UK: EPL BURNLEY</title>
+    <desc lang="en">UK: EPL BURNLEY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0011">
-    <title lang="en">UK: EPL CHELSEA</title>
-    <desc lang="en">UK: EPL CHELSEA</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0010">
+    <title lang="en">UK: EPL BURNLEY</title>
+    <desc lang="en">UK: EPL BURNLEY</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0011">
-    <title lang="en">UK: EPL CHELSEA</title>
-    <desc lang="en">UK: EPL CHELSEA</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0010">
+    <title lang="en">UK: EPL BURNLEY</title>
+    <desc lang="en">UK: EPL BURNLEY</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0011">
-    <title lang="en">UK: EPL CHELSEA</title>
-    <desc lang="en">UK: EPL CHELSEA</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0010">
+    <title lang="en">UK: EPL BURNLEY</title>
+    <desc lang="en">UK: EPL BURNLEY</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0011">
     <title lang="en">UK: EPL CHELSEA</title>
@@ -483,21 +467,21 @@
     <title lang="en">UK: EPL CHELSEA</title>
     <desc lang="en">UK: EPL CHELSEA</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0012">
-    <title lang="en">UK: EPL COVENTRY CITY</title>
-    <desc lang="en">UK: EPL COVENTRY CITY</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0011">
+    <title lang="en">UK: EPL CHELSEA</title>
+    <desc lang="en">UK: EPL CHELSEA</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0012">
-    <title lang="en">UK: EPL COVENTRY CITY</title>
-    <desc lang="en">UK: EPL COVENTRY CITY</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0011">
+    <title lang="en">UK: EPL CHELSEA</title>
+    <desc lang="en">UK: EPL CHELSEA</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0012">
-    <title lang="en">UK: EPL COVENTRY CITY</title>
-    <desc lang="en">UK: EPL COVENTRY CITY</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0011">
+    <title lang="en">UK: EPL CHELSEA</title>
+    <desc lang="en">UK: EPL CHELSEA</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0012">
-    <title lang="en">UK: EPL COVENTRY CITY</title>
-    <desc lang="en">UK: EPL COVENTRY CITY</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0011">
+    <title lang="en">UK: EPL CHELSEA</title>
+    <desc lang="en">UK: EPL CHELSEA</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0012">
     <title lang="en">UK: EPL COVENTRY CITY</title>
@@ -507,21 +491,21 @@
     <title lang="en">UK: EPL COVENTRY CITY</title>
     <desc lang="en">UK: EPL COVENTRY CITY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0013">
-    <title lang="en">UK: EPL CRYSTAL PALACE</title>
-    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0012">
+    <title lang="en">UK: EPL COVENTRY CITY</title>
+    <desc lang="en">UK: EPL COVENTRY CITY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0013">
-    <title lang="en">UK: EPL CRYSTAL PALACE</title>
-    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0012">
+    <title lang="en">UK: EPL COVENTRY CITY</title>
+    <desc lang="en">UK: EPL COVENTRY CITY</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0013">
-    <title lang="en">UK: EPL CRYSTAL PALACE</title>
-    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0012">
+    <title lang="en">UK: EPL COVENTRY CITY</title>
+    <desc lang="en">UK: EPL COVENTRY CITY</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0013">
-    <title lang="en">UK: EPL CRYSTAL PALACE</title>
-    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0012">
+    <title lang="en">UK: EPL COVENTRY CITY</title>
+    <desc lang="en">UK: EPL COVENTRY CITY</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0013">
     <title lang="en">UK: EPL CRYSTAL PALACE</title>
@@ -531,21 +515,21 @@
     <title lang="en">UK: EPL CRYSTAL PALACE</title>
     <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0014">
-    <title lang="en">UK: EPL EVERTON</title>
-    <desc lang="en">UK: EPL EVERTON</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0013">
+    <title lang="en">UK: EPL CRYSTAL PALACE</title>
+    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0014">
-    <title lang="en">UK: EPL EVERTON</title>
-    <desc lang="en">UK: EPL EVERTON</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0013">
+    <title lang="en">UK: EPL CRYSTAL PALACE</title>
+    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0014">
-    <title lang="en">UK: EPL EVERTON</title>
-    <desc lang="en">UK: EPL EVERTON</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0013">
+    <title lang="en">UK: EPL CRYSTAL PALACE</title>
+    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0014">
-    <title lang="en">UK: EPL EVERTON</title>
-    <desc lang="en">UK: EPL EVERTON</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0013">
+    <title lang="en">UK: EPL CRYSTAL PALACE</title>
+    <desc lang="en">UK: EPL CRYSTAL PALACE</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0014">
     <title lang="en">UK: EPL EVERTON</title>
@@ -555,21 +539,21 @@
     <title lang="en">UK: EPL EVERTON</title>
     <desc lang="en">UK: EPL EVERTON</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0015">
-    <title lang="en">UK: EPL FULHAM</title>
-    <desc lang="en">UK: EPL FULHAM</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0014">
+    <title lang="en">UK: EPL EVERTON</title>
+    <desc lang="en">UK: EPL EVERTON</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0015">
-    <title lang="en">UK: EPL FULHAM</title>
-    <desc lang="en">UK: EPL FULHAM</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0014">
+    <title lang="en">UK: EPL EVERTON</title>
+    <desc lang="en">UK: EPL EVERTON</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0015">
-    <title lang="en">UK: EPL FULHAM</title>
-    <desc lang="en">UK: EPL FULHAM</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0014">
+    <title lang="en">UK: EPL EVERTON</title>
+    <desc lang="en">UK: EPL EVERTON</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0015">
-    <title lang="en">UK: EPL FULHAM</title>
-    <desc lang="en">UK: EPL FULHAM</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0014">
+    <title lang="en">UK: EPL EVERTON</title>
+    <desc lang="en">UK: EPL EVERTON</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0015">
     <title lang="en">UK: EPL FULHAM</title>
@@ -579,21 +563,21 @@
     <title lang="en">UK: EPL FULHAM</title>
     <desc lang="en">UK: EPL FULHAM</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0016">
-    <title lang="en">UK: EPL HULL CITY</title>
-    <desc lang="en">UK: EPL HULL CITY</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0015">
+    <title lang="en">UK: EPL FULHAM</title>
+    <desc lang="en">UK: EPL FULHAM</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0016">
-    <title lang="en">UK: EPL HULL CITY</title>
-    <desc lang="en">UK: EPL HULL CITY</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0015">
+    <title lang="en">UK: EPL FULHAM</title>
+    <desc lang="en">UK: EPL FULHAM</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0016">
-    <title lang="en">UK: EPL HULL CITY</title>
-    <desc lang="en">UK: EPL HULL CITY</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0015">
+    <title lang="en">UK: EPL FULHAM</title>
+    <desc lang="en">UK: EPL FULHAM</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0016">
-    <title lang="en">UK: EPL HULL CITY</title>
-    <desc lang="en">UK: EPL HULL CITY</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0015">
+    <title lang="en">UK: EPL FULHAM</title>
+    <desc lang="en">UK: EPL FULHAM</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0016">
     <title lang="en">UK: EPL HULL CITY</title>
@@ -603,21 +587,21 @@
     <title lang="en">UK: EPL HULL CITY</title>
     <desc lang="en">UK: EPL HULL CITY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0017">
-    <title lang="en">UK: EPL IPSWICH</title>
-    <desc lang="en">UK: EPL IPSWICH</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0016">
+    <title lang="en">UK: EPL HULL CITY</title>
+    <desc lang="en">UK: EPL HULL CITY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0017">
-    <title lang="en">UK: EPL IPSWICH</title>
-    <desc lang="en">UK: EPL IPSWICH</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0016">
+    <title lang="en">UK: EPL HULL CITY</title>
+    <desc lang="en">UK: EPL HULL CITY</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0017">
-    <title lang="en">UK: EPL IPSWICH</title>
-    <desc lang="en">UK: EPL IPSWICH</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0016">
+    <title lang="en">UK: EPL HULL CITY</title>
+    <desc lang="en">UK: EPL HULL CITY</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0017">
-    <title lang="en">UK: EPL IPSWICH</title>
-    <desc lang="en">UK: EPL IPSWICH</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0016">
+    <title lang="en">UK: EPL HULL CITY</title>
+    <desc lang="en">UK: EPL HULL CITY</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0017">
     <title lang="en">UK: EPL IPSWICH</title>
@@ -627,21 +611,21 @@
     <title lang="en">UK: EPL IPSWICH</title>
     <desc lang="en">UK: EPL IPSWICH</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0018">
-    <title lang="en">UK: EPL LEEDS</title>
-    <desc lang="en">UK: EPL LEEDS</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0017">
+    <title lang="en">UK: EPL IPSWICH</title>
+    <desc lang="en">UK: EPL IPSWICH</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0018">
-    <title lang="en">UK: EPL LEEDS</title>
-    <desc lang="en">UK: EPL LEEDS</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0017">
+    <title lang="en">UK: EPL IPSWICH</title>
+    <desc lang="en">UK: EPL IPSWICH</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0018">
-    <title lang="en">UK: EPL LEEDS</title>
-    <desc lang="en">UK: EPL LEEDS</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0017">
+    <title lang="en">UK: EPL IPSWICH</title>
+    <desc lang="en">UK: EPL IPSWICH</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0018">
-    <title lang="en">UK: EPL LEEDS</title>
-    <desc lang="en">UK: EPL LEEDS</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0017">
+    <title lang="en">UK: EPL IPSWICH</title>
+    <desc lang="en">UK: EPL IPSWICH</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0018">
     <title lang="en">UK: EPL LEEDS</title>
@@ -651,21 +635,21 @@
     <title lang="en">UK: EPL LEEDS</title>
     <desc lang="en">UK: EPL LEEDS</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0019">
-    <title lang="en">UK: EPL LEICESTER CITY</title>
-    <desc lang="en">UK: EPL LEICESTER CITY</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0018">
+    <title lang="en">UK: EPL LEEDS</title>
+    <desc lang="en">UK: EPL LEEDS</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0019">
-    <title lang="en">UK: EPL LEICESTER CITY</title>
-    <desc lang="en">UK: EPL LEICESTER CITY</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0018">
+    <title lang="en">UK: EPL LEEDS</title>
+    <desc lang="en">UK: EPL LEEDS</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0019">
-    <title lang="en">UK: EPL LEICESTER CITY</title>
-    <desc lang="en">UK: EPL LEICESTER CITY</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0018">
+    <title lang="en">UK: EPL LEEDS</title>
+    <desc lang="en">UK: EPL LEEDS</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0019">
-    <title lang="en">UK: EPL LEICESTER CITY</title>
-    <desc lang="en">UK: EPL LEICESTER CITY</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0018">
+    <title lang="en">UK: EPL LEEDS</title>
+    <desc lang="en">UK: EPL LEEDS</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0019">
     <title lang="en">UK: EPL LEICESTER CITY</title>
@@ -675,21 +659,21 @@
     <title lang="en">UK: EPL LEICESTER CITY</title>
     <desc lang="en">UK: EPL LEICESTER CITY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0020">
-    <title lang="en">UK: EPL LIVERPOOL</title>
-    <desc lang="en">UK: EPL LIVERPOOL</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0019">
+    <title lang="en">UK: EPL LEICESTER CITY</title>
+    <desc lang="en">UK: EPL LEICESTER CITY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0020">
-    <title lang="en">UK: EPL LIVERPOOL</title>
-    <desc lang="en">UK: EPL LIVERPOOL</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0019">
+    <title lang="en">UK: EPL LEICESTER CITY</title>
+    <desc lang="en">UK: EPL LEICESTER CITY</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0020">
-    <title lang="en">UK: EPL LIVERPOOL</title>
-    <desc lang="en">UK: EPL LIVERPOOL</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0019">
+    <title lang="en">UK: EPL LEICESTER CITY</title>
+    <desc lang="en">UK: EPL LEICESTER CITY</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0020">
-    <title lang="en">UK: EPL LIVERPOOL</title>
-    <desc lang="en">UK: EPL LIVERPOOL</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0019">
+    <title lang="en">UK: EPL LEICESTER CITY</title>
+    <desc lang="en">UK: EPL LEICESTER CITY</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0020">
     <title lang="en">UK: EPL LIVERPOOL</title>
@@ -699,21 +683,21 @@
     <title lang="en">UK: EPL LIVERPOOL</title>
     <desc lang="en">UK: EPL LIVERPOOL</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0021">
-    <title lang="en">UK: EPL LUTON TOWN</title>
-    <desc lang="en">UK: EPL LUTON TOWN</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0020">
+    <title lang="en">UK: EPL LIVERPOOL</title>
+    <desc lang="en">UK: EPL LIVERPOOL</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0021">
-    <title lang="en">UK: EPL LUTON TOWN</title>
-    <desc lang="en">UK: EPL LUTON TOWN</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0020">
+    <title lang="en">UK: EPL LIVERPOOL</title>
+    <desc lang="en">UK: EPL LIVERPOOL</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0021">
-    <title lang="en">UK: EPL LUTON TOWN</title>
-    <desc lang="en">UK: EPL LUTON TOWN</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0020">
+    <title lang="en">UK: EPL LIVERPOOL</title>
+    <desc lang="en">UK: EPL LIVERPOOL</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0021">
-    <title lang="en">UK: EPL LUTON TOWN</title>
-    <desc lang="en">UK: EPL LUTON TOWN</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0020">
+    <title lang="en">UK: EPL LIVERPOOL</title>
+    <desc lang="en">UK: EPL LIVERPOOL</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0021">
     <title lang="en">UK: EPL LUTON TOWN</title>
@@ -723,21 +707,21 @@
     <title lang="en">UK: EPL LUTON TOWN</title>
     <desc lang="en">UK: EPL LUTON TOWN</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0022">
-    <title lang="en">UK: EPL MANCHESTER CITY</title>
-    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0021">
+    <title lang="en">UK: EPL LUTON TOWN</title>
+    <desc lang="en">UK: EPL LUTON TOWN</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0022">
-    <title lang="en">UK: EPL MANCHESTER CITY</title>
-    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0021">
+    <title lang="en">UK: EPL LUTON TOWN</title>
+    <desc lang="en">UK: EPL LUTON TOWN</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0022">
-    <title lang="en">UK: EPL MANCHESTER CITY</title>
-    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0021">
+    <title lang="en">UK: EPL LUTON TOWN</title>
+    <desc lang="en">UK: EPL LUTON TOWN</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0022">
-    <title lang="en">UK: EPL MANCHESTER CITY</title>
-    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0021">
+    <title lang="en">UK: EPL LUTON TOWN</title>
+    <desc lang="en">UK: EPL LUTON TOWN</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0022">
     <title lang="en">UK: EPL MANCHESTER CITY</title>
@@ -747,21 +731,21 @@
     <title lang="en">UK: EPL MANCHESTER CITY</title>
     <desc lang="en">UK: EPL MANCHESTER CITY</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0023">
-    <title lang="en">UK: EPL MANCHESTER UTD</title>
-    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0022">
+    <title lang="en">UK: EPL MANCHESTER CITY</title>
+    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0023">
-    <title lang="en">UK: EPL MANCHESTER UTD</title>
-    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0022">
+    <title lang="en">UK: EPL MANCHESTER CITY</title>
+    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0023">
-    <title lang="en">UK: EPL MANCHESTER UTD</title>
-    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0022">
+    <title lang="en">UK: EPL MANCHESTER CITY</title>
+    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0023">
-    <title lang="en">UK: EPL MANCHESTER UTD</title>
-    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0022">
+    <title lang="en">UK: EPL MANCHESTER CITY</title>
+    <desc lang="en">UK: EPL MANCHESTER CITY</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0023">
     <title lang="en">UK: EPL MANCHESTER UTD</title>
@@ -771,21 +755,21 @@
     <title lang="en">UK: EPL MANCHESTER UTD</title>
     <desc lang="en">UK: EPL MANCHESTER UTD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0024">
-    <title lang="en">UK: EPL NEWCASTLE UTD</title>
-    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0023">
+    <title lang="en">UK: EPL MANCHESTER UTD</title>
+    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0024">
-    <title lang="en">UK: EPL NEWCASTLE UTD</title>
-    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0023">
+    <title lang="en">UK: EPL MANCHESTER UTD</title>
+    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0024">
-    <title lang="en">UK: EPL NEWCASTLE UTD</title>
-    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0023">
+    <title lang="en">UK: EPL MANCHESTER UTD</title>
+    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0024">
-    <title lang="en">UK: EPL NEWCASTLE UTD</title>
-    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0023">
+    <title lang="en">UK: EPL MANCHESTER UTD</title>
+    <desc lang="en">UK: EPL MANCHESTER UTD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0024">
     <title lang="en">UK: EPL NEWCASTLE UTD</title>
@@ -795,21 +779,21 @@
     <title lang="en">UK: EPL NEWCASTLE UTD</title>
     <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0025">
-    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
-    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0024">
+    <title lang="en">UK: EPL NEWCASTLE UTD</title>
+    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0025">
-    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
-    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0024">
+    <title lang="en">UK: EPL NEWCASTLE UTD</title>
+    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0025">
-    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
-    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0024">
+    <title lang="en">UK: EPL NEWCASTLE UTD</title>
+    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0025">
-    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
-    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0024">
+    <title lang="en">UK: EPL NEWCASTLE UTD</title>
+    <desc lang="en">UK: EPL NEWCASTLE UTD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0025">
     <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
@@ -819,21 +803,21 @@
     <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
     <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0026">
-    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
-    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0025">
+    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
+    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0026">
-    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
-    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0025">
+    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
+    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0026">
-    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
-    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0025">
+    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
+    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0026">
-    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
-    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0025">
+    <title lang="en">UK: EPL NOTTINGHAM FOREST</title>
+    <desc lang="en">UK: EPL NOTTINGHAM FOREST</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0026">
     <title lang="en">UK: EPL SHEFFIELD UNITED</title>
@@ -843,21 +827,21 @@
     <title lang="en">UK: EPL SHEFFIELD UNITED</title>
     <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0027">
-    <title lang="en">UK: EPL SOUTHAMPTON</title>
-    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0026">
+    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
+    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0027">
-    <title lang="en">UK: EPL SOUTHAMPTON</title>
-    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0026">
+    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
+    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0027">
-    <title lang="en">UK: EPL SOUTHAMPTON</title>
-    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0026">
+    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
+    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0027">
-    <title lang="en">UK: EPL SOUTHAMPTON</title>
-    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0026">
+    <title lang="en">UK: EPL SHEFFIELD UNITED</title>
+    <desc lang="en">UK: EPL SHEFFIELD UNITED</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0027">
     <title lang="en">UK: EPL SOUTHAMPTON</title>
@@ -867,21 +851,21 @@
     <title lang="en">UK: EPL SOUTHAMPTON</title>
     <desc lang="en">UK: EPL SOUTHAMPTON</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0028">
-    <title lang="en">UK: EPL SUNDERLAND</title>
-    <desc lang="en">UK: EPL SUNDERLAND</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0027">
+    <title lang="en">UK: EPL SOUTHAMPTON</title>
+    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0028">
-    <title lang="en">UK: EPL SUNDERLAND</title>
-    <desc lang="en">UK: EPL SUNDERLAND</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0027">
+    <title lang="en">UK: EPL SOUTHAMPTON</title>
+    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0028">
-    <title lang="en">UK: EPL SUNDERLAND</title>
-    <desc lang="en">UK: EPL SUNDERLAND</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0027">
+    <title lang="en">UK: EPL SOUTHAMPTON</title>
+    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0028">
-    <title lang="en">UK: EPL SUNDERLAND</title>
-    <desc lang="en">UK: EPL SUNDERLAND</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0027">
+    <title lang="en">UK: EPL SOUTHAMPTON</title>
+    <desc lang="en">UK: EPL SOUTHAMPTON</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0028">
     <title lang="en">UK: EPL SUNDERLAND</title>
@@ -891,21 +875,21 @@
     <title lang="en">UK: EPL SUNDERLAND</title>
     <desc lang="en">UK: EPL SUNDERLAND</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0029">
-    <title lang="en">UK: EPL TOTTENHAM</title>
-    <desc lang="en">UK: EPL TOTTENHAM</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0028">
+    <title lang="en">UK: EPL SUNDERLAND</title>
+    <desc lang="en">UK: EPL SUNDERLAND</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0029">
-    <title lang="en">UK: EPL TOTTENHAM</title>
-    <desc lang="en">UK: EPL TOTTENHAM</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0028">
+    <title lang="en">UK: EPL SUNDERLAND</title>
+    <desc lang="en">UK: EPL SUNDERLAND</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0029">
-    <title lang="en">UK: EPL TOTTENHAM</title>
-    <desc lang="en">UK: EPL TOTTENHAM</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0028">
+    <title lang="en">UK: EPL SUNDERLAND</title>
+    <desc lang="en">UK: EPL SUNDERLAND</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0029">
-    <title lang="en">UK: EPL TOTTENHAM</title>
-    <desc lang="en">UK: EPL TOTTENHAM</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0028">
+    <title lang="en">UK: EPL SUNDERLAND</title>
+    <desc lang="en">UK: EPL SUNDERLAND</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0029">
     <title lang="en">UK: EPL TOTTENHAM</title>
@@ -915,21 +899,21 @@
     <title lang="en">UK: EPL TOTTENHAM</title>
     <desc lang="en">UK: EPL TOTTENHAM</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0030">
-    <title lang="en">UK: EPL WEST HAM</title>
-    <desc lang="en">UK: EPL WEST HAM</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0029">
+    <title lang="en">UK: EPL TOTTENHAM</title>
+    <desc lang="en">UK: EPL TOTTENHAM</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0030">
-    <title lang="en">UK: EPL WEST HAM</title>
-    <desc lang="en">UK: EPL WEST HAM</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0029">
+    <title lang="en">UK: EPL TOTTENHAM</title>
+    <desc lang="en">UK: EPL TOTTENHAM</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0030">
-    <title lang="en">UK: EPL WEST HAM</title>
-    <desc lang="en">UK: EPL WEST HAM</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0029">
+    <title lang="en">UK: EPL TOTTENHAM</title>
+    <desc lang="en">UK: EPL TOTTENHAM</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0030">
-    <title lang="en">UK: EPL WEST HAM</title>
-    <desc lang="en">UK: EPL WEST HAM</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0029">
+    <title lang="en">UK: EPL TOTTENHAM</title>
+    <desc lang="en">UK: EPL TOTTENHAM</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0030">
     <title lang="en">UK: EPL WEST HAM</title>
@@ -939,21 +923,21 @@
     <title lang="en">UK: EPL WEST HAM</title>
     <desc lang="en">UK: EPL WEST HAM</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0031">
-    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
-    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0030">
+    <title lang="en">UK: EPL WEST HAM</title>
+    <desc lang="en">UK: EPL WEST HAM</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0031">
-    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
-    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0030">
+    <title lang="en">UK: EPL WEST HAM</title>
+    <desc lang="en">UK: EPL WEST HAM</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0031">
-    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
-    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0030">
+    <title lang="en">UK: EPL WEST HAM</title>
+    <desc lang="en">UK: EPL WEST HAM</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0031">
-    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
-    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0030">
+    <title lang="en">UK: EPL WEST HAM</title>
+    <desc lang="en">UK: EPL WEST HAM</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0031">
     <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
@@ -963,21 +947,21 @@
     <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
     <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0032">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0031">
+    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
+    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0032">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0031">
+    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
+    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0032">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0031">
+    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
+    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0032">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0031">
+    <title lang="en">UK: EPL WOLVERHAMPTON WANDERERS</title>
+    <desc lang="en">UK: EPL WOLVERHAMPTON WANDERERS</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0032">
     <title lang="en">Premier League+ 1</title>
@@ -987,21 +971,21 @@
     <title lang="en">Premier League+ 1</title>
     <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0033">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0032">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0033">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0032">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0033">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0032">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0033">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0032">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0033">
     <title lang="en">Premier League+ 2</title>
@@ -1011,21 +995,21 @@
     <title lang="en">Premier League+ 2</title>
     <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0034">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0033">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0034">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0033">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0034">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0033">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0034">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0033">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0034">
     <title lang="en">Premier League+ 3</title>
@@ -1035,21 +1019,21 @@
     <title lang="en">Premier League+ 3</title>
     <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0035">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0034">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0035">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0034">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0035">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0034">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0035">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0034">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0035">
     <title lang="en">Premier League+ 4</title>
@@ -1059,21 +1043,21 @@
     <title lang="en">Premier League+ 4</title>
     <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0036">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0035">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0036">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0035">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0036">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0035">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0036">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0035">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0036">
     <title lang="en">Premier League+ 5</title>
@@ -1083,21 +1067,21 @@
     <title lang="en">Premier League+ 5</title>
     <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0037">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0036">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0037">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0036">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0037">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0036">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0037">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0036">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0037">
     <title lang="en">Premier League+ 6</title>
@@ -1107,21 +1091,21 @@
     <title lang="en">Premier League+ 6</title>
     <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0038">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0037">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0038">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0037">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0038">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0037">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0038">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0037">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0038">
     <title lang="en">Premier League+ 7</title>
@@ -1131,21 +1115,21 @@
     <title lang="en">Premier League+ 7</title>
     <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0039">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0038">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0039">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0038">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0039">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0038">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0039">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0038">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0039">
     <title lang="en">Premier League+ 8</title>
@@ -1155,21 +1139,21 @@
     <title lang="en">Premier League+ 8</title>
     <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0040">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0039">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0040">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0039">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0040">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0039">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0040">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0039">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0040">
     <title lang="en">Premier League+ 9</title>
@@ -1179,21 +1163,21 @@
     <title lang="en">Premier League+ 9</title>
     <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0041">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0040">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0041">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0040">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0041">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0040">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0041">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0040">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0041">
     <title lang="en">Premier League+ 10</title>
@@ -1203,21 +1187,21 @@
     <title lang="en">Premier League+ 10</title>
     <desc lang="en">Premier League+ 10</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0042">
-    <title lang="en">EPL - 4K 01 FHD</title>
-    <desc lang="en">EPL - 4K 01 FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0041">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0042">
-    <title lang="en">EPL - 4K 01 FHD</title>
-    <desc lang="en">EPL - 4K 01 FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0041">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0042">
-    <title lang="en">EPL - 4K 01 FHD</title>
-    <desc lang="en">EPL - 4K 01 FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0041">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0042">
-    <title lang="en">EPL - 4K 01 FHD</title>
-    <desc lang="en">EPL - 4K 01 FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0041">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0042">
     <title lang="en">EPL - 4K 01 FHD</title>
@@ -1227,21 +1211,21 @@
     <title lang="en">EPL - 4K 01 FHD</title>
     <desc lang="en">EPL - 4K 01 FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0043">
-    <title lang="en">EPL - 4K 02 FHD</title>
-    <desc lang="en">EPL - 4K 02 FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0042">
+    <title lang="en">EPL - 4K 01 FHD</title>
+    <desc lang="en">EPL - 4K 01 FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0043">
-    <title lang="en">EPL - 4K 02 FHD</title>
-    <desc lang="en">EPL - 4K 02 FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0042">
+    <title lang="en">EPL - 4K 01 FHD</title>
+    <desc lang="en">EPL - 4K 01 FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0043">
-    <title lang="en">EPL - 4K 02 FHD</title>
-    <desc lang="en">EPL - 4K 02 FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0042">
+    <title lang="en">EPL - 4K 01 FHD</title>
+    <desc lang="en">EPL - 4K 01 FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0043">
-    <title lang="en">EPL - 4K 02 FHD</title>
-    <desc lang="en">EPL - 4K 02 FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0042">
+    <title lang="en">EPL - 4K 01 FHD</title>
+    <desc lang="en">EPL - 4K 01 FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0043">
     <title lang="en">EPL - 4K 02 FHD</title>
@@ -1251,21 +1235,21 @@
     <title lang="en">EPL - 4K 02 FHD</title>
     <desc lang="en">EPL - 4K 02 FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0044">
-    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
-    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0043">
+    <title lang="en">EPL - 4K 02 FHD</title>
+    <desc lang="en">EPL - 4K 02 FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0044">
-    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
-    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0043">
+    <title lang="en">EPL - 4K 02 FHD</title>
+    <desc lang="en">EPL - 4K 02 FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0044">
-    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
-    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0043">
+    <title lang="en">EPL - 4K 02 FHD</title>
+    <desc lang="en">EPL - 4K 02 FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0044">
-    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
-    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0043">
+    <title lang="en">EPL - 4K 02 FHD</title>
+    <desc lang="en">EPL - 4K 02 FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0044">
     <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
@@ -1275,21 +1259,21 @@
     <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
     <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0045">
-    <title lang="en">EPL - ARSENAL FHD</title>
-    <desc lang="en">EPL - ARSENAL FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0044">
+    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
+    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0045">
-    <title lang="en">EPL - ARSENAL FHD</title>
-    <desc lang="en">EPL - ARSENAL FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0044">
+    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
+    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0045">
-    <title lang="en">EPL - ARSENAL FHD</title>
-    <desc lang="en">EPL - ARSENAL FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0044">
+    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
+    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0045">
-    <title lang="en">EPL - ARSENAL FHD</title>
-    <desc lang="en">EPL - ARSENAL FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0044">
+    <title lang="en">EPL - AFC BOURNEMOUTH FHD</title>
+    <desc lang="en">EPL - AFC BOURNEMOUTH FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0045">
     <title lang="en">EPL - ARSENAL FHD</title>
@@ -1299,21 +1283,21 @@
     <title lang="en">EPL - ARSENAL FHD</title>
     <desc lang="en">EPL - ARSENAL FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0046">
-    <title lang="en">EPL - ASTON VILLA FHD</title>
-    <desc lang="en">EPL - ASTON VILLA FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0045">
+    <title lang="en">EPL - ARSENAL FHD</title>
+    <desc lang="en">EPL - ARSENAL FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0046">
-    <title lang="en">EPL - ASTON VILLA FHD</title>
-    <desc lang="en">EPL - ASTON VILLA FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0045">
+    <title lang="en">EPL - ARSENAL FHD</title>
+    <desc lang="en">EPL - ARSENAL FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0046">
-    <title lang="en">EPL - ASTON VILLA FHD</title>
-    <desc lang="en">EPL - ASTON VILLA FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0045">
+    <title lang="en">EPL - ARSENAL FHD</title>
+    <desc lang="en">EPL - ARSENAL FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0046">
-    <title lang="en">EPL - ASTON VILLA FHD</title>
-    <desc lang="en">EPL - ASTON VILLA FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0045">
+    <title lang="en">EPL - ARSENAL FHD</title>
+    <desc lang="en">EPL - ARSENAL FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0046">
     <title lang="en">EPL - ASTON VILLA FHD</title>
@@ -1323,21 +1307,21 @@
     <title lang="en">EPL - ASTON VILLA FHD</title>
     <desc lang="en">EPL - ASTON VILLA FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0047">
-    <title lang="en">EPL - BRENTFORD FHD</title>
-    <desc lang="en">EPL - BRENTFORD FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0046">
+    <title lang="en">EPL - ASTON VILLA FHD</title>
+    <desc lang="en">EPL - ASTON VILLA FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0047">
-    <title lang="en">EPL - BRENTFORD FHD</title>
-    <desc lang="en">EPL - BRENTFORD FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0046">
+    <title lang="en">EPL - ASTON VILLA FHD</title>
+    <desc lang="en">EPL - ASTON VILLA FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0047">
-    <title lang="en">EPL - BRENTFORD FHD</title>
-    <desc lang="en">EPL - BRENTFORD FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0046">
+    <title lang="en">EPL - ASTON VILLA FHD</title>
+    <desc lang="en">EPL - ASTON VILLA FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0047">
-    <title lang="en">EPL - BRENTFORD FHD</title>
-    <desc lang="en">EPL - BRENTFORD FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0046">
+    <title lang="en">EPL - ASTON VILLA FHD</title>
+    <desc lang="en">EPL - ASTON VILLA FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0047">
     <title lang="en">EPL - BRENTFORD FHD</title>
@@ -1347,21 +1331,21 @@
     <title lang="en">EPL - BRENTFORD FHD</title>
     <desc lang="en">EPL - BRENTFORD FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0048">
-    <title lang="en">EPL - BRIGHTON FHD</title>
-    <desc lang="en">EPL - BRIGHTON FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0047">
+    <title lang="en">EPL - BRENTFORD FHD</title>
+    <desc lang="en">EPL - BRENTFORD FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0048">
-    <title lang="en">EPL - BRIGHTON FHD</title>
-    <desc lang="en">EPL - BRIGHTON FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0047">
+    <title lang="en">EPL - BRENTFORD FHD</title>
+    <desc lang="en">EPL - BRENTFORD FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0048">
-    <title lang="en">EPL - BRIGHTON FHD</title>
-    <desc lang="en">EPL - BRIGHTON FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0047">
+    <title lang="en">EPL - BRENTFORD FHD</title>
+    <desc lang="en">EPL - BRENTFORD FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0048">
-    <title lang="en">EPL - BRIGHTON FHD</title>
-    <desc lang="en">EPL - BRIGHTON FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0047">
+    <title lang="en">EPL - BRENTFORD FHD</title>
+    <desc lang="en">EPL - BRENTFORD FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0048">
     <title lang="en">EPL - BRIGHTON FHD</title>
@@ -1371,21 +1355,21 @@
     <title lang="en">EPL - BRIGHTON FHD</title>
     <desc lang="en">EPL - BRIGHTON FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0049">
-    <title lang="en">EPL - CHELSEA FHD</title>
-    <desc lang="en">EPL - CHELSEA FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0048">
+    <title lang="en">EPL - BRIGHTON FHD</title>
+    <desc lang="en">EPL - BRIGHTON FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0049">
-    <title lang="en">EPL - CHELSEA FHD</title>
-    <desc lang="en">EPL - CHELSEA FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0048">
+    <title lang="en">EPL - BRIGHTON FHD</title>
+    <desc lang="en">EPL - BRIGHTON FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0049">
-    <title lang="en">EPL - CHELSEA FHD</title>
-    <desc lang="en">EPL - CHELSEA FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0048">
+    <title lang="en">EPL - BRIGHTON FHD</title>
+    <desc lang="en">EPL - BRIGHTON FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0049">
-    <title lang="en">EPL - CHELSEA FHD</title>
-    <desc lang="en">EPL - CHELSEA FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0048">
+    <title lang="en">EPL - BRIGHTON FHD</title>
+    <desc lang="en">EPL - BRIGHTON FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0049">
     <title lang="en">EPL - CHELSEA FHD</title>
@@ -1395,21 +1379,21 @@
     <title lang="en">EPL - CHELSEA FHD</title>
     <desc lang="en">EPL - CHELSEA FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0050">
-    <title lang="en">EPL - COVENTRY CITY FHD</title>
-    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0049">
+    <title lang="en">EPL - CHELSEA FHD</title>
+    <desc lang="en">EPL - CHELSEA FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0050">
-    <title lang="en">EPL - COVENTRY CITY FHD</title>
-    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0049">
+    <title lang="en">EPL - CHELSEA FHD</title>
+    <desc lang="en">EPL - CHELSEA FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0050">
-    <title lang="en">EPL - COVENTRY CITY FHD</title>
-    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0049">
+    <title lang="en">EPL - CHELSEA FHD</title>
+    <desc lang="en">EPL - CHELSEA FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0050">
-    <title lang="en">EPL - COVENTRY CITY FHD</title>
-    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0049">
+    <title lang="en">EPL - CHELSEA FHD</title>
+    <desc lang="en">EPL - CHELSEA FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0050">
     <title lang="en">EPL - COVENTRY CITY FHD</title>
@@ -1419,21 +1403,21 @@
     <title lang="en">EPL - COVENTRY CITY FHD</title>
     <desc lang="en">EPL - COVENTRY CITY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0051">
-    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
-    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0050">
+    <title lang="en">EPL - COVENTRY CITY FHD</title>
+    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0051">
-    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
-    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0050">
+    <title lang="en">EPL - COVENTRY CITY FHD</title>
+    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0051">
-    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
-    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0050">
+    <title lang="en">EPL - COVENTRY CITY FHD</title>
+    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0051">
-    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
-    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0050">
+    <title lang="en">EPL - COVENTRY CITY FHD</title>
+    <desc lang="en">EPL - COVENTRY CITY FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0051">
     <title lang="en">EPL - CRYSTAL PALACE FHD</title>
@@ -1443,21 +1427,21 @@
     <title lang="en">EPL - CRYSTAL PALACE FHD</title>
     <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0052">
-    <title lang="en">EPL - EVERTON FHD</title>
-    <desc lang="en">EPL - EVERTON FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0051">
+    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
+    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0052">
-    <title lang="en">EPL - EVERTON FHD</title>
-    <desc lang="en">EPL - EVERTON FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0051">
+    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
+    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0052">
-    <title lang="en">EPL - EVERTON FHD</title>
-    <desc lang="en">EPL - EVERTON FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0051">
+    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
+    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0052">
-    <title lang="en">EPL - EVERTON FHD</title>
-    <desc lang="en">EPL - EVERTON FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0051">
+    <title lang="en">EPL - CRYSTAL PALACE FHD</title>
+    <desc lang="en">EPL - CRYSTAL PALACE FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0052">
     <title lang="en">EPL - EVERTON FHD</title>
@@ -1467,21 +1451,21 @@
     <title lang="en">EPL - EVERTON FHD</title>
     <desc lang="en">EPL - EVERTON FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0053">
-    <title lang="en">EPL - FULHAM FHD</title>
-    <desc lang="en">EPL - FULHAM FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0052">
+    <title lang="en">EPL - EVERTON FHD</title>
+    <desc lang="en">EPL - EVERTON FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0053">
-    <title lang="en">EPL - FULHAM FHD</title>
-    <desc lang="en">EPL - FULHAM FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0052">
+    <title lang="en">EPL - EVERTON FHD</title>
+    <desc lang="en">EPL - EVERTON FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0053">
-    <title lang="en">EPL - FULHAM FHD</title>
-    <desc lang="en">EPL - FULHAM FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0052">
+    <title lang="en">EPL - EVERTON FHD</title>
+    <desc lang="en">EPL - EVERTON FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0053">
-    <title lang="en">EPL - FULHAM FHD</title>
-    <desc lang="en">EPL - FULHAM FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0052">
+    <title lang="en">EPL - EVERTON FHD</title>
+    <desc lang="en">EPL - EVERTON FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0053">
     <title lang="en">EPL - FULHAM FHD</title>
@@ -1491,21 +1475,21 @@
     <title lang="en">EPL - FULHAM FHD</title>
     <desc lang="en">EPL - FULHAM FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0054">
-    <title lang="en">EPL - HULL CITY FHD</title>
-    <desc lang="en">EPL - HULL CITY FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0053">
+    <title lang="en">EPL - FULHAM FHD</title>
+    <desc lang="en">EPL - FULHAM FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0054">
-    <title lang="en">EPL - HULL CITY FHD</title>
-    <desc lang="en">EPL - HULL CITY FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0053">
+    <title lang="en">EPL - FULHAM FHD</title>
+    <desc lang="en">EPL - FULHAM FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0054">
-    <title lang="en">EPL - HULL CITY FHD</title>
-    <desc lang="en">EPL - HULL CITY FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0053">
+    <title lang="en">EPL - FULHAM FHD</title>
+    <desc lang="en">EPL - FULHAM FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0054">
-    <title lang="en">EPL - HULL CITY FHD</title>
-    <desc lang="en">EPL - HULL CITY FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0053">
+    <title lang="en">EPL - FULHAM FHD</title>
+    <desc lang="en">EPL - FULHAM FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0054">
     <title lang="en">EPL - HULL CITY FHD</title>
@@ -1515,21 +1499,21 @@
     <title lang="en">EPL - HULL CITY FHD</title>
     <desc lang="en">EPL - HULL CITY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0055">
-    <title lang="en">EPL - IPSWICH TOWN FHD</title>
-    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0054">
+    <title lang="en">EPL - HULL CITY FHD</title>
+    <desc lang="en">EPL - HULL CITY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0055">
-    <title lang="en">EPL - IPSWICH TOWN FHD</title>
-    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0054">
+    <title lang="en">EPL - HULL CITY FHD</title>
+    <desc lang="en">EPL - HULL CITY FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0055">
-    <title lang="en">EPL - IPSWICH TOWN FHD</title>
-    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0054">
+    <title lang="en">EPL - HULL CITY FHD</title>
+    <desc lang="en">EPL - HULL CITY FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0055">
-    <title lang="en">EPL - IPSWICH TOWN FHD</title>
-    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0054">
+    <title lang="en">EPL - HULL CITY FHD</title>
+    <desc lang="en">EPL - HULL CITY FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0055">
     <title lang="en">EPL - IPSWICH TOWN FHD</title>
@@ -1539,21 +1523,21 @@
     <title lang="en">EPL - IPSWICH TOWN FHD</title>
     <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0056">
-    <title lang="en">EPL - LEEDS UNITED FHD</title>
-    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0055">
+    <title lang="en">EPL - IPSWICH TOWN FHD</title>
+    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0056">
-    <title lang="en">EPL - LEEDS UNITED FHD</title>
-    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0055">
+    <title lang="en">EPL - IPSWICH TOWN FHD</title>
+    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0056">
-    <title lang="en">EPL - LEEDS UNITED FHD</title>
-    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0055">
+    <title lang="en">EPL - IPSWICH TOWN FHD</title>
+    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0056">
-    <title lang="en">EPL - LEEDS UNITED FHD</title>
-    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0055">
+    <title lang="en">EPL - IPSWICH TOWN FHD</title>
+    <desc lang="en">EPL - IPSWICH TOWN FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0056">
     <title lang="en">EPL - LEEDS UNITED FHD</title>
@@ -1563,21 +1547,21 @@
     <title lang="en">EPL - LEEDS UNITED FHD</title>
     <desc lang="en">EPL - LEEDS UNITED FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0057">
-    <title lang="en">EPL - LIVERPOOL FHD</title>
-    <desc lang="en">EPL - LIVERPOOL FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0056">
+    <title lang="en">EPL - LEEDS UNITED FHD</title>
+    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0057">
-    <title lang="en">EPL - LIVERPOOL FHD</title>
-    <desc lang="en">EPL - LIVERPOOL FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0056">
+    <title lang="en">EPL - LEEDS UNITED FHD</title>
+    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0057">
-    <title lang="en">EPL - LIVERPOOL FHD</title>
-    <desc lang="en">EPL - LIVERPOOL FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0056">
+    <title lang="en">EPL - LEEDS UNITED FHD</title>
+    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0057">
-    <title lang="en">EPL - LIVERPOOL FHD</title>
-    <desc lang="en">EPL - LIVERPOOL FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0056">
+    <title lang="en">EPL - LEEDS UNITED FHD</title>
+    <desc lang="en">EPL - LEEDS UNITED FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0057">
     <title lang="en">EPL - LIVERPOOL FHD</title>
@@ -1587,21 +1571,21 @@
     <title lang="en">EPL - LIVERPOOL FHD</title>
     <desc lang="en">EPL - LIVERPOOL FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0058">
-    <title lang="en">EPL - MANCHESTER CITY FHD</title>
-    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0057">
+    <title lang="en">EPL - LIVERPOOL FHD</title>
+    <desc lang="en">EPL - LIVERPOOL FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0058">
-    <title lang="en">EPL - MANCHESTER CITY FHD</title>
-    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0057">
+    <title lang="en">EPL - LIVERPOOL FHD</title>
+    <desc lang="en">EPL - LIVERPOOL FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0058">
-    <title lang="en">EPL - MANCHESTER CITY FHD</title>
-    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0057">
+    <title lang="en">EPL - LIVERPOOL FHD</title>
+    <desc lang="en">EPL - LIVERPOOL FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0058">
-    <title lang="en">EPL - MANCHESTER CITY FHD</title>
-    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0057">
+    <title lang="en">EPL - LIVERPOOL FHD</title>
+    <desc lang="en">EPL - LIVERPOOL FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0058">
     <title lang="en">EPL - MANCHESTER CITY FHD</title>
@@ -1611,21 +1595,21 @@
     <title lang="en">EPL - MANCHESTER CITY FHD</title>
     <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0059">
-    <title lang="en">EPL - MANCHESTER UTD FHD</title>
-    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0058">
+    <title lang="en">EPL - MANCHESTER CITY FHD</title>
+    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0059">
-    <title lang="en">EPL - MANCHESTER UTD FHD</title>
-    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0058">
+    <title lang="en">EPL - MANCHESTER CITY FHD</title>
+    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0059">
-    <title lang="en">EPL - MANCHESTER UTD FHD</title>
-    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0058">
+    <title lang="en">EPL - MANCHESTER CITY FHD</title>
+    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0059">
-    <title lang="en">EPL - MANCHESTER UTD FHD</title>
-    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0058">
+    <title lang="en">EPL - MANCHESTER CITY FHD</title>
+    <desc lang="en">EPL - MANCHESTER CITY FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0059">
     <title lang="en">EPL - MANCHESTER UTD FHD</title>
@@ -1635,21 +1619,21 @@
     <title lang="en">EPL - MANCHESTER UTD FHD</title>
     <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0060">
-    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
-    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0059">
+    <title lang="en">EPL - MANCHESTER UTD FHD</title>
+    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0060">
-    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
-    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0059">
+    <title lang="en">EPL - MANCHESTER UTD FHD</title>
+    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0060">
-    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
-    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0059">
+    <title lang="en">EPL - MANCHESTER UTD FHD</title>
+    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0060">
-    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
-    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0059">
+    <title lang="en">EPL - MANCHESTER UTD FHD</title>
+    <desc lang="en">EPL - MANCHESTER UTD FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0060">
     <title lang="en">EPL - NEWCASTLE UTD FHD</title>
@@ -1659,21 +1643,21 @@
     <title lang="en">EPL - NEWCASTLE UTD FHD</title>
     <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0061">
-    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
-    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0060">
+    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
+    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0061">
-    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
-    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0060">
+    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
+    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0061">
-    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
-    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0060">
+    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
+    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0061">
-    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
-    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0060">
+    <title lang="en">EPL - NEWCASTLE UTD FHD</title>
+    <desc lang="en">EPL - NEWCASTLE UTD FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0061">
     <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
@@ -1683,21 +1667,21 @@
     <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
     <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0062">
-    <title lang="en">EPL - SUNDERLAND FHD</title>
-    <desc lang="en">EPL - SUNDERLAND FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0061">
+    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
+    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0062">
-    <title lang="en">EPL - SUNDERLAND FHD</title>
-    <desc lang="en">EPL - SUNDERLAND FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0061">
+    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
+    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0062">
-    <title lang="en">EPL - SUNDERLAND FHD</title>
-    <desc lang="en">EPL - SUNDERLAND FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0061">
+    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
+    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0062">
-    <title lang="en">EPL - SUNDERLAND FHD</title>
-    <desc lang="en">EPL - SUNDERLAND FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0061">
+    <title lang="en">EPL - NOTTINGHAM FOREST FHD</title>
+    <desc lang="en">EPL - NOTTINGHAM FOREST FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0062">
     <title lang="en">EPL - SUNDERLAND FHD</title>
@@ -1707,21 +1691,21 @@
     <title lang="en">EPL - SUNDERLAND FHD</title>
     <desc lang="en">EPL - SUNDERLAND FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0063">
-    <title lang="en">EPL - TOTTENHAM FHD</title>
-    <desc lang="en">EPL - TOTTENHAM FHD</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0062">
+    <title lang="en">EPL - SUNDERLAND FHD</title>
+    <desc lang="en">EPL - SUNDERLAND FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0063">
-    <title lang="en">EPL - TOTTENHAM FHD</title>
-    <desc lang="en">EPL - TOTTENHAM FHD</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0062">
+    <title lang="en">EPL - SUNDERLAND FHD</title>
+    <desc lang="en">EPL - SUNDERLAND FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0063">
-    <title lang="en">EPL - TOTTENHAM FHD</title>
-    <desc lang="en">EPL - TOTTENHAM FHD</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0062">
+    <title lang="en">EPL - SUNDERLAND FHD</title>
+    <desc lang="en">EPL - SUNDERLAND FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0063">
-    <title lang="en">EPL - TOTTENHAM FHD</title>
-    <desc lang="en">EPL - TOTTENHAM FHD</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0062">
+    <title lang="en">EPL - SUNDERLAND FHD</title>
+    <desc lang="en">EPL - SUNDERLAND FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0063">
     <title lang="en">EPL - TOTTENHAM FHD</title>
@@ -1731,21 +1715,21 @@
     <title lang="en">EPL - TOTTENHAM FHD</title>
     <desc lang="en">EPL - TOTTENHAM FHD</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0064">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0063">
+    <title lang="en">EPL - TOTTENHAM FHD</title>
+    <desc lang="en">EPL - TOTTENHAM FHD</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0064">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0063">
+    <title lang="en">EPL - TOTTENHAM FHD</title>
+    <desc lang="en">EPL - TOTTENHAM FHD</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0064">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0063">
+    <title lang="en">EPL - TOTTENHAM FHD</title>
+    <desc lang="en">EPL - TOTTENHAM FHD</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0064">
-    <title lang="en">Premier League+ 1</title>
-    <desc lang="en">Premier League+ 1</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0063">
+    <title lang="en">EPL - TOTTENHAM FHD</title>
+    <desc lang="en">EPL - TOTTENHAM FHD</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0064">
     <title lang="en">Premier League+ 1</title>
@@ -1755,21 +1739,21 @@
     <title lang="en">Premier League+ 1</title>
     <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0065">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0064">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0065">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0064">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0065">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0064">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0065">
-    <title lang="en">Premier League+ 2</title>
-    <desc lang="en">Premier League+ 2</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0064">
+    <title lang="en">Premier League+ 1</title>
+    <desc lang="en">Premier League+ 1</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0065">
     <title lang="en">Premier League+ 2</title>
@@ -1779,21 +1763,21 @@
     <title lang="en">Premier League+ 2</title>
     <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0066">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0065">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0066">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0065">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0066">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0065">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0066">
-    <title lang="en">Premier League+ 3</title>
-    <desc lang="en">Premier League+ 3</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0065">
+    <title lang="en">Premier League+ 2</title>
+    <desc lang="en">Premier League+ 2</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0066">
     <title lang="en">Premier League+ 3</title>
@@ -1803,21 +1787,21 @@
     <title lang="en">Premier League+ 3</title>
     <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0067">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0066">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0067">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0066">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0067">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0066">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0067">
-    <title lang="en">Premier League+ 4</title>
-    <desc lang="en">Premier League+ 4</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0066">
+    <title lang="en">Premier League+ 3</title>
+    <desc lang="en">Premier League+ 3</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0067">
     <title lang="en">Premier League+ 4</title>
@@ -1827,21 +1811,21 @@
     <title lang="en">Premier League+ 4</title>
     <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0068">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0067">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0068">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0067">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0068">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0067">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0068">
-    <title lang="en">Premier League+ 5</title>
-    <desc lang="en">Premier League+ 5</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0067">
+    <title lang="en">Premier League+ 4</title>
+    <desc lang="en">Premier League+ 4</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0068">
     <title lang="en">Premier League+ 5</title>
@@ -1851,21 +1835,21 @@
     <title lang="en">Premier League+ 5</title>
     <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0069">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0068">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0069">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0068">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0069">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0068">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0069">
-    <title lang="en">Premier League+ 6</title>
-    <desc lang="en">Premier League+ 6</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0068">
+    <title lang="en">Premier League+ 5</title>
+    <desc lang="en">Premier League+ 5</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0069">
     <title lang="en">Premier League+ 6</title>
@@ -1875,21 +1859,21 @@
     <title lang="en">Premier League+ 6</title>
     <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0070">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0069">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0070">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0069">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0070">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0069">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0070">
-    <title lang="en">Premier League+ 7</title>
-    <desc lang="en">Premier League+ 7</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0069">
+    <title lang="en">Premier League+ 6</title>
+    <desc lang="en">Premier League+ 6</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0070">
     <title lang="en">Premier League+ 7</title>
@@ -1899,21 +1883,21 @@
     <title lang="en">Premier League+ 7</title>
     <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0071">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0070">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0071">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0070">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0071">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0070">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0071">
-    <title lang="en">Premier League+ 8</title>
-    <desc lang="en">Premier League+ 8</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0070">
+    <title lang="en">Premier League+ 7</title>
+    <desc lang="en">Premier League+ 7</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0071">
     <title lang="en">Premier League+ 8</title>
@@ -1923,21 +1907,21 @@
     <title lang="en">Premier League+ 8</title>
     <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0072">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0071">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0072">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0071">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0072">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0071">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0072">
-    <title lang="en">Premier League+ 9</title>
-    <desc lang="en">Premier League+ 9</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0071">
+    <title lang="en">Premier League+ 8</title>
+    <desc lang="en">Premier League+ 8</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0072">
     <title lang="en">Premier League+ 9</title>
@@ -1947,27 +1931,43 @@
     <title lang="en">Premier League+ 9</title>
     <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261106060000 +0000" stop="20261106120000 +0000" channel="ppv.premier.league.0073">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0072">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106180000 +0000" channel="ppv.premier.league.0073">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0072">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261107000000 +0000" channel="ppv.premier.league.0073">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0072">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ppv.premier.league.0073">
-    <title lang="en">Premier League+ 10</title>
-    <desc lang="en">Premier League+ 10</desc>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0072">
+    <title lang="en">Premier League+ 9</title>
+    <desc lang="en">Premier League+ 9</desc>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107120000 +0000" channel="ppv.premier.league.0073">
     <title lang="en">Premier League+ 10</title>
     <desc lang="en">Premier League+ 10</desc>
   </programme>
   <programme start="20261107120000 +0000" stop="20261107180000 +0000" channel="ppv.premier.league.0073">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
+  </programme>
+  <programme start="20261107180000 +0000" stop="20261108000000 +0000" channel="ppv.premier.league.0073">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
+  </programme>
+  <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="ppv.premier.league.0073">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
+  </programme>
+  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.premier.league.0073">
+    <title lang="en">Premier League+ 10</title>
+    <desc lang="en">Premier League+ 10</desc>
+  </programme>
+  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.premier.league.0073">
     <title lang="en">Premier League+ 10</title>
     <desc lang="en">Premier League+ 10</desc>
   </programme>
