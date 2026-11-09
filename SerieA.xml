@@ -270,22 +270,6 @@
   <channel id="ppv.serie.a.0090">
     <display-name>Serie A 0090</display-name>
   </channel>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0001">
-    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
-  </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0001">
-    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
-  </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0001">
-    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
-  </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0001">
-    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
-  </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0001">
     <title lang="en">UK: SERIE A - AC MILAN 4K</title>
     <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
@@ -294,21 +278,21 @@
     <title lang="en">UK: SERIE A - AC MILAN 4K</title>
     <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0002">
-    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
-    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0001">
+    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0002">
-    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
-    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0001">
+    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0002">
-    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
-    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0001">
+    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0002">
-    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
-    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0001">
+    <title lang="en">UK: SERIE A - AC MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - AC MILAN 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0002">
     <title lang="en">UK: SERIE A - ATALANTA 4K</title>
@@ -318,21 +302,21 @@
     <title lang="en">UK: SERIE A - ATALANTA 4K</title>
     <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0003">
-    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
-    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0002">
+    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
+    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0003">
-    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
-    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0002">
+    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
+    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0003">
-    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
-    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0002">
+    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
+    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0003">
-    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
-    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0002">
+    <title lang="en">UK: SERIE A - ATALANTA 4K</title>
+    <desc lang="en">UK: SERIE A - ATALANTA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0003">
     <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
@@ -342,21 +326,21 @@
     <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
     <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0004">
-    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
-    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0003">
+    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
+    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0004">
-    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
-    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0003">
+    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
+    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0004">
-    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
-    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0003">
+    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
+    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0004">
-    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
-    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0003">
+    <title lang="en">UK: SERIE A - BOLOGNA 4K</title>
+    <desc lang="en">UK: SERIE A - BOLOGNA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0004">
     <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
@@ -366,21 +350,21 @@
     <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
     <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0005">
-    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0004">
+    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
+    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0005">
-    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0004">
+    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
+    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0005">
-    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0004">
+    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
+    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0005">
-    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0004">
+    <title lang="en">UK: SERIE A - CAGLIARI 4K</title>
+    <desc lang="en">UK: SERIE A - CAGLIARI 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0005">
     <title lang="en">UK: SERIE A - EMPOLI 4K</title>
@@ -390,21 +374,21 @@
     <title lang="en">UK: SERIE A - EMPOLI 4K</title>
     <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0006">
-    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
-    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0005">
+    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0006">
-    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
-    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0005">
+    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0006">
-    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
-    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0005">
+    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0006">
-    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
-    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0005">
+    <title lang="en">UK: SERIE A - EMPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - EMPOLI 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0006">
     <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
@@ -414,21 +398,21 @@
     <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
     <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0007">
-    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
-    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0006">
+    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
+    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0007">
-    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
-    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0006">
+    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
+    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0007">
-    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
-    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0006">
+    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
+    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0007">
-    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
-    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0006">
+    <title lang="en">UK: SERIE A - FIORENTINA 4K</title>
+    <desc lang="en">UK: SERIE A - FIORENTINA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0007">
     <title lang="en">UK: SERIE A - FROSINONE 4K</title>
@@ -438,21 +422,21 @@
     <title lang="en">UK: SERIE A - FROSINONE 4K</title>
     <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0008">
-    <title lang="en">UK: SERIE A - GENOA 4K</title>
-    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0007">
+    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
+    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0008">
-    <title lang="en">UK: SERIE A - GENOA 4K</title>
-    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0007">
+    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
+    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0008">
-    <title lang="en">UK: SERIE A - GENOA 4K</title>
-    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0007">
+    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
+    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0008">
-    <title lang="en">UK: SERIE A - GENOA 4K</title>
-    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0007">
+    <title lang="en">UK: SERIE A - FROSINONE 4K</title>
+    <desc lang="en">UK: SERIE A - FROSINONE 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0008">
     <title lang="en">UK: SERIE A - GENOA 4K</title>
@@ -462,21 +446,21 @@
     <title lang="en">UK: SERIE A - GENOA 4K</title>
     <desc lang="en">UK: SERIE A - GENOA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0009">
-    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0008">
+    <title lang="en">UK: SERIE A - GENOA 4K</title>
+    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0009">
-    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0008">
+    <title lang="en">UK: SERIE A - GENOA 4K</title>
+    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0009">
-    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0008">
+    <title lang="en">UK: SERIE A - GENOA 4K</title>
+    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0009">
-    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
-    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0008">
+    <title lang="en">UK: SERIE A - GENOA 4K</title>
+    <desc lang="en">UK: SERIE A - GENOA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0009">
     <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
@@ -486,21 +470,21 @@
     <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
     <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0010">
-    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
-    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0009">
+    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0010">
-    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
-    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0009">
+    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0010">
-    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
-    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0009">
+    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0010">
-    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
-    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0009">
+    <title lang="en">UK: SERIE A - INTER MILAN 4K</title>
+    <desc lang="en">UK: SERIE A - INTER MILAN 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0010">
     <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
@@ -510,21 +494,21 @@
     <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
     <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0011">
-    <title lang="en">UK: SERIE A - LAZIO 4K</title>
-    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0010">
+    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
+    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0011">
-    <title lang="en">UK: SERIE A - LAZIO 4K</title>
-    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0010">
+    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
+    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0011">
-    <title lang="en">UK: SERIE A - LAZIO 4K</title>
-    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0010">
+    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
+    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0011">
-    <title lang="en">UK: SERIE A - LAZIO 4K</title>
-    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0010">
+    <title lang="en">UK: SERIE A - JUVENTUS 4K</title>
+    <desc lang="en">UK: SERIE A - JUVENTUS 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0011">
     <title lang="en">UK: SERIE A - LAZIO 4K</title>
@@ -534,21 +518,21 @@
     <title lang="en">UK: SERIE A - LAZIO 4K</title>
     <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0012">
-    <title lang="en">UK: SERIE A - LECCE 4K</title>
-    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0011">
+    <title lang="en">UK: SERIE A - LAZIO 4K</title>
+    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0012">
-    <title lang="en">UK: SERIE A - LECCE 4K</title>
-    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0011">
+    <title lang="en">UK: SERIE A - LAZIO 4K</title>
+    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0012">
-    <title lang="en">UK: SERIE A - LECCE 4K</title>
-    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0011">
+    <title lang="en">UK: SERIE A - LAZIO 4K</title>
+    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0012">
-    <title lang="en">UK: SERIE A - LECCE 4K</title>
-    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0011">
+    <title lang="en">UK: SERIE A - LAZIO 4K</title>
+    <desc lang="en">UK: SERIE A - LAZIO 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0012">
     <title lang="en">UK: SERIE A - LECCE 4K</title>
@@ -558,21 +542,21 @@
     <title lang="en">UK: SERIE A - LECCE 4K</title>
     <desc lang="en">UK: SERIE A - LECCE 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0013">
-    <title lang="en">UK: SERIE A - MONZA 4K</title>
-    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0012">
+    <title lang="en">UK: SERIE A - LECCE 4K</title>
+    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0013">
-    <title lang="en">UK: SERIE A - MONZA 4K</title>
-    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0012">
+    <title lang="en">UK: SERIE A - LECCE 4K</title>
+    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0013">
-    <title lang="en">UK: SERIE A - MONZA 4K</title>
-    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0012">
+    <title lang="en">UK: SERIE A - LECCE 4K</title>
+    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0013">
-    <title lang="en">UK: SERIE A - MONZA 4K</title>
-    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0012">
+    <title lang="en">UK: SERIE A - LECCE 4K</title>
+    <desc lang="en">UK: SERIE A - LECCE 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0013">
     <title lang="en">UK: SERIE A - MONZA 4K</title>
@@ -582,21 +566,21 @@
     <title lang="en">UK: SERIE A - MONZA 4K</title>
     <desc lang="en">UK: SERIE A - MONZA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0014">
-    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0013">
+    <title lang="en">UK: SERIE A - MONZA 4K</title>
+    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0014">
-    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0013">
+    <title lang="en">UK: SERIE A - MONZA 4K</title>
+    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0014">
-    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0013">
+    <title lang="en">UK: SERIE A - MONZA 4K</title>
+    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0014">
-    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
-    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0013">
+    <title lang="en">UK: SERIE A - MONZA 4K</title>
+    <desc lang="en">UK: SERIE A - MONZA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0014">
     <title lang="en">UK: SERIE A - NAPOLI 4K</title>
@@ -606,21 +590,21 @@
     <title lang="en">UK: SERIE A - NAPOLI 4K</title>
     <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0015">
-    <title lang="en">UK: SERIE A - ROMA 4K</title>
-    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0014">
+    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0015">
-    <title lang="en">UK: SERIE A - ROMA 4K</title>
-    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0014">
+    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0015">
-    <title lang="en">UK: SERIE A - ROMA 4K</title>
-    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0014">
+    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0015">
-    <title lang="en">UK: SERIE A - ROMA 4K</title>
-    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0014">
+    <title lang="en">UK: SERIE A - NAPOLI 4K</title>
+    <desc lang="en">UK: SERIE A - NAPOLI 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0015">
     <title lang="en">UK: SERIE A - ROMA 4K</title>
@@ -630,21 +614,21 @@
     <title lang="en">UK: SERIE A - ROMA 4K</title>
     <desc lang="en">UK: SERIE A - ROMA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0016">
-    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
-    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0015">
+    <title lang="en">UK: SERIE A - ROMA 4K</title>
+    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0016">
-    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
-    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0015">
+    <title lang="en">UK: SERIE A - ROMA 4K</title>
+    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0016">
-    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
-    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0015">
+    <title lang="en">UK: SERIE A - ROMA 4K</title>
+    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0016">
-    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
-    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0015">
+    <title lang="en">UK: SERIE A - ROMA 4K</title>
+    <desc lang="en">UK: SERIE A - ROMA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0016">
     <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
@@ -654,21 +638,21 @@
     <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
     <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0017">
-    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
-    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0016">
+    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
+    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0017">
-    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
-    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0016">
+    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
+    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0017">
-    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
-    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0016">
+    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
+    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0017">
-    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
-    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0016">
+    <title lang="en">UK: SERIE A - SALERNITANA 4K</title>
+    <desc lang="en">UK: SERIE A - SALERNITANA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0017">
     <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
@@ -678,21 +662,21 @@
     <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
     <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0018">
-    <title lang="en">UK: SERIE A - TORINO 4K</title>
-    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0017">
+    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
+    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0018">
-    <title lang="en">UK: SERIE A - TORINO 4K</title>
-    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0017">
+    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
+    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0018">
-    <title lang="en">UK: SERIE A - TORINO 4K</title>
-    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0017">
+    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
+    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0018">
-    <title lang="en">UK: SERIE A - TORINO 4K</title>
-    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0017">
+    <title lang="en">UK: SERIE A - SASSUOLO 4K</title>
+    <desc lang="en">UK: SERIE A - SASSUOLO 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0018">
     <title lang="en">UK: SERIE A - TORINO 4K</title>
@@ -702,21 +686,21 @@
     <title lang="en">UK: SERIE A - TORINO 4K</title>
     <desc lang="en">UK: SERIE A - TORINO 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0019">
-    <title lang="en">UK: SERIE A - UDINESE 4K</title>
-    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0018">
+    <title lang="en">UK: SERIE A - TORINO 4K</title>
+    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0019">
-    <title lang="en">UK: SERIE A - UDINESE 4K</title>
-    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0018">
+    <title lang="en">UK: SERIE A - TORINO 4K</title>
+    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0019">
-    <title lang="en">UK: SERIE A - UDINESE 4K</title>
-    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0018">
+    <title lang="en">UK: SERIE A - TORINO 4K</title>
+    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0019">
-    <title lang="en">UK: SERIE A - UDINESE 4K</title>
-    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0018">
+    <title lang="en">UK: SERIE A - TORINO 4K</title>
+    <desc lang="en">UK: SERIE A - TORINO 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0019">
     <title lang="en">UK: SERIE A - UDINESE 4K</title>
@@ -726,21 +710,21 @@
     <title lang="en">UK: SERIE A - UDINESE 4K</title>
     <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0020">
-    <title lang="en">UK: SERIE A - VERONA 4K</title>
-    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0019">
+    <title lang="en">UK: SERIE A - UDINESE 4K</title>
+    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0020">
-    <title lang="en">UK: SERIE A - VERONA 4K</title>
-    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0019">
+    <title lang="en">UK: SERIE A - UDINESE 4K</title>
+    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0020">
-    <title lang="en">UK: SERIE A - VERONA 4K</title>
-    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0019">
+    <title lang="en">UK: SERIE A - UDINESE 4K</title>
+    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0020">
-    <title lang="en">UK: SERIE A - VERONA 4K</title>
-    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0019">
+    <title lang="en">UK: SERIE A - UDINESE 4K</title>
+    <desc lang="en">UK: SERIE A - UDINESE 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0020">
     <title lang="en">UK: SERIE A - VERONA 4K</title>
@@ -750,21 +734,21 @@
     <title lang="en">UK: SERIE A - VERONA 4K</title>
     <desc lang="en">UK: SERIE A - VERONA 4K</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0021">
-    <title lang="en">AC MILAN [SERIE A]</title>
-    <desc lang="en">AC MILAN [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0020">
+    <title lang="en">UK: SERIE A - VERONA 4K</title>
+    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0021">
-    <title lang="en">AC MILAN [SERIE A]</title>
-    <desc lang="en">AC MILAN [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0020">
+    <title lang="en">UK: SERIE A - VERONA 4K</title>
+    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0021">
-    <title lang="en">AC MILAN [SERIE A]</title>
-    <desc lang="en">AC MILAN [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0020">
+    <title lang="en">UK: SERIE A - VERONA 4K</title>
+    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0021">
-    <title lang="en">AC MILAN [SERIE A]</title>
-    <desc lang="en">AC MILAN [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0020">
+    <title lang="en">UK: SERIE A - VERONA 4K</title>
+    <desc lang="en">UK: SERIE A - VERONA 4K</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0021">
     <title lang="en">AC MILAN [SERIE A]</title>
@@ -774,21 +758,21 @@
     <title lang="en">AC MILAN [SERIE A]</title>
     <desc lang="en">AC MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0022">
-    <title lang="en">ATALANTA [SERIE A]</title>
-    <desc lang="en">ATALANTA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0021">
+    <title lang="en">AC MILAN [SERIE A]</title>
+    <desc lang="en">AC MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0022">
-    <title lang="en">ATALANTA [SERIE A]</title>
-    <desc lang="en">ATALANTA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0021">
+    <title lang="en">AC MILAN [SERIE A]</title>
+    <desc lang="en">AC MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0022">
-    <title lang="en">ATALANTA [SERIE A]</title>
-    <desc lang="en">ATALANTA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0021">
+    <title lang="en">AC MILAN [SERIE A]</title>
+    <desc lang="en">AC MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0022">
-    <title lang="en">ATALANTA [SERIE A]</title>
-    <desc lang="en">ATALANTA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0021">
+    <title lang="en">AC MILAN [SERIE A]</title>
+    <desc lang="en">AC MILAN [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0022">
     <title lang="en">ATALANTA [SERIE A]</title>
@@ -798,21 +782,21 @@
     <title lang="en">ATALANTA [SERIE A]</title>
     <desc lang="en">ATALANTA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0023">
-    <title lang="en">BOLOGNa [SERIE A]</title>
-    <desc lang="en">BOLOGNa [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0022">
+    <title lang="en">ATALANTA [SERIE A]</title>
+    <desc lang="en">ATALANTA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0023">
-    <title lang="en">BOLOGNa [SERIE A]</title>
-    <desc lang="en">BOLOGNa [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0022">
+    <title lang="en">ATALANTA [SERIE A]</title>
+    <desc lang="en">ATALANTA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0023">
-    <title lang="en">BOLOGNa [SERIE A]</title>
-    <desc lang="en">BOLOGNa [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0022">
+    <title lang="en">ATALANTA [SERIE A]</title>
+    <desc lang="en">ATALANTA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0023">
-    <title lang="en">BOLOGNa [SERIE A]</title>
-    <desc lang="en">BOLOGNa [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0022">
+    <title lang="en">ATALANTA [SERIE A]</title>
+    <desc lang="en">ATALANTA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0023">
     <title lang="en">BOLOGNa [SERIE A]</title>
@@ -822,21 +806,21 @@
     <title lang="en">BOLOGNa [SERIE A]</title>
     <desc lang="en">BOLOGNa [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0024">
-    <title lang="en">CAGLIARI [SERIE A]</title>
-    <desc lang="en">CAGLIARI [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0023">
+    <title lang="en">BOLOGNa [SERIE A]</title>
+    <desc lang="en">BOLOGNa [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0024">
-    <title lang="en">CAGLIARI [SERIE A]</title>
-    <desc lang="en">CAGLIARI [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0023">
+    <title lang="en">BOLOGNa [SERIE A]</title>
+    <desc lang="en">BOLOGNa [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0024">
-    <title lang="en">CAGLIARI [SERIE A]</title>
-    <desc lang="en">CAGLIARI [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0023">
+    <title lang="en">BOLOGNa [SERIE A]</title>
+    <desc lang="en">BOLOGNa [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0024">
-    <title lang="en">CAGLIARI [SERIE A]</title>
-    <desc lang="en">CAGLIARI [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0023">
+    <title lang="en">BOLOGNa [SERIE A]</title>
+    <desc lang="en">BOLOGNa [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0024">
     <title lang="en">CAGLIARI [SERIE A]</title>
@@ -846,21 +830,21 @@
     <title lang="en">CAGLIARI [SERIE A]</title>
     <desc lang="en">CAGLIARI [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0025">
-    <title lang="en">EMPOLI [SERIE A]</title>
-    <desc lang="en">EMPOLI [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0024">
+    <title lang="en">CAGLIARI [SERIE A]</title>
+    <desc lang="en">CAGLIARI [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0025">
-    <title lang="en">EMPOLI [SERIE A]</title>
-    <desc lang="en">EMPOLI [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0024">
+    <title lang="en">CAGLIARI [SERIE A]</title>
+    <desc lang="en">CAGLIARI [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0025">
-    <title lang="en">EMPOLI [SERIE A]</title>
-    <desc lang="en">EMPOLI [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0024">
+    <title lang="en">CAGLIARI [SERIE A]</title>
+    <desc lang="en">CAGLIARI [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0025">
-    <title lang="en">EMPOLI [SERIE A]</title>
-    <desc lang="en">EMPOLI [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0024">
+    <title lang="en">CAGLIARI [SERIE A]</title>
+    <desc lang="en">CAGLIARI [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0025">
     <title lang="en">EMPOLI [SERIE A]</title>
@@ -870,21 +854,21 @@
     <title lang="en">EMPOLI [SERIE A]</title>
     <desc lang="en">EMPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0026">
-    <title lang="en">FIORENTINA [SERIE A]</title>
-    <desc lang="en">FIORENTINA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0025">
+    <title lang="en">EMPOLI [SERIE A]</title>
+    <desc lang="en">EMPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0026">
-    <title lang="en">FIORENTINA [SERIE A]</title>
-    <desc lang="en">FIORENTINA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0025">
+    <title lang="en">EMPOLI [SERIE A]</title>
+    <desc lang="en">EMPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0026">
-    <title lang="en">FIORENTINA [SERIE A]</title>
-    <desc lang="en">FIORENTINA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0025">
+    <title lang="en">EMPOLI [SERIE A]</title>
+    <desc lang="en">EMPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0026">
-    <title lang="en">FIORENTINA [SERIE A]</title>
-    <desc lang="en">FIORENTINA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0025">
+    <title lang="en">EMPOLI [SERIE A]</title>
+    <desc lang="en">EMPOLI [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0026">
     <title lang="en">FIORENTINA [SERIE A]</title>
@@ -894,21 +878,21 @@
     <title lang="en">FIORENTINA [SERIE A]</title>
     <desc lang="en">FIORENTINA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0027">
-    <title lang="en">FROSINONE [SERIE A]</title>
-    <desc lang="en">FROSINONE [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0026">
+    <title lang="en">FIORENTINA [SERIE A]</title>
+    <desc lang="en">FIORENTINA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0027">
-    <title lang="en">FROSINONE [SERIE A]</title>
-    <desc lang="en">FROSINONE [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0026">
+    <title lang="en">FIORENTINA [SERIE A]</title>
+    <desc lang="en">FIORENTINA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0027">
-    <title lang="en">FROSINONE [SERIE A]</title>
-    <desc lang="en">FROSINONE [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0026">
+    <title lang="en">FIORENTINA [SERIE A]</title>
+    <desc lang="en">FIORENTINA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0027">
-    <title lang="en">FROSINONE [SERIE A]</title>
-    <desc lang="en">FROSINONE [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0026">
+    <title lang="en">FIORENTINA [SERIE A]</title>
+    <desc lang="en">FIORENTINA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0027">
     <title lang="en">FROSINONE [SERIE A]</title>
@@ -918,21 +902,21 @@
     <title lang="en">FROSINONE [SERIE A]</title>
     <desc lang="en">FROSINONE [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0028">
-    <title lang="en">GENOA [SERIE A]</title>
-    <desc lang="en">GENOA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0027">
+    <title lang="en">FROSINONE [SERIE A]</title>
+    <desc lang="en">FROSINONE [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0028">
-    <title lang="en">GENOA [SERIE A]</title>
-    <desc lang="en">GENOA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0027">
+    <title lang="en">FROSINONE [SERIE A]</title>
+    <desc lang="en">FROSINONE [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0028">
-    <title lang="en">GENOA [SERIE A]</title>
-    <desc lang="en">GENOA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0027">
+    <title lang="en">FROSINONE [SERIE A]</title>
+    <desc lang="en">FROSINONE [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0028">
-    <title lang="en">GENOA [SERIE A]</title>
-    <desc lang="en">GENOA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0027">
+    <title lang="en">FROSINONE [SERIE A]</title>
+    <desc lang="en">FROSINONE [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0028">
     <title lang="en">GENOA [SERIE A]</title>
@@ -942,21 +926,21 @@
     <title lang="en">GENOA [SERIE A]</title>
     <desc lang="en">GENOA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0029">
-    <title lang="en">INTER MILAN [SERIE A]</title>
-    <desc lang="en">INTER MILAN [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0028">
+    <title lang="en">GENOA [SERIE A]</title>
+    <desc lang="en">GENOA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0029">
-    <title lang="en">INTER MILAN [SERIE A]</title>
-    <desc lang="en">INTER MILAN [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0028">
+    <title lang="en">GENOA [SERIE A]</title>
+    <desc lang="en">GENOA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0029">
-    <title lang="en">INTER MILAN [SERIE A]</title>
-    <desc lang="en">INTER MILAN [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0028">
+    <title lang="en">GENOA [SERIE A]</title>
+    <desc lang="en">GENOA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0029">
-    <title lang="en">INTER MILAN [SERIE A]</title>
-    <desc lang="en">INTER MILAN [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0028">
+    <title lang="en">GENOA [SERIE A]</title>
+    <desc lang="en">GENOA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0029">
     <title lang="en">INTER MILAN [SERIE A]</title>
@@ -966,21 +950,21 @@
     <title lang="en">INTER MILAN [SERIE A]</title>
     <desc lang="en">INTER MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0030">
-    <title lang="en">JUVENTUS [SERIE A]</title>
-    <desc lang="en">JUVENTUS [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0029">
+    <title lang="en">INTER MILAN [SERIE A]</title>
+    <desc lang="en">INTER MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0030">
-    <title lang="en">JUVENTUS [SERIE A]</title>
-    <desc lang="en">JUVENTUS [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0029">
+    <title lang="en">INTER MILAN [SERIE A]</title>
+    <desc lang="en">INTER MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0030">
-    <title lang="en">JUVENTUS [SERIE A]</title>
-    <desc lang="en">JUVENTUS [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0029">
+    <title lang="en">INTER MILAN [SERIE A]</title>
+    <desc lang="en">INTER MILAN [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0030">
-    <title lang="en">JUVENTUS [SERIE A]</title>
-    <desc lang="en">JUVENTUS [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0029">
+    <title lang="en">INTER MILAN [SERIE A]</title>
+    <desc lang="en">INTER MILAN [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0030">
     <title lang="en">JUVENTUS [SERIE A]</title>
@@ -990,21 +974,21 @@
     <title lang="en">JUVENTUS [SERIE A]</title>
     <desc lang="en">JUVENTUS [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0031">
-    <title lang="en">LAZIO [SERIE A]</title>
-    <desc lang="en">LAZIO [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0030">
+    <title lang="en">JUVENTUS [SERIE A]</title>
+    <desc lang="en">JUVENTUS [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0031">
-    <title lang="en">LAZIO [SERIE A]</title>
-    <desc lang="en">LAZIO [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0030">
+    <title lang="en">JUVENTUS [SERIE A]</title>
+    <desc lang="en">JUVENTUS [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0031">
-    <title lang="en">LAZIO [SERIE A]</title>
-    <desc lang="en">LAZIO [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0030">
+    <title lang="en">JUVENTUS [SERIE A]</title>
+    <desc lang="en">JUVENTUS [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0031">
-    <title lang="en">LAZIO [SERIE A]</title>
-    <desc lang="en">LAZIO [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0030">
+    <title lang="en">JUVENTUS [SERIE A]</title>
+    <desc lang="en">JUVENTUS [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0031">
     <title lang="en">LAZIO [SERIE A]</title>
@@ -1014,21 +998,21 @@
     <title lang="en">LAZIO [SERIE A]</title>
     <desc lang="en">LAZIO [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0032">
-    <title lang="en">LECCE [SERIE A]</title>
-    <desc lang="en">LECCE [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0031">
+    <title lang="en">LAZIO [SERIE A]</title>
+    <desc lang="en">LAZIO [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0032">
-    <title lang="en">LECCE [SERIE A]</title>
-    <desc lang="en">LECCE [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0031">
+    <title lang="en">LAZIO [SERIE A]</title>
+    <desc lang="en">LAZIO [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0032">
-    <title lang="en">LECCE [SERIE A]</title>
-    <desc lang="en">LECCE [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0031">
+    <title lang="en">LAZIO [SERIE A]</title>
+    <desc lang="en">LAZIO [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0032">
-    <title lang="en">LECCE [SERIE A]</title>
-    <desc lang="en">LECCE [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0031">
+    <title lang="en">LAZIO [SERIE A]</title>
+    <desc lang="en">LAZIO [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0032">
     <title lang="en">LECCE [SERIE A]</title>
@@ -1038,21 +1022,21 @@
     <title lang="en">LECCE [SERIE A]</title>
     <desc lang="en">LECCE [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0033">
-    <title lang="en">MONZA [SERIE A]</title>
-    <desc lang="en">MONZA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0032">
+    <title lang="en">LECCE [SERIE A]</title>
+    <desc lang="en">LECCE [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0033">
-    <title lang="en">MONZA [SERIE A]</title>
-    <desc lang="en">MONZA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0032">
+    <title lang="en">LECCE [SERIE A]</title>
+    <desc lang="en">LECCE [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0033">
-    <title lang="en">MONZA [SERIE A]</title>
-    <desc lang="en">MONZA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0032">
+    <title lang="en">LECCE [SERIE A]</title>
+    <desc lang="en">LECCE [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0033">
-    <title lang="en">MONZA [SERIE A]</title>
-    <desc lang="en">MONZA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0032">
+    <title lang="en">LECCE [SERIE A]</title>
+    <desc lang="en">LECCE [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0033">
     <title lang="en">MONZA [SERIE A]</title>
@@ -1062,21 +1046,21 @@
     <title lang="en">MONZA [SERIE A]</title>
     <desc lang="en">MONZA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0034">
-    <title lang="en">NAPOLI [SERIE A]</title>
-    <desc lang="en">NAPOLI [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0033">
+    <title lang="en">MONZA [SERIE A]</title>
+    <desc lang="en">MONZA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0034">
-    <title lang="en">NAPOLI [SERIE A]</title>
-    <desc lang="en">NAPOLI [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0033">
+    <title lang="en">MONZA [SERIE A]</title>
+    <desc lang="en">MONZA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0034">
-    <title lang="en">NAPOLI [SERIE A]</title>
-    <desc lang="en">NAPOLI [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0033">
+    <title lang="en">MONZA [SERIE A]</title>
+    <desc lang="en">MONZA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0034">
-    <title lang="en">NAPOLI [SERIE A]</title>
-    <desc lang="en">NAPOLI [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0033">
+    <title lang="en">MONZA [SERIE A]</title>
+    <desc lang="en">MONZA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0034">
     <title lang="en">NAPOLI [SERIE A]</title>
@@ -1086,21 +1070,21 @@
     <title lang="en">NAPOLI [SERIE A]</title>
     <desc lang="en">NAPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0035">
-    <title lang="en">ROMA [SERIE A]</title>
-    <desc lang="en">ROMA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0034">
+    <title lang="en">NAPOLI [SERIE A]</title>
+    <desc lang="en">NAPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0035">
-    <title lang="en">ROMA [SERIE A]</title>
-    <desc lang="en">ROMA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0034">
+    <title lang="en">NAPOLI [SERIE A]</title>
+    <desc lang="en">NAPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0035">
-    <title lang="en">ROMA [SERIE A]</title>
-    <desc lang="en">ROMA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0034">
+    <title lang="en">NAPOLI [SERIE A]</title>
+    <desc lang="en">NAPOLI [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0035">
-    <title lang="en">ROMA [SERIE A]</title>
-    <desc lang="en">ROMA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0034">
+    <title lang="en">NAPOLI [SERIE A]</title>
+    <desc lang="en">NAPOLI [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0035">
     <title lang="en">ROMA [SERIE A]</title>
@@ -1110,21 +1094,21 @@
     <title lang="en">ROMA [SERIE A]</title>
     <desc lang="en">ROMA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0036">
-    <title lang="en">SALERNITANA [SERIE A]</title>
-    <desc lang="en">SALERNITANA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0035">
+    <title lang="en">ROMA [SERIE A]</title>
+    <desc lang="en">ROMA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0036">
-    <title lang="en">SALERNITANA [SERIE A]</title>
-    <desc lang="en">SALERNITANA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0035">
+    <title lang="en">ROMA [SERIE A]</title>
+    <desc lang="en">ROMA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0036">
-    <title lang="en">SALERNITANA [SERIE A]</title>
-    <desc lang="en">SALERNITANA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0035">
+    <title lang="en">ROMA [SERIE A]</title>
+    <desc lang="en">ROMA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0036">
-    <title lang="en">SALERNITANA [SERIE A]</title>
-    <desc lang="en">SALERNITANA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0035">
+    <title lang="en">ROMA [SERIE A]</title>
+    <desc lang="en">ROMA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0036">
     <title lang="en">SALERNITANA [SERIE A]</title>
@@ -1134,21 +1118,21 @@
     <title lang="en">SALERNITANA [SERIE A]</title>
     <desc lang="en">SALERNITANA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0037">
-    <title lang="en">SASSUOLO [SERIE A]</title>
-    <desc lang="en">SASSUOLO [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0036">
+    <title lang="en">SALERNITANA [SERIE A]</title>
+    <desc lang="en">SALERNITANA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0037">
-    <title lang="en">SASSUOLO [SERIE A]</title>
-    <desc lang="en">SASSUOLO [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0036">
+    <title lang="en">SALERNITANA [SERIE A]</title>
+    <desc lang="en">SALERNITANA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0037">
-    <title lang="en">SASSUOLO [SERIE A]</title>
-    <desc lang="en">SASSUOLO [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0036">
+    <title lang="en">SALERNITANA [SERIE A]</title>
+    <desc lang="en">SALERNITANA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0037">
-    <title lang="en">SASSUOLO [SERIE A]</title>
-    <desc lang="en">SASSUOLO [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0036">
+    <title lang="en">SALERNITANA [SERIE A]</title>
+    <desc lang="en">SALERNITANA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0037">
     <title lang="en">SASSUOLO [SERIE A]</title>
@@ -1158,21 +1142,21 @@
     <title lang="en">SASSUOLO [SERIE A]</title>
     <desc lang="en">SASSUOLO [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0038">
-    <title lang="en">TORINO [SERIE A]</title>
-    <desc lang="en">TORINO [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0037">
+    <title lang="en">SASSUOLO [SERIE A]</title>
+    <desc lang="en">SASSUOLO [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0038">
-    <title lang="en">TORINO [SERIE A]</title>
-    <desc lang="en">TORINO [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0037">
+    <title lang="en">SASSUOLO [SERIE A]</title>
+    <desc lang="en">SASSUOLO [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0038">
-    <title lang="en">TORINO [SERIE A]</title>
-    <desc lang="en">TORINO [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0037">
+    <title lang="en">SASSUOLO [SERIE A]</title>
+    <desc lang="en">SASSUOLO [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0038">
-    <title lang="en">TORINO [SERIE A]</title>
-    <desc lang="en">TORINO [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0037">
+    <title lang="en">SASSUOLO [SERIE A]</title>
+    <desc lang="en">SASSUOLO [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0038">
     <title lang="en">TORINO [SERIE A]</title>
@@ -1182,21 +1166,21 @@
     <title lang="en">TORINO [SERIE A]</title>
     <desc lang="en">TORINO [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0039">
-    <title lang="en">UDINESE [SERIE A]</title>
-    <desc lang="en">UDINESE [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0038">
+    <title lang="en">TORINO [SERIE A]</title>
+    <desc lang="en">TORINO [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0039">
-    <title lang="en">UDINESE [SERIE A]</title>
-    <desc lang="en">UDINESE [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0038">
+    <title lang="en">TORINO [SERIE A]</title>
+    <desc lang="en">TORINO [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0039">
-    <title lang="en">UDINESE [SERIE A]</title>
-    <desc lang="en">UDINESE [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0038">
+    <title lang="en">TORINO [SERIE A]</title>
+    <desc lang="en">TORINO [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0039">
-    <title lang="en">UDINESE [SERIE A]</title>
-    <desc lang="en">UDINESE [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0038">
+    <title lang="en">TORINO [SERIE A]</title>
+    <desc lang="en">TORINO [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0039">
     <title lang="en">UDINESE [SERIE A]</title>
@@ -1206,21 +1190,21 @@
     <title lang="en">UDINESE [SERIE A]</title>
     <desc lang="en">UDINESE [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0040">
-    <title lang="en">VERONA [SERIE A]</title>
-    <desc lang="en">VERONA [SERIE A]</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0039">
+    <title lang="en">UDINESE [SERIE A]</title>
+    <desc lang="en">UDINESE [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0040">
-    <title lang="en">VERONA [SERIE A]</title>
-    <desc lang="en">VERONA [SERIE A]</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0039">
+    <title lang="en">UDINESE [SERIE A]</title>
+    <desc lang="en">UDINESE [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0040">
-    <title lang="en">VERONA [SERIE A]</title>
-    <desc lang="en">VERONA [SERIE A]</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0039">
+    <title lang="en">UDINESE [SERIE A]</title>
+    <desc lang="en">UDINESE [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0040">
-    <title lang="en">VERONA [SERIE A]</title>
-    <desc lang="en">VERONA [SERIE A]</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0039">
+    <title lang="en">UDINESE [SERIE A]</title>
+    <desc lang="en">UDINESE [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0040">
     <title lang="en">VERONA [SERIE A]</title>
@@ -1230,43 +1214,43 @@
     <title lang="en">VERONA [SERIE A]</title>
     <desc lang="en">VERONA [SERIE A]</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0041">
-    <title lang="en">AR - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">AR - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0040">
+    <title lang="en">VERONA [SERIE A]</title>
+    <desc lang="en">VERONA [SERIE A]</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0041">
-    <title lang="en">AR - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">AR - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0040">
+    <title lang="en">VERONA [SERIE A]</title>
+    <desc lang="en">VERONA [SERIE A]</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0041">
-    <title lang="en">AR - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">AR - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0040">
+    <title lang="en">VERONA [SERIE A]</title>
+    <desc lang="en">VERONA [SERIE A]</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0041">
-    <title lang="en">AR - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">AR - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0040">
+    <title lang="en">VERONA [SERIE A]</title>
+    <desc lang="en">VERONA [SERIE A]</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0041">
-    <title lang="en">AR - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">AR - TORINO VS LECCE 14:00 CET</desc>
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0041">
-    <title lang="en">AR - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">AR - TORINO VS LECCE 14:00 CET</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0042">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0042">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0042">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0041">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1278,19 +1262,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0043">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0043">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0043">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0043">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1302,19 +1286,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0044">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0044">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0044">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0044">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1326,19 +1310,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0045">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0045">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0045">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0045">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1350,67 +1334,67 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0046">
-    <title lang="en">AR - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">AR - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0045">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0046">
-    <title lang="en">AR - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">AR - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0045">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0046">
-    <title lang="en">AR - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">AR - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0045">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0046">
-    <title lang="en">AR - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">AR - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0045">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0046">
-    <title lang="en">AR - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">AR - ROMA VS SASSUOLO 19:45 CET</desc>
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0046">
-    <title lang="en">AR - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">AR - ROMA VS SASSUOLO 19:45 CET</desc>
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0047">
-    <title lang="en">AR - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">AR - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0046">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0047">
-    <title lang="en">AR - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">AR - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0046">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0047">
-    <title lang="en">AR - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">AR - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0046">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0047">
-    <title lang="en">AR - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">AR - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0046">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0047">
-    <title lang="en">AR - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">AR - PARMA VS BOLOGNA 17:00 CET</desc>
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0047">
-    <title lang="en">AR - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">AR - PARMA VS BOLOGNA 17:00 CET</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0048">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0048">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0047">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0048">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0047">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0048">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0047">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0047">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1422,19 +1406,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0049">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0048">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0049">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0048">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0049">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0048">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0049">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0048">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1446,19 +1430,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0050">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0049">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0050">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0049">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0050">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0049">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0050">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0049">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1470,67 +1454,67 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0051">
-    <title lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0050">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0051">
-    <title lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0050">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0051">
-    <title lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0050">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0051">
-    <title lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0050">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0051">
-    <title lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</desc>
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0051">
-    <title lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">AR - CAGLIARI VS FROSINONE 14:00 CET</desc>
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0052">
-    <title lang="en">EN - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">EN - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0051">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0052">
-    <title lang="en">EN - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">EN - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0051">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0052">
-    <title lang="en">EN - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">EN - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0051">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0052">
-    <title lang="en">EN - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">EN - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0051">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0052">
-    <title lang="en">EN - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">EN - TORINO VS LECCE 14:00 CET</desc>
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0052">
-    <title lang="en">EN - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">EN - TORINO VS LECCE 14:00 CET</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0053">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0053">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0053">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0052">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1542,19 +1526,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0054">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0054">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0054">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0054">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1566,67 +1550,67 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0055">
-    <title lang="en">EN - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">EN - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0054">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0055">
-    <title lang="en">EN - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">EN - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0054">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0055">
-    <title lang="en">EN - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">EN - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0054">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0055">
-    <title lang="en">EN - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">EN - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0054">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0055">
-    <title lang="en">EN - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">EN - PARMA VS BOLOGNA 17:00 CET</desc>
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0055">
-    <title lang="en">EN - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">EN - PARMA VS BOLOGNA 17:00 CET</desc>
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0056">
-    <title lang="en">EN - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">EN - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0055">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0056">
-    <title lang="en">EN - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">EN - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0055">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0056">
-    <title lang="en">EN - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">EN - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0055">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0056">
-    <title lang="en">EN - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">EN - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0055">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0056">
-    <title lang="en">EN - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">EN - ROMA VS SASSUOLO 19:45 CET</desc>
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0056">
-    <title lang="en">EN - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">EN - ROMA VS SASSUOLO 19:45 CET</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0057">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0057">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0057">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0056">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1638,19 +1622,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0058">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0058">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0058">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0058">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1662,19 +1646,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0059">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0058">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0059">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0058">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0059">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0058">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0059">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0058">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1686,91 +1670,91 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0060">
-    <title lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0059">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0060">
-    <title lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0059">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0060">
-    <title lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0059">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0060">
-    <title lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0059">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0060">
-    <title lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</desc>
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0060">
-    <title lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">EN - CAGLIARI VS FROSINONE 14:00 CET</desc>
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0061">
-    <title lang="en">IT - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">IT - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0060">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0061">
-    <title lang="en">IT - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">IT - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0060">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0061">
-    <title lang="en">IT - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">IT - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0060">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0061">
-    <title lang="en">IT - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">IT - TORINO VS LECCE 14:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0060">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0061">
-    <title lang="en">IT - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">IT - TORINO VS LECCE 14:00 CET</desc>
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0061">
-    <title lang="en">IT - TORINO VS LECCE 14:00 CET</title>
-    <desc lang="en">IT - TORINO VS LECCE 14:00 CET</desc>
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0062">
-    <title lang="en">IT - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">IT - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0061">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0062">
-    <title lang="en">IT - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">IT - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0061">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0062">
-    <title lang="en">IT - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">IT - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0061">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0062">
-    <title lang="en">IT - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">IT - PARMA VS BOLOGNA 17:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0061">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0062">
-    <title lang="en">IT - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">IT - PARMA VS BOLOGNA 17:00 CET</desc>
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0062">
-    <title lang="en">IT - PARMA VS BOLOGNA 17:00 CET</title>
-    <desc lang="en">IT - PARMA VS BOLOGNA 17:00 CET</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0063">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0063">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0062">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0063">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0062">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0063">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0062">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0062">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
@@ -1782,19 +1766,19 @@
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0064">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0063">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0064">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0063">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0064">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0063">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0064">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0063">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
@@ -1806,19 +1790,19 @@
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0065">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0064">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0065">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0064">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0065">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0064">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0065">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0064">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
@@ -1830,19 +1814,19 @@
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0066">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0065">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0066">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0065">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0066">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0065">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0066">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0065">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
@@ -1854,43 +1838,43 @@
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0067">
-    <title lang="en">IT - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">IT - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0066">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0067">
-    <title lang="en">IT - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">IT - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0066">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0067">
-    <title lang="en">IT - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">IT - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0066">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0067">
-    <title lang="en">IT - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">IT - ROMA VS SASSUOLO 19:45 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0066">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0067">
-    <title lang="en">IT - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">IT - ROMA VS SASSUOLO 19:45 CET</desc>
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0067">
-    <title lang="en">IT - ROMA VS SASSUOLO 19:45 CET</title>
-    <desc lang="en">IT - ROMA VS SASSUOLO 19:45 CET</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0068">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0068">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0067">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0068">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0067">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0068">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0067">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0067">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
@@ -1902,19 +1886,19 @@
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0069">
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0068">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0069">
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0068">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0069">
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0068">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0069">
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0068">
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
@@ -1926,45 +1910,45 @@
     <title lang="en">IT - NO MATCH</title>
     <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0070">
-    <title lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0069">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0070">
-    <title lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0069">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0070">
-    <title lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0069">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0070">
-    <title lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0069">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0070">
-    <title lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</desc>
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0070">
-    <title lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</title>
-    <desc lang="en">IT - CAGLIARI VS FROSINONE 14:00 CET</desc>
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0071">
-    <title lang="en">SERIE A| AC MILAN</title>
-    <desc lang="en">SERIE A| AC MILAN</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0070">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0071">
-    <title lang="en">SERIE A| AC MILAN</title>
-    <desc lang="en">SERIE A| AC MILAN</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0070">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0071">
-    <title lang="en">SERIE A| AC MILAN</title>
-    <desc lang="en">SERIE A| AC MILAN</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0070">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0071">
-    <title lang="en">SERIE A| AC MILAN</title>
-    <desc lang="en">SERIE A| AC MILAN</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0070">
+    <title lang="en">IT - NO MATCH</title>
+    <desc lang="en">IT - NO MATCH</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0071">
     <title lang="en">SERIE A| AC MILAN</title>
@@ -1974,21 +1958,21 @@
     <title lang="en">SERIE A| AC MILAN</title>
     <desc lang="en">SERIE A| AC MILAN</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0072">
-    <title lang="en">SERIE A| ATALANTA</title>
-    <desc lang="en">SERIE A| ATALANTA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0071">
+    <title lang="en">SERIE A| AC MILAN</title>
+    <desc lang="en">SERIE A| AC MILAN</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0072">
-    <title lang="en">SERIE A| ATALANTA</title>
-    <desc lang="en">SERIE A| ATALANTA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0071">
+    <title lang="en">SERIE A| AC MILAN</title>
+    <desc lang="en">SERIE A| AC MILAN</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0072">
-    <title lang="en">SERIE A| ATALANTA</title>
-    <desc lang="en">SERIE A| ATALANTA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0071">
+    <title lang="en">SERIE A| AC MILAN</title>
+    <desc lang="en">SERIE A| AC MILAN</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0072">
-    <title lang="en">SERIE A| ATALANTA</title>
-    <desc lang="en">SERIE A| ATALANTA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0071">
+    <title lang="en">SERIE A| AC MILAN</title>
+    <desc lang="en">SERIE A| AC MILAN</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0072">
     <title lang="en">SERIE A| ATALANTA</title>
@@ -1998,21 +1982,21 @@
     <title lang="en">SERIE A| ATALANTA</title>
     <desc lang="en">SERIE A| ATALANTA</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0073">
-    <title lang="en">SERIE A| BOLOGNa</title>
-    <desc lang="en">SERIE A| BOLOGNa</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0072">
+    <title lang="en">SERIE A| ATALANTA</title>
+    <desc lang="en">SERIE A| ATALANTA</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0073">
-    <title lang="en">SERIE A| BOLOGNa</title>
-    <desc lang="en">SERIE A| BOLOGNa</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0072">
+    <title lang="en">SERIE A| ATALANTA</title>
+    <desc lang="en">SERIE A| ATALANTA</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0073">
-    <title lang="en">SERIE A| BOLOGNa</title>
-    <desc lang="en">SERIE A| BOLOGNa</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0072">
+    <title lang="en">SERIE A| ATALANTA</title>
+    <desc lang="en">SERIE A| ATALANTA</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0073">
-    <title lang="en">SERIE A| BOLOGNa</title>
-    <desc lang="en">SERIE A| BOLOGNa</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0072">
+    <title lang="en">SERIE A| ATALANTA</title>
+    <desc lang="en">SERIE A| ATALANTA</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0073">
     <title lang="en">SERIE A| BOLOGNa</title>
@@ -2022,21 +2006,21 @@
     <title lang="en">SERIE A| BOLOGNa</title>
     <desc lang="en">SERIE A| BOLOGNa</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0074">
-    <title lang="en">SERIE A| CAGLIARI</title>
-    <desc lang="en">SERIE A| CAGLIARI</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0073">
+    <title lang="en">SERIE A| BOLOGNa</title>
+    <desc lang="en">SERIE A| BOLOGNa</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0074">
-    <title lang="en">SERIE A| CAGLIARI</title>
-    <desc lang="en">SERIE A| CAGLIARI</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0073">
+    <title lang="en">SERIE A| BOLOGNa</title>
+    <desc lang="en">SERIE A| BOLOGNa</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0074">
-    <title lang="en">SERIE A| CAGLIARI</title>
-    <desc lang="en">SERIE A| CAGLIARI</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0073">
+    <title lang="en">SERIE A| BOLOGNa</title>
+    <desc lang="en">SERIE A| BOLOGNa</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0074">
-    <title lang="en">SERIE A| CAGLIARI</title>
-    <desc lang="en">SERIE A| CAGLIARI</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0073">
+    <title lang="en">SERIE A| BOLOGNa</title>
+    <desc lang="en">SERIE A| BOLOGNa</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0074">
     <title lang="en">SERIE A| CAGLIARI</title>
@@ -2046,21 +2030,21 @@
     <title lang="en">SERIE A| CAGLIARI</title>
     <desc lang="en">SERIE A| CAGLIARI</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0075">
-    <title lang="en">SERIE A| EMPOLI</title>
-    <desc lang="en">SERIE A| EMPOLI</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0074">
+    <title lang="en">SERIE A| CAGLIARI</title>
+    <desc lang="en">SERIE A| CAGLIARI</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0075">
-    <title lang="en">SERIE A| EMPOLI</title>
-    <desc lang="en">SERIE A| EMPOLI</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0074">
+    <title lang="en">SERIE A| CAGLIARI</title>
+    <desc lang="en">SERIE A| CAGLIARI</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0075">
-    <title lang="en">SERIE A| EMPOLI</title>
-    <desc lang="en">SERIE A| EMPOLI</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0074">
+    <title lang="en">SERIE A| CAGLIARI</title>
+    <desc lang="en">SERIE A| CAGLIARI</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0075">
-    <title lang="en">SERIE A| EMPOLI</title>
-    <desc lang="en">SERIE A| EMPOLI</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0074">
+    <title lang="en">SERIE A| CAGLIARI</title>
+    <desc lang="en">SERIE A| CAGLIARI</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0075">
     <title lang="en">SERIE A| EMPOLI</title>
@@ -2070,21 +2054,21 @@
     <title lang="en">SERIE A| EMPOLI</title>
     <desc lang="en">SERIE A| EMPOLI</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0076">
-    <title lang="en">SERIE A| FIORENTINA</title>
-    <desc lang="en">SERIE A| FIORENTINA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0075">
+    <title lang="en">SERIE A| EMPOLI</title>
+    <desc lang="en">SERIE A| EMPOLI</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0076">
-    <title lang="en">SERIE A| FIORENTINA</title>
-    <desc lang="en">SERIE A| FIORENTINA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0075">
+    <title lang="en">SERIE A| EMPOLI</title>
+    <desc lang="en">SERIE A| EMPOLI</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0076">
-    <title lang="en">SERIE A| FIORENTINA</title>
-    <desc lang="en">SERIE A| FIORENTINA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0075">
+    <title lang="en">SERIE A| EMPOLI</title>
+    <desc lang="en">SERIE A| EMPOLI</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0076">
-    <title lang="en">SERIE A| FIORENTINA</title>
-    <desc lang="en">SERIE A| FIORENTINA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0075">
+    <title lang="en">SERIE A| EMPOLI</title>
+    <desc lang="en">SERIE A| EMPOLI</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0076">
     <title lang="en">SERIE A| FIORENTINA</title>
@@ -2094,21 +2078,21 @@
     <title lang="en">SERIE A| FIORENTINA</title>
     <desc lang="en">SERIE A| FIORENTINA</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0077">
-    <title lang="en">SERIE A| FROSINONE</title>
-    <desc lang="en">SERIE A| FROSINONE</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0076">
+    <title lang="en">SERIE A| FIORENTINA</title>
+    <desc lang="en">SERIE A| FIORENTINA</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0077">
-    <title lang="en">SERIE A| FROSINONE</title>
-    <desc lang="en">SERIE A| FROSINONE</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0076">
+    <title lang="en">SERIE A| FIORENTINA</title>
+    <desc lang="en">SERIE A| FIORENTINA</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0077">
-    <title lang="en">SERIE A| FROSINONE</title>
-    <desc lang="en">SERIE A| FROSINONE</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0076">
+    <title lang="en">SERIE A| FIORENTINA</title>
+    <desc lang="en">SERIE A| FIORENTINA</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0077">
-    <title lang="en">SERIE A| FROSINONE</title>
-    <desc lang="en">SERIE A| FROSINONE</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0076">
+    <title lang="en">SERIE A| FIORENTINA</title>
+    <desc lang="en">SERIE A| FIORENTINA</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0077">
     <title lang="en">SERIE A| FROSINONE</title>
@@ -2118,21 +2102,21 @@
     <title lang="en">SERIE A| FROSINONE</title>
     <desc lang="en">SERIE A| FROSINONE</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0078">
-    <title lang="en">SERIE A| GENOA</title>
-    <desc lang="en">SERIE A| GENOA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0077">
+    <title lang="en">SERIE A| FROSINONE</title>
+    <desc lang="en">SERIE A| FROSINONE</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0078">
-    <title lang="en">SERIE A| GENOA</title>
-    <desc lang="en">SERIE A| GENOA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0077">
+    <title lang="en">SERIE A| FROSINONE</title>
+    <desc lang="en">SERIE A| FROSINONE</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0078">
-    <title lang="en">SERIE A| GENOA</title>
-    <desc lang="en">SERIE A| GENOA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0077">
+    <title lang="en">SERIE A| FROSINONE</title>
+    <desc lang="en">SERIE A| FROSINONE</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0078">
-    <title lang="en">SERIE A| GENOA</title>
-    <desc lang="en">SERIE A| GENOA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0077">
+    <title lang="en">SERIE A| FROSINONE</title>
+    <desc lang="en">SERIE A| FROSINONE</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0078">
     <title lang="en">SERIE A| GENOA</title>
@@ -2142,21 +2126,21 @@
     <title lang="en">SERIE A| GENOA</title>
     <desc lang="en">SERIE A| GENOA</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0079">
-    <title lang="en">SERIE A| INTER MILAN</title>
-    <desc lang="en">SERIE A| INTER MILAN</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0078">
+    <title lang="en">SERIE A| GENOA</title>
+    <desc lang="en">SERIE A| GENOA</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0079">
-    <title lang="en">SERIE A| INTER MILAN</title>
-    <desc lang="en">SERIE A| INTER MILAN</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0078">
+    <title lang="en">SERIE A| GENOA</title>
+    <desc lang="en">SERIE A| GENOA</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0079">
-    <title lang="en">SERIE A| INTER MILAN</title>
-    <desc lang="en">SERIE A| INTER MILAN</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0078">
+    <title lang="en">SERIE A| GENOA</title>
+    <desc lang="en">SERIE A| GENOA</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0079">
-    <title lang="en">SERIE A| INTER MILAN</title>
-    <desc lang="en">SERIE A| INTER MILAN</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0078">
+    <title lang="en">SERIE A| GENOA</title>
+    <desc lang="en">SERIE A| GENOA</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0079">
     <title lang="en">SERIE A| INTER MILAN</title>
@@ -2166,21 +2150,21 @@
     <title lang="en">SERIE A| INTER MILAN</title>
     <desc lang="en">SERIE A| INTER MILAN</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0080">
-    <title lang="en">SERIE A| JUVENTUS</title>
-    <desc lang="en">SERIE A| JUVENTUS</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0079">
+    <title lang="en">SERIE A| INTER MILAN</title>
+    <desc lang="en">SERIE A| INTER MILAN</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0080">
-    <title lang="en">SERIE A| JUVENTUS</title>
-    <desc lang="en">SERIE A| JUVENTUS</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0079">
+    <title lang="en">SERIE A| INTER MILAN</title>
+    <desc lang="en">SERIE A| INTER MILAN</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0080">
-    <title lang="en">SERIE A| JUVENTUS</title>
-    <desc lang="en">SERIE A| JUVENTUS</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0079">
+    <title lang="en">SERIE A| INTER MILAN</title>
+    <desc lang="en">SERIE A| INTER MILAN</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0080">
-    <title lang="en">SERIE A| JUVENTUS</title>
-    <desc lang="en">SERIE A| JUVENTUS</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0079">
+    <title lang="en">SERIE A| INTER MILAN</title>
+    <desc lang="en">SERIE A| INTER MILAN</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0080">
     <title lang="en">SERIE A| JUVENTUS</title>
@@ -2190,21 +2174,21 @@
     <title lang="en">SERIE A| JUVENTUS</title>
     <desc lang="en">SERIE A| JUVENTUS</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0081">
-    <title lang="en">SERIE A| LAZIO</title>
-    <desc lang="en">SERIE A| LAZIO</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0080">
+    <title lang="en">SERIE A| JUVENTUS</title>
+    <desc lang="en">SERIE A| JUVENTUS</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0081">
-    <title lang="en">SERIE A| LAZIO</title>
-    <desc lang="en">SERIE A| LAZIO</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0080">
+    <title lang="en">SERIE A| JUVENTUS</title>
+    <desc lang="en">SERIE A| JUVENTUS</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0081">
-    <title lang="en">SERIE A| LAZIO</title>
-    <desc lang="en">SERIE A| LAZIO</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0080">
+    <title lang="en">SERIE A| JUVENTUS</title>
+    <desc lang="en">SERIE A| JUVENTUS</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0081">
-    <title lang="en">SERIE A| LAZIO</title>
-    <desc lang="en">SERIE A| LAZIO</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0080">
+    <title lang="en">SERIE A| JUVENTUS</title>
+    <desc lang="en">SERIE A| JUVENTUS</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0081">
     <title lang="en">SERIE A| LAZIO</title>
@@ -2214,21 +2198,21 @@
     <title lang="en">SERIE A| LAZIO</title>
     <desc lang="en">SERIE A| LAZIO</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0082">
-    <title lang="en">SERIE A| LECCE</title>
-    <desc lang="en">SERIE A| LECCE</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0081">
+    <title lang="en">SERIE A| LAZIO</title>
+    <desc lang="en">SERIE A| LAZIO</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0082">
-    <title lang="en">SERIE A| LECCE</title>
-    <desc lang="en">SERIE A| LECCE</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0081">
+    <title lang="en">SERIE A| LAZIO</title>
+    <desc lang="en">SERIE A| LAZIO</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0082">
-    <title lang="en">SERIE A| LECCE</title>
-    <desc lang="en">SERIE A| LECCE</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0081">
+    <title lang="en">SERIE A| LAZIO</title>
+    <desc lang="en">SERIE A| LAZIO</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0082">
-    <title lang="en">SERIE A| LECCE</title>
-    <desc lang="en">SERIE A| LECCE</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0081">
+    <title lang="en">SERIE A| LAZIO</title>
+    <desc lang="en">SERIE A| LAZIO</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0082">
     <title lang="en">SERIE A| LECCE</title>
@@ -2238,21 +2222,21 @@
     <title lang="en">SERIE A| LECCE</title>
     <desc lang="en">SERIE A| LECCE</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0083">
-    <title lang="en">SERIE A| MONZA</title>
-    <desc lang="en">SERIE A| MONZA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0082">
+    <title lang="en">SERIE A| LECCE</title>
+    <desc lang="en">SERIE A| LECCE</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0083">
-    <title lang="en">SERIE A| MONZA</title>
-    <desc lang="en">SERIE A| MONZA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0082">
+    <title lang="en">SERIE A| LECCE</title>
+    <desc lang="en">SERIE A| LECCE</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0083">
-    <title lang="en">SERIE A| MONZA</title>
-    <desc lang="en">SERIE A| MONZA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0082">
+    <title lang="en">SERIE A| LECCE</title>
+    <desc lang="en">SERIE A| LECCE</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0083">
-    <title lang="en">SERIE A| MONZA</title>
-    <desc lang="en">SERIE A| MONZA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0082">
+    <title lang="en">SERIE A| LECCE</title>
+    <desc lang="en">SERIE A| LECCE</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0083">
     <title lang="en">SERIE A| MONZA</title>
@@ -2262,21 +2246,21 @@
     <title lang="en">SERIE A| MONZA</title>
     <desc lang="en">SERIE A| MONZA</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0084">
-    <title lang="en">SERIE A| NAPOLI</title>
-    <desc lang="en">SERIE A| NAPOLI</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0083">
+    <title lang="en">SERIE A| MONZA</title>
+    <desc lang="en">SERIE A| MONZA</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0084">
-    <title lang="en">SERIE A| NAPOLI</title>
-    <desc lang="en">SERIE A| NAPOLI</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0083">
+    <title lang="en">SERIE A| MONZA</title>
+    <desc lang="en">SERIE A| MONZA</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0084">
-    <title lang="en">SERIE A| NAPOLI</title>
-    <desc lang="en">SERIE A| NAPOLI</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0083">
+    <title lang="en">SERIE A| MONZA</title>
+    <desc lang="en">SERIE A| MONZA</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0084">
-    <title lang="en">SERIE A| NAPOLI</title>
-    <desc lang="en">SERIE A| NAPOLI</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0083">
+    <title lang="en">SERIE A| MONZA</title>
+    <desc lang="en">SERIE A| MONZA</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0084">
     <title lang="en">SERIE A| NAPOLI</title>
@@ -2286,21 +2270,21 @@
     <title lang="en">SERIE A| NAPOLI</title>
     <desc lang="en">SERIE A| NAPOLI</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0085">
-    <title lang="en">SERIE A| ROMA</title>
-    <desc lang="en">SERIE A| ROMA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0084">
+    <title lang="en">SERIE A| NAPOLI</title>
+    <desc lang="en">SERIE A| NAPOLI</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0085">
-    <title lang="en">SERIE A| ROMA</title>
-    <desc lang="en">SERIE A| ROMA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0084">
+    <title lang="en">SERIE A| NAPOLI</title>
+    <desc lang="en">SERIE A| NAPOLI</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0085">
-    <title lang="en">SERIE A| ROMA</title>
-    <desc lang="en">SERIE A| ROMA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0084">
+    <title lang="en">SERIE A| NAPOLI</title>
+    <desc lang="en">SERIE A| NAPOLI</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0085">
-    <title lang="en">SERIE A| ROMA</title>
-    <desc lang="en">SERIE A| ROMA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0084">
+    <title lang="en">SERIE A| NAPOLI</title>
+    <desc lang="en">SERIE A| NAPOLI</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0085">
     <title lang="en">SERIE A| ROMA</title>
@@ -2310,21 +2294,21 @@
     <title lang="en">SERIE A| ROMA</title>
     <desc lang="en">SERIE A| ROMA</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0086">
-    <title lang="en">SERIE A| SALERNITANA</title>
-    <desc lang="en">SERIE A| SALERNITANA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0085">
+    <title lang="en">SERIE A| ROMA</title>
+    <desc lang="en">SERIE A| ROMA</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0086">
-    <title lang="en">SERIE A| SALERNITANA</title>
-    <desc lang="en">SERIE A| SALERNITANA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0085">
+    <title lang="en">SERIE A| ROMA</title>
+    <desc lang="en">SERIE A| ROMA</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0086">
-    <title lang="en">SERIE A| SALERNITANA</title>
-    <desc lang="en">SERIE A| SALERNITANA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0085">
+    <title lang="en">SERIE A| ROMA</title>
+    <desc lang="en">SERIE A| ROMA</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0086">
-    <title lang="en">SERIE A| SALERNITANA</title>
-    <desc lang="en">SERIE A| SALERNITANA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0085">
+    <title lang="en">SERIE A| ROMA</title>
+    <desc lang="en">SERIE A| ROMA</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0086">
     <title lang="en">SERIE A| SALERNITANA</title>
@@ -2334,21 +2318,21 @@
     <title lang="en">SERIE A| SALERNITANA</title>
     <desc lang="en">SERIE A| SALERNITANA</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0087">
-    <title lang="en">SERIE A| SASSUOLO</title>
-    <desc lang="en">SERIE A| SASSUOLO</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0086">
+    <title lang="en">SERIE A| SALERNITANA</title>
+    <desc lang="en">SERIE A| SALERNITANA</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0087">
-    <title lang="en">SERIE A| SASSUOLO</title>
-    <desc lang="en">SERIE A| SASSUOLO</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0086">
+    <title lang="en">SERIE A| SALERNITANA</title>
+    <desc lang="en">SERIE A| SALERNITANA</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0087">
-    <title lang="en">SERIE A| SASSUOLO</title>
-    <desc lang="en">SERIE A| SASSUOLO</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0086">
+    <title lang="en">SERIE A| SALERNITANA</title>
+    <desc lang="en">SERIE A| SALERNITANA</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0087">
-    <title lang="en">SERIE A| SASSUOLO</title>
-    <desc lang="en">SERIE A| SASSUOLO</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0086">
+    <title lang="en">SERIE A| SALERNITANA</title>
+    <desc lang="en">SERIE A| SALERNITANA</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0087">
     <title lang="en">SERIE A| SASSUOLO</title>
@@ -2358,21 +2342,21 @@
     <title lang="en">SERIE A| SASSUOLO</title>
     <desc lang="en">SERIE A| SASSUOLO</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0088">
-    <title lang="en">SERIE A| TORINO</title>
-    <desc lang="en">SERIE A| TORINO</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0087">
+    <title lang="en">SERIE A| SASSUOLO</title>
+    <desc lang="en">SERIE A| SASSUOLO</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0088">
-    <title lang="en">SERIE A| TORINO</title>
-    <desc lang="en">SERIE A| TORINO</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0087">
+    <title lang="en">SERIE A| SASSUOLO</title>
+    <desc lang="en">SERIE A| SASSUOLO</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0088">
-    <title lang="en">SERIE A| TORINO</title>
-    <desc lang="en">SERIE A| TORINO</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0087">
+    <title lang="en">SERIE A| SASSUOLO</title>
+    <desc lang="en">SERIE A| SASSUOLO</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0088">
-    <title lang="en">SERIE A| TORINO</title>
-    <desc lang="en">SERIE A| TORINO</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0087">
+    <title lang="en">SERIE A| SASSUOLO</title>
+    <desc lang="en">SERIE A| SASSUOLO</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0088">
     <title lang="en">SERIE A| TORINO</title>
@@ -2382,21 +2366,21 @@
     <title lang="en">SERIE A| TORINO</title>
     <desc lang="en">SERIE A| TORINO</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0089">
-    <title lang="en">SERIE A| UDINESE</title>
-    <desc lang="en">SERIE A| UDINESE</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0088">
+    <title lang="en">SERIE A| TORINO</title>
+    <desc lang="en">SERIE A| TORINO</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0089">
-    <title lang="en">SERIE A| UDINESE</title>
-    <desc lang="en">SERIE A| UDINESE</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0088">
+    <title lang="en">SERIE A| TORINO</title>
+    <desc lang="en">SERIE A| TORINO</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0089">
-    <title lang="en">SERIE A| UDINESE</title>
-    <desc lang="en">SERIE A| UDINESE</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0088">
+    <title lang="en">SERIE A| TORINO</title>
+    <desc lang="en">SERIE A| TORINO</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0089">
-    <title lang="en">SERIE A| UDINESE</title>
-    <desc lang="en">SERIE A| UDINESE</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0088">
+    <title lang="en">SERIE A| TORINO</title>
+    <desc lang="en">SERIE A| TORINO</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0089">
     <title lang="en">SERIE A| UDINESE</title>
@@ -2406,27 +2390,43 @@
     <title lang="en">SERIE A| UDINESE</title>
     <desc lang="en">SERIE A| UDINESE</desc>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108120000 +0000" channel="ppv.serie.a.0090">
-    <title lang="en">SERIE A| VERONA</title>
-    <desc lang="en">SERIE A| VERONA</desc>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0089">
+    <title lang="en">SERIE A| UDINESE</title>
+    <desc lang="en">SERIE A| UDINESE</desc>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108180000 +0000" channel="ppv.serie.a.0090">
-    <title lang="en">SERIE A| VERONA</title>
-    <desc lang="en">SERIE A| VERONA</desc>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0089">
+    <title lang="en">SERIE A| UDINESE</title>
+    <desc lang="en">SERIE A| UDINESE</desc>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261109000000 +0000" channel="ppv.serie.a.0090">
-    <title lang="en">SERIE A| VERONA</title>
-    <desc lang="en">SERIE A| VERONA</desc>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0089">
+    <title lang="en">SERIE A| UDINESE</title>
+    <desc lang="en">SERIE A| UDINESE</desc>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109060000 +0000" channel="ppv.serie.a.0090">
-    <title lang="en">SERIE A| VERONA</title>
-    <desc lang="en">SERIE A| VERONA</desc>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0089">
+    <title lang="en">SERIE A| UDINESE</title>
+    <desc lang="en">SERIE A| UDINESE</desc>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="ppv.serie.a.0090">
     <title lang="en">SERIE A| VERONA</title>
     <desc lang="en">SERIE A| VERONA</desc>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109180000 +0000" channel="ppv.serie.a.0090">
+    <title lang="en">SERIE A| VERONA</title>
+    <desc lang="en">SERIE A| VERONA</desc>
+  </programme>
+  <programme start="20261109180000 +0000" stop="20261110000000 +0000" channel="ppv.serie.a.0090">
+    <title lang="en">SERIE A| VERONA</title>
+    <desc lang="en">SERIE A| VERONA</desc>
+  </programme>
+  <programme start="20261110000000 +0000" stop="20261110060000 +0000" channel="ppv.serie.a.0090">
+    <title lang="en">SERIE A| VERONA</title>
+    <desc lang="en">SERIE A| VERONA</desc>
+  </programme>
+  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.serie.a.0090">
+    <title lang="en">SERIE A| VERONA</title>
+    <desc lang="en">SERIE A| VERONA</desc>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.serie.a.0090">
     <title lang="en">SERIE A| VERONA</title>
     <desc lang="en">SERIE A| VERONA</desc>
   </programme>
