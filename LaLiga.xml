@@ -294,22 +294,6 @@
   <channel id="ppv.la.liga.0098">
     <display-name>La Liga 0098</display-name>
   </channel>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0001">
-    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
-  </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0001">
-    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
-  </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0001">
-    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
-  </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0001">
-    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
-  </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0001">
     <title lang="en">ES: DAZN LA LIGA 2 SD</title>
     <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
@@ -318,21 +302,21 @@
     <title lang="en">ES: DAZN LA LIGA 2 SD</title>
     <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0002">
-    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0001">
+    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0002">
-    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0001">
+    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0002">
-    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0001">
+    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0002">
-    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0001">
+    <title lang="en">ES: DAZN LA LIGA 2 SD</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 SD</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0002">
     <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
@@ -342,21 +326,21 @@
     <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
     <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0003">
-    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0002">
+    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0003">
-    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0002">
+    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0003">
-    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0002">
+    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0003">
-    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0002">
+    <title lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᴴᴰ</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0003">
     <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
@@ -366,21 +350,21 @@
     <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
     <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0004">
-    <title lang="en">ES: DAZN LA LIGA SD</title>
-    <desc lang="en">ES: DAZN LA LIGA SD</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0003">
+    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0004">
-    <title lang="en">ES: DAZN LA LIGA SD</title>
-    <desc lang="en">ES: DAZN LA LIGA SD</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0003">
+    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0004">
-    <title lang="en">ES: DAZN LA LIGA SD</title>
-    <desc lang="en">ES: DAZN LA LIGA SD</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0003">
+    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0004">
-    <title lang="en">ES: DAZN LA LIGA SD</title>
-    <desc lang="en">ES: DAZN LA LIGA SD</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0003">
+    <title lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA 2 ᵁᴴᴰ</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0004">
     <title lang="en">ES: DAZN LA LIGA SD</title>
@@ -390,21 +374,21 @@
     <title lang="en">ES: DAZN LA LIGA SD</title>
     <desc lang="en">ES: DAZN LA LIGA SD</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0005">
-    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
-    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0004">
+    <title lang="en">ES: DAZN LA LIGA SD</title>
+    <desc lang="en">ES: DAZN LA LIGA SD</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0005">
-    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
-    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0004">
+    <title lang="en">ES: DAZN LA LIGA SD</title>
+    <desc lang="en">ES: DAZN LA LIGA SD</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0005">
-    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
-    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0004">
+    <title lang="en">ES: DAZN LA LIGA SD</title>
+    <desc lang="en">ES: DAZN LA LIGA SD</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0005">
-    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
-    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0004">
+    <title lang="en">ES: DAZN LA LIGA SD</title>
+    <desc lang="en">ES: DAZN LA LIGA SD</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0005">
     <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
@@ -414,21 +398,21 @@
     <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
     <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0006">
-    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0005">
+    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
+    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0006">
-    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0005">
+    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
+    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0006">
-    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0005">
+    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
+    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0006">
-    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0005">
+    <title lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</title>
+    <desc lang="en">ES: DAZN LA LIGA ʰᵉᵛᶜ</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0006">
     <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
@@ -438,21 +422,21 @@
     <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
     <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0007">
-    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0006">
+    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0007">
-    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0006">
+    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0007">
-    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0006">
+    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0007">
-    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
-    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0006">
+    <title lang="en">ES: DAZN LA LIGA ᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᴴᴰ</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0007">
     <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
@@ -462,21 +446,21 @@
     <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
     <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0008">
-    <title lang="en">ALAVES [LIGA]</title>
-    <desc lang="en">ALAVES [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0007">
+    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0008">
-    <title lang="en">ALAVES [LIGA]</title>
-    <desc lang="en">ALAVES [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0007">
+    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0008">
-    <title lang="en">ALAVES [LIGA]</title>
-    <desc lang="en">ALAVES [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0007">
+    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0008">
-    <title lang="en">ALAVES [LIGA]</title>
-    <desc lang="en">ALAVES [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0007">
+    <title lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</title>
+    <desc lang="en">ES: DAZN LA LIGA ᵁᴴᴰ</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0008">
     <title lang="en">ALAVES [LIGA]</title>
@@ -486,21 +470,21 @@
     <title lang="en">ALAVES [LIGA]</title>
     <desc lang="en">ALAVES [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0009">
-    <title lang="en">ALMERÍA [LIGA]</title>
-    <desc lang="en">ALMERÍA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0008">
+    <title lang="en">ALAVES [LIGA]</title>
+    <desc lang="en">ALAVES [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0009">
-    <title lang="en">ALMERÍA [LIGA]</title>
-    <desc lang="en">ALMERÍA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0008">
+    <title lang="en">ALAVES [LIGA]</title>
+    <desc lang="en">ALAVES [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0009">
-    <title lang="en">ALMERÍA [LIGA]</title>
-    <desc lang="en">ALMERÍA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0008">
+    <title lang="en">ALAVES [LIGA]</title>
+    <desc lang="en">ALAVES [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0009">
-    <title lang="en">ALMERÍA [LIGA]</title>
-    <desc lang="en">ALMERÍA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0008">
+    <title lang="en">ALAVES [LIGA]</title>
+    <desc lang="en">ALAVES [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0009">
     <title lang="en">ALMERÍA [LIGA]</title>
@@ -510,21 +494,21 @@
     <title lang="en">ALMERÍA [LIGA]</title>
     <desc lang="en">ALMERÍA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0010">
-    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
-    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0009">
+    <title lang="en">ALMERÍA [LIGA]</title>
+    <desc lang="en">ALMERÍA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0010">
-    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
-    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0009">
+    <title lang="en">ALMERÍA [LIGA]</title>
+    <desc lang="en">ALMERÍA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0010">
-    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
-    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0009">
+    <title lang="en">ALMERÍA [LIGA]</title>
+    <desc lang="en">ALMERÍA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0010">
-    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
-    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0009">
+    <title lang="en">ALMERÍA [LIGA]</title>
+    <desc lang="en">ALMERÍA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0010">
     <title lang="en">ATHLETIC BILBAO [LIGA]</title>
@@ -534,21 +518,21 @@
     <title lang="en">ATHLETIC BILBAO [LIGA]</title>
     <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0011">
-    <title lang="en">ATLETICO MADRID [LIGA]</title>
-    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0010">
+    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
+    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0011">
-    <title lang="en">ATLETICO MADRID [LIGA]</title>
-    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0010">
+    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
+    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0011">
-    <title lang="en">ATLETICO MADRID [LIGA]</title>
-    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0010">
+    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
+    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0011">
-    <title lang="en">ATLETICO MADRID [LIGA]</title>
-    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0010">
+    <title lang="en">ATHLETIC BILBAO [LIGA]</title>
+    <desc lang="en">ATHLETIC BILBAO [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0011">
     <title lang="en">ATLETICO MADRID [LIGA]</title>
@@ -558,21 +542,21 @@
     <title lang="en">ATLETICO MADRID [LIGA]</title>
     <desc lang="en">ATLETICO MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0012">
-    <title lang="en">BARCELONA [LIGA]</title>
-    <desc lang="en">BARCELONA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0011">
+    <title lang="en">ATLETICO MADRID [LIGA]</title>
+    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0012">
-    <title lang="en">BARCELONA [LIGA]</title>
-    <desc lang="en">BARCELONA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0011">
+    <title lang="en">ATLETICO MADRID [LIGA]</title>
+    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0012">
-    <title lang="en">BARCELONA [LIGA]</title>
-    <desc lang="en">BARCELONA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0011">
+    <title lang="en">ATLETICO MADRID [LIGA]</title>
+    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0012">
-    <title lang="en">BARCELONA [LIGA]</title>
-    <desc lang="en">BARCELONA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0011">
+    <title lang="en">ATLETICO MADRID [LIGA]</title>
+    <desc lang="en">ATLETICO MADRID [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0012">
     <title lang="en">BARCELONA [LIGA]</title>
@@ -582,21 +566,21 @@
     <title lang="en">BARCELONA [LIGA]</title>
     <desc lang="en">BARCELONA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0013">
-    <title lang="en">CADIZ [LIGA]</title>
-    <desc lang="en">CADIZ [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0012">
+    <title lang="en">BARCELONA [LIGA]</title>
+    <desc lang="en">BARCELONA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0013">
-    <title lang="en">CADIZ [LIGA]</title>
-    <desc lang="en">CADIZ [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0012">
+    <title lang="en">BARCELONA [LIGA]</title>
+    <desc lang="en">BARCELONA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0013">
-    <title lang="en">CADIZ [LIGA]</title>
-    <desc lang="en">CADIZ [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0012">
+    <title lang="en">BARCELONA [LIGA]</title>
+    <desc lang="en">BARCELONA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0013">
-    <title lang="en">CADIZ [LIGA]</title>
-    <desc lang="en">CADIZ [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0012">
+    <title lang="en">BARCELONA [LIGA]</title>
+    <desc lang="en">BARCELONA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0013">
     <title lang="en">CADIZ [LIGA]</title>
@@ -606,21 +590,21 @@
     <title lang="en">CADIZ [LIGA]</title>
     <desc lang="en">CADIZ [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0014">
-    <title lang="en">CELTA VIGO [LIGA]</title>
-    <desc lang="en">CELTA VIGO [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0013">
+    <title lang="en">CADIZ [LIGA]</title>
+    <desc lang="en">CADIZ [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0014">
-    <title lang="en">CELTA VIGO [LIGA]</title>
-    <desc lang="en">CELTA VIGO [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0013">
+    <title lang="en">CADIZ [LIGA]</title>
+    <desc lang="en">CADIZ [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0014">
-    <title lang="en">CELTA VIGO [LIGA]</title>
-    <desc lang="en">CELTA VIGO [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0013">
+    <title lang="en">CADIZ [LIGA]</title>
+    <desc lang="en">CADIZ [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0014">
-    <title lang="en">CELTA VIGO [LIGA]</title>
-    <desc lang="en">CELTA VIGO [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0013">
+    <title lang="en">CADIZ [LIGA]</title>
+    <desc lang="en">CADIZ [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0014">
     <title lang="en">CELTA VIGO [LIGA]</title>
@@ -630,21 +614,21 @@
     <title lang="en">CELTA VIGO [LIGA]</title>
     <desc lang="en">CELTA VIGO [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0015">
-    <title lang="en">GETAFE [LIGA]</title>
-    <desc lang="en">GETAFE [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0014">
+    <title lang="en">CELTA VIGO [LIGA]</title>
+    <desc lang="en">CELTA VIGO [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0015">
-    <title lang="en">GETAFE [LIGA]</title>
-    <desc lang="en">GETAFE [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0014">
+    <title lang="en">CELTA VIGO [LIGA]</title>
+    <desc lang="en">CELTA VIGO [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0015">
-    <title lang="en">GETAFE [LIGA]</title>
-    <desc lang="en">GETAFE [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0014">
+    <title lang="en">CELTA VIGO [LIGA]</title>
+    <desc lang="en">CELTA VIGO [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0015">
-    <title lang="en">GETAFE [LIGA]</title>
-    <desc lang="en">GETAFE [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0014">
+    <title lang="en">CELTA VIGO [LIGA]</title>
+    <desc lang="en">CELTA VIGO [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0015">
     <title lang="en">GETAFE [LIGA]</title>
@@ -654,21 +638,21 @@
     <title lang="en">GETAFE [LIGA]</title>
     <desc lang="en">GETAFE [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0016">
-    <title lang="en">GIRONA [LIGA]</title>
-    <desc lang="en">GIRONA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0015">
+    <title lang="en">GETAFE [LIGA]</title>
+    <desc lang="en">GETAFE [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0016">
-    <title lang="en">GIRONA [LIGA]</title>
-    <desc lang="en">GIRONA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0015">
+    <title lang="en">GETAFE [LIGA]</title>
+    <desc lang="en">GETAFE [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0016">
-    <title lang="en">GIRONA [LIGA]</title>
-    <desc lang="en">GIRONA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0015">
+    <title lang="en">GETAFE [LIGA]</title>
+    <desc lang="en">GETAFE [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0016">
-    <title lang="en">GIRONA [LIGA]</title>
-    <desc lang="en">GIRONA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0015">
+    <title lang="en">GETAFE [LIGA]</title>
+    <desc lang="en">GETAFE [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0016">
     <title lang="en">GIRONA [LIGA]</title>
@@ -678,21 +662,21 @@
     <title lang="en">GIRONA [LIGA]</title>
     <desc lang="en">GIRONA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0017">
-    <title lang="en">GRANADA [LIGA]</title>
-    <desc lang="en">GRANADA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0016">
+    <title lang="en">GIRONA [LIGA]</title>
+    <desc lang="en">GIRONA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0017">
-    <title lang="en">GRANADA [LIGA]</title>
-    <desc lang="en">GRANADA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0016">
+    <title lang="en">GIRONA [LIGA]</title>
+    <desc lang="en">GIRONA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0017">
-    <title lang="en">GRANADA [LIGA]</title>
-    <desc lang="en">GRANADA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0016">
+    <title lang="en">GIRONA [LIGA]</title>
+    <desc lang="en">GIRONA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0017">
-    <title lang="en">GRANADA [LIGA]</title>
-    <desc lang="en">GRANADA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0016">
+    <title lang="en">GIRONA [LIGA]</title>
+    <desc lang="en">GIRONA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0017">
     <title lang="en">GRANADA [LIGA]</title>
@@ -702,21 +686,21 @@
     <title lang="en">GRANADA [LIGA]</title>
     <desc lang="en">GRANADA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0018">
-    <title lang="en">LAS PALMAS [LIGA]</title>
-    <desc lang="en">LAS PALMAS [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0017">
+    <title lang="en">GRANADA [LIGA]</title>
+    <desc lang="en">GRANADA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0018">
-    <title lang="en">LAS PALMAS [LIGA]</title>
-    <desc lang="en">LAS PALMAS [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0017">
+    <title lang="en">GRANADA [LIGA]</title>
+    <desc lang="en">GRANADA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0018">
-    <title lang="en">LAS PALMAS [LIGA]</title>
-    <desc lang="en">LAS PALMAS [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0017">
+    <title lang="en">GRANADA [LIGA]</title>
+    <desc lang="en">GRANADA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0018">
-    <title lang="en">LAS PALMAS [LIGA]</title>
-    <desc lang="en">LAS PALMAS [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0017">
+    <title lang="en">GRANADA [LIGA]</title>
+    <desc lang="en">GRANADA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0018">
     <title lang="en">LAS PALMAS [LIGA]</title>
@@ -726,21 +710,21 @@
     <title lang="en">LAS PALMAS [LIGA]</title>
     <desc lang="en">LAS PALMAS [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0019">
-    <title lang="en">MALLORCA [LIGA]</title>
-    <desc lang="en">MALLORCA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0018">
+    <title lang="en">LAS PALMAS [LIGA]</title>
+    <desc lang="en">LAS PALMAS [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0019">
-    <title lang="en">MALLORCA [LIGA]</title>
-    <desc lang="en">MALLORCA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0018">
+    <title lang="en">LAS PALMAS [LIGA]</title>
+    <desc lang="en">LAS PALMAS [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0019">
-    <title lang="en">MALLORCA [LIGA]</title>
-    <desc lang="en">MALLORCA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0018">
+    <title lang="en">LAS PALMAS [LIGA]</title>
+    <desc lang="en">LAS PALMAS [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0019">
-    <title lang="en">MALLORCA [LIGA]</title>
-    <desc lang="en">MALLORCA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0018">
+    <title lang="en">LAS PALMAS [LIGA]</title>
+    <desc lang="en">LAS PALMAS [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0019">
     <title lang="en">MALLORCA [LIGA]</title>
@@ -750,21 +734,21 @@
     <title lang="en">MALLORCA [LIGA]</title>
     <desc lang="en">MALLORCA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0020">
-    <title lang="en">OSASUNA [LIGA]</title>
-    <desc lang="en">OSASUNA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0019">
+    <title lang="en">MALLORCA [LIGA]</title>
+    <desc lang="en">MALLORCA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0020">
-    <title lang="en">OSASUNA [LIGA]</title>
-    <desc lang="en">OSASUNA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0019">
+    <title lang="en">MALLORCA [LIGA]</title>
+    <desc lang="en">MALLORCA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0020">
-    <title lang="en">OSASUNA [LIGA]</title>
-    <desc lang="en">OSASUNA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0019">
+    <title lang="en">MALLORCA [LIGA]</title>
+    <desc lang="en">MALLORCA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0020">
-    <title lang="en">OSASUNA [LIGA]</title>
-    <desc lang="en">OSASUNA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0019">
+    <title lang="en">MALLORCA [LIGA]</title>
+    <desc lang="en">MALLORCA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0020">
     <title lang="en">OSASUNA [LIGA]</title>
@@ -774,21 +758,21 @@
     <title lang="en">OSASUNA [LIGA]</title>
     <desc lang="en">OSASUNA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0021">
-    <title lang="en">RAYO VALLECANO [LIGA]</title>
-    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0020">
+    <title lang="en">OSASUNA [LIGA]</title>
+    <desc lang="en">OSASUNA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0021">
-    <title lang="en">RAYO VALLECANO [LIGA]</title>
-    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0020">
+    <title lang="en">OSASUNA [LIGA]</title>
+    <desc lang="en">OSASUNA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0021">
-    <title lang="en">RAYO VALLECANO [LIGA]</title>
-    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0020">
+    <title lang="en">OSASUNA [LIGA]</title>
+    <desc lang="en">OSASUNA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0021">
-    <title lang="en">RAYO VALLECANO [LIGA]</title>
-    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0020">
+    <title lang="en">OSASUNA [LIGA]</title>
+    <desc lang="en">OSASUNA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0021">
     <title lang="en">RAYO VALLECANO [LIGA]</title>
@@ -798,21 +782,21 @@
     <title lang="en">RAYO VALLECANO [LIGA]</title>
     <desc lang="en">RAYO VALLECANO [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0022">
-    <title lang="en">REAL BETIS [LIGA]</title>
-    <desc lang="en">REAL BETIS [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0021">
+    <title lang="en">RAYO VALLECANO [LIGA]</title>
+    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0022">
-    <title lang="en">REAL BETIS [LIGA]</title>
-    <desc lang="en">REAL BETIS [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0021">
+    <title lang="en">RAYO VALLECANO [LIGA]</title>
+    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0022">
-    <title lang="en">REAL BETIS [LIGA]</title>
-    <desc lang="en">REAL BETIS [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0021">
+    <title lang="en">RAYO VALLECANO [LIGA]</title>
+    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0022">
-    <title lang="en">REAL BETIS [LIGA]</title>
-    <desc lang="en">REAL BETIS [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0021">
+    <title lang="en">RAYO VALLECANO [LIGA]</title>
+    <desc lang="en">RAYO VALLECANO [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0022">
     <title lang="en">REAL BETIS [LIGA]</title>
@@ -822,21 +806,21 @@
     <title lang="en">REAL BETIS [LIGA]</title>
     <desc lang="en">REAL BETIS [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0023">
-    <title lang="en">REAL MADRID [LIGA]</title>
-    <desc lang="en">REAL MADRID [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0022">
+    <title lang="en">REAL BETIS [LIGA]</title>
+    <desc lang="en">REAL BETIS [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0023">
-    <title lang="en">REAL MADRID [LIGA]</title>
-    <desc lang="en">REAL MADRID [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0022">
+    <title lang="en">REAL BETIS [LIGA]</title>
+    <desc lang="en">REAL BETIS [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0023">
-    <title lang="en">REAL MADRID [LIGA]</title>
-    <desc lang="en">REAL MADRID [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0022">
+    <title lang="en">REAL BETIS [LIGA]</title>
+    <desc lang="en">REAL BETIS [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0023">
-    <title lang="en">REAL MADRID [LIGA]</title>
-    <desc lang="en">REAL MADRID [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0022">
+    <title lang="en">REAL BETIS [LIGA]</title>
+    <desc lang="en">REAL BETIS [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0023">
     <title lang="en">REAL MADRID [LIGA]</title>
@@ -846,21 +830,21 @@
     <title lang="en">REAL MADRID [LIGA]</title>
     <desc lang="en">REAL MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0024">
-    <title lang="en">REAL SOCIEDAD [LIGA]</title>
-    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0023">
+    <title lang="en">REAL MADRID [LIGA]</title>
+    <desc lang="en">REAL MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0024">
-    <title lang="en">REAL SOCIEDAD [LIGA]</title>
-    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0023">
+    <title lang="en">REAL MADRID [LIGA]</title>
+    <desc lang="en">REAL MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0024">
-    <title lang="en">REAL SOCIEDAD [LIGA]</title>
-    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0023">
+    <title lang="en">REAL MADRID [LIGA]</title>
+    <desc lang="en">REAL MADRID [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0024">
-    <title lang="en">REAL SOCIEDAD [LIGA]</title>
-    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0023">
+    <title lang="en">REAL MADRID [LIGA]</title>
+    <desc lang="en">REAL MADRID [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0024">
     <title lang="en">REAL SOCIEDAD [LIGA]</title>
@@ -870,21 +854,21 @@
     <title lang="en">REAL SOCIEDAD [LIGA]</title>
     <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0025">
-    <title lang="en">SEVILLA [LIGA]</title>
-    <desc lang="en">SEVILLA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0024">
+    <title lang="en">REAL SOCIEDAD [LIGA]</title>
+    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0025">
-    <title lang="en">SEVILLA [LIGA]</title>
-    <desc lang="en">SEVILLA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0024">
+    <title lang="en">REAL SOCIEDAD [LIGA]</title>
+    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0025">
-    <title lang="en">SEVILLA [LIGA]</title>
-    <desc lang="en">SEVILLA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0024">
+    <title lang="en">REAL SOCIEDAD [LIGA]</title>
+    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0025">
-    <title lang="en">SEVILLA [LIGA]</title>
-    <desc lang="en">SEVILLA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0024">
+    <title lang="en">REAL SOCIEDAD [LIGA]</title>
+    <desc lang="en">REAL SOCIEDAD [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0025">
     <title lang="en">SEVILLA [LIGA]</title>
@@ -894,21 +878,21 @@
     <title lang="en">SEVILLA [LIGA]</title>
     <desc lang="en">SEVILLA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0026">
-    <title lang="en">VALENCIA [LIGA]</title>
-    <desc lang="en">VALENCIA [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0025">
+    <title lang="en">SEVILLA [LIGA]</title>
+    <desc lang="en">SEVILLA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0026">
-    <title lang="en">VALENCIA [LIGA]</title>
-    <desc lang="en">VALENCIA [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0025">
+    <title lang="en">SEVILLA [LIGA]</title>
+    <desc lang="en">SEVILLA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0026">
-    <title lang="en">VALENCIA [LIGA]</title>
-    <desc lang="en">VALENCIA [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0025">
+    <title lang="en">SEVILLA [LIGA]</title>
+    <desc lang="en">SEVILLA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0026">
-    <title lang="en">VALENCIA [LIGA]</title>
-    <desc lang="en">VALENCIA [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0025">
+    <title lang="en">SEVILLA [LIGA]</title>
+    <desc lang="en">SEVILLA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0026">
     <title lang="en">VALENCIA [LIGA]</title>
@@ -918,21 +902,21 @@
     <title lang="en">VALENCIA [LIGA]</title>
     <desc lang="en">VALENCIA [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0027">
-    <title lang="en">VILLAREAL [LIGA]</title>
-    <desc lang="en">VILLAREAL [LIGA]</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0026">
+    <title lang="en">VALENCIA [LIGA]</title>
+    <desc lang="en">VALENCIA [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0027">
-    <title lang="en">VILLAREAL [LIGA]</title>
-    <desc lang="en">VILLAREAL [LIGA]</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0026">
+    <title lang="en">VALENCIA [LIGA]</title>
+    <desc lang="en">VALENCIA [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0027">
-    <title lang="en">VILLAREAL [LIGA]</title>
-    <desc lang="en">VILLAREAL [LIGA]</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0026">
+    <title lang="en">VALENCIA [LIGA]</title>
+    <desc lang="en">VALENCIA [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0027">
-    <title lang="en">VILLAREAL [LIGA]</title>
-    <desc lang="en">VILLAREAL [LIGA]</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0026">
+    <title lang="en">VALENCIA [LIGA]</title>
+    <desc lang="en">VALENCIA [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0027">
     <title lang="en">VILLAREAL [LIGA]</title>
@@ -942,21 +926,21 @@
     <title lang="en">VILLAREAL [LIGA]</title>
     <desc lang="en">VILLAREAL [LIGA]</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0028">
-    <title lang="en">ALB - NO MATCH</title>
-    <desc lang="en">ALB - NO MATCH</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0027">
+    <title lang="en">VILLAREAL [LIGA]</title>
+    <desc lang="en">VILLAREAL [LIGA]</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0028">
-    <title lang="en">ALB - NO MATCH</title>
-    <desc lang="en">ALB - NO MATCH</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0027">
+    <title lang="en">VILLAREAL [LIGA]</title>
+    <desc lang="en">VILLAREAL [LIGA]</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0028">
-    <title lang="en">ALB - NO MATCH</title>
-    <desc lang="en">ALB - NO MATCH</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0027">
+    <title lang="en">VILLAREAL [LIGA]</title>
+    <desc lang="en">VILLAREAL [LIGA]</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0028">
-    <title lang="en">ALB - NO MATCH</title>
-    <desc lang="en">ALB - NO MATCH</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0027">
+    <title lang="en">VILLAREAL [LIGA]</title>
+    <desc lang="en">VILLAREAL [LIGA]</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0028">
     <title lang="en">ALB - NO MATCH</title>
@@ -966,19 +950,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0029">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0028">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0029">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0028">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0029">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0028">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0029">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0028">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -990,19 +974,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0030">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0029">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0030">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0029">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0030">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0029">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0030">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0029">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1014,19 +998,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0031">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0030">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0031">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0030">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0031">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0030">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0031">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0030">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1038,19 +1022,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0032">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0031">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0032">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0031">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0032">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0031">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0032">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0031">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1062,19 +1046,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0033">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0032">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0033">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0032">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0033">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0032">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0033">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0032">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1086,19 +1070,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0034">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0033">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0034">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0033">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0034">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0033">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0034">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0033">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1110,19 +1094,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0035">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0034">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0035">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0034">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0035">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0034">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0035">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0034">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1134,19 +1118,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0036">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0035">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0036">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0035">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0036">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0035">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0036">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0035">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1158,19 +1142,19 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0037">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0036">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0037">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0036">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0037">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0036">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0037">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0036">
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
@@ -1182,21 +1166,21 @@
     <title lang="en">ALB - NO MATCH</title>
     <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0038">
-    <title lang="en">AR - NO MATCH</title>
-    <desc lang="en">AR - NO MATCH</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0037">
+    <title lang="en">ALB - NO MATCH</title>
+    <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0038">
-    <title lang="en">AR - NO MATCH</title>
-    <desc lang="en">AR - NO MATCH</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0037">
+    <title lang="en">ALB - NO MATCH</title>
+    <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0038">
-    <title lang="en">AR - NO MATCH</title>
-    <desc lang="en">AR - NO MATCH</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0037">
+    <title lang="en">ALB - NO MATCH</title>
+    <desc lang="en">ALB - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0038">
-    <title lang="en">AR - NO MATCH</title>
-    <desc lang="en">AR - NO MATCH</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0037">
+    <title lang="en">ALB - NO MATCH</title>
+    <desc lang="en">ALB - NO MATCH</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0038">
     <title lang="en">AR - NO MATCH</title>
@@ -1206,19 +1190,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0039">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0038">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0039">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0038">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0039">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0038">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0039">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0038">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1230,19 +1214,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0040">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0039">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0040">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0039">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0040">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0039">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0040">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0039">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1254,19 +1238,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0041">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0040">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0041">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0040">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0041">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0040">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0041">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0040">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1278,19 +1262,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0042">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0042">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0042">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0042">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0041">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1302,19 +1286,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0043">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0043">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0043">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0043">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0042">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1326,19 +1310,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0044">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0044">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0044">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0044">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0043">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1350,19 +1334,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0045">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0045">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0045">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0045">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0044">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1374,19 +1358,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0046">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0045">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0046">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0045">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0046">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0045">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0046">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0045">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1398,19 +1382,19 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0047">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0046">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0047">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0046">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0047">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0046">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0047">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0046">
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
@@ -1422,21 +1406,21 @@
     <title lang="en">AR - NO MATCH</title>
     <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0048">
-    <title lang="en">EN - NO MATCH</title>
-    <desc lang="en">EN - NO MATCH</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0047">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0048">
-    <title lang="en">EN - NO MATCH</title>
-    <desc lang="en">EN - NO MATCH</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0047">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0048">
-    <title lang="en">EN - NO MATCH</title>
-    <desc lang="en">EN - NO MATCH</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0047">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0048">
-    <title lang="en">EN - NO MATCH</title>
-    <desc lang="en">EN - NO MATCH</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0047">
+    <title lang="en">AR - NO MATCH</title>
+    <desc lang="en">AR - NO MATCH</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0048">
     <title lang="en">EN - NO MATCH</title>
@@ -1446,19 +1430,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0049">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0048">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0049">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0048">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0049">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0048">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0049">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0048">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1470,19 +1454,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0050">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0049">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0050">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0049">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0050">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0049">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0050">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0049">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1494,19 +1478,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0051">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0050">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0051">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0050">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0051">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0050">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0051">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0050">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1518,19 +1502,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0052">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0051">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0052">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0051">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0052">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0051">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0052">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0051">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1542,19 +1526,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0053">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0053">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0053">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0053">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0052">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1566,19 +1550,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0054">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0054">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0054">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0054">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0053">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1590,19 +1574,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0055">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0054">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0055">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0054">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0055">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0054">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0055">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0054">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1614,19 +1598,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0056">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0055">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0056">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0055">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0056">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0055">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0056">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0055">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1638,19 +1622,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0057">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0057">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0057">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0057">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0056">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1662,19 +1646,19 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0058">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0058">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0058">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0058">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0057">
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
@@ -1686,21 +1670,21 @@
     <title lang="en">EN - NO MATCH</title>
     <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0059">
-    <title lang="en">ES - NO MATCH</title>
-    <desc lang="en">ES - NO MATCH</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0058">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0059">
-    <title lang="en">ES - NO MATCH</title>
-    <desc lang="en">ES - NO MATCH</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0058">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0059">
-    <title lang="en">ES - NO MATCH</title>
-    <desc lang="en">ES - NO MATCH</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0058">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0059">
-    <title lang="en">ES - NO MATCH</title>
-    <desc lang="en">ES - NO MATCH</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0058">
+    <title lang="en">EN - NO MATCH</title>
+    <desc lang="en">EN - NO MATCH</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0059">
     <title lang="en">ES - NO MATCH</title>
@@ -1710,19 +1694,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0060">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0059">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0060">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0059">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0060">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0059">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0060">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0059">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1734,19 +1718,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0061">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0060">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0061">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0060">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0061">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0060">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0061">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0060">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1758,19 +1742,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0062">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0061">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0062">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0061">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0062">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0061">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0062">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0061">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1782,19 +1766,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0063">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0062">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0063">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0062">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0063">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0062">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0063">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0062">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1806,19 +1790,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0064">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0063">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0064">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0063">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0064">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0063">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0064">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0063">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1830,19 +1814,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0065">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0064">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0065">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0064">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0065">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0064">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0065">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0064">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1854,19 +1838,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0066">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0065">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0066">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0065">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0066">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0065">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0066">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0065">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1878,19 +1862,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0067">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0066">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0067">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0066">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0067">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0066">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0067">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0066">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1902,19 +1886,19 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0068">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0067">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0068">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0067">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0068">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0067">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0068">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0067">
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
@@ -1926,21 +1910,21 @@
     <title lang="en">ES - NO MATCH</title>
     <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0069">
-    <title lang="en">FR - NO MATCH</title>
-    <desc lang="en">FR - NO MATCH</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0068">
+    <title lang="en">ES - NO MATCH</title>
+    <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0069">
-    <title lang="en">FR - NO MATCH</title>
-    <desc lang="en">FR - NO MATCH</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0068">
+    <title lang="en">ES - NO MATCH</title>
+    <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0069">
-    <title lang="en">FR - NO MATCH</title>
-    <desc lang="en">FR - NO MATCH</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0068">
+    <title lang="en">ES - NO MATCH</title>
+    <desc lang="en">ES - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0069">
-    <title lang="en">FR - NO MATCH</title>
-    <desc lang="en">FR - NO MATCH</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0068">
+    <title lang="en">ES - NO MATCH</title>
+    <desc lang="en">ES - NO MATCH</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0069">
     <title lang="en">FR - NO MATCH</title>
@@ -1950,19 +1934,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0070">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0069">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0070">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0069">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0070">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0069">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0070">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0069">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -1974,19 +1958,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0071">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0070">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0071">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0070">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0071">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0070">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0071">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0070">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -1998,19 +1982,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0072">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0071">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0072">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0071">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0072">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0071">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0072">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0071">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2022,19 +2006,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0073">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0072">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0073">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0072">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0073">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0072">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0073">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0072">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2046,19 +2030,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0074">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0073">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0074">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0073">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0074">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0073">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0074">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0073">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2070,19 +2054,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0075">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0074">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0075">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0074">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0075">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0074">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0075">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0074">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2094,19 +2078,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0076">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0075">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0076">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0075">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0076">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0075">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0076">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0075">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2118,19 +2102,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0077">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0076">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0077">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0076">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0077">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0076">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0077">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0076">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2142,19 +2126,19 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0078">
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0077">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0078">
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0077">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0078">
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0077">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0078">
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0077">
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
@@ -2166,21 +2150,21 @@
     <title lang="en">FR - NO MATCH</title>
     <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0079">
-    <title lang="en">LA LIGA| ALAVES</title>
-    <desc lang="en">LA LIGA| ALAVES</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0078">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0079">
-    <title lang="en">LA LIGA| ALAVES</title>
-    <desc lang="en">LA LIGA| ALAVES</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0078">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0079">
-    <title lang="en">LA LIGA| ALAVES</title>
-    <desc lang="en">LA LIGA| ALAVES</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0078">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0079">
-    <title lang="en">LA LIGA| ALAVES</title>
-    <desc lang="en">LA LIGA| ALAVES</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0078">
+    <title lang="en">FR - NO MATCH</title>
+    <desc lang="en">FR - NO MATCH</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0079">
     <title lang="en">LA LIGA| ALAVES</title>
@@ -2190,21 +2174,21 @@
     <title lang="en">LA LIGA| ALAVES</title>
     <desc lang="en">LA LIGA| ALAVES</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0080">
-    <title lang="en">LA LIGA| ALMERÍA</title>
-    <desc lang="en">LA LIGA| ALMERÍA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0079">
+    <title lang="en">LA LIGA| ALAVES</title>
+    <desc lang="en">LA LIGA| ALAVES</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0080">
-    <title lang="en">LA LIGA| ALMERÍA</title>
-    <desc lang="en">LA LIGA| ALMERÍA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0079">
+    <title lang="en">LA LIGA| ALAVES</title>
+    <desc lang="en">LA LIGA| ALAVES</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0080">
-    <title lang="en">LA LIGA| ALMERÍA</title>
-    <desc lang="en">LA LIGA| ALMERÍA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0079">
+    <title lang="en">LA LIGA| ALAVES</title>
+    <desc lang="en">LA LIGA| ALAVES</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0080">
-    <title lang="en">LA LIGA| ALMERÍA</title>
-    <desc lang="en">LA LIGA| ALMERÍA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0079">
+    <title lang="en">LA LIGA| ALAVES</title>
+    <desc lang="en">LA LIGA| ALAVES</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0080">
     <title lang="en">LA LIGA| ALMERÍA</title>
@@ -2214,21 +2198,21 @@
     <title lang="en">LA LIGA| ALMERÍA</title>
     <desc lang="en">LA LIGA| ALMERÍA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0081">
-    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
-    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0080">
+    <title lang="en">LA LIGA| ALMERÍA</title>
+    <desc lang="en">LA LIGA| ALMERÍA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0081">
-    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
-    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0080">
+    <title lang="en">LA LIGA| ALMERÍA</title>
+    <desc lang="en">LA LIGA| ALMERÍA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0081">
-    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
-    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0080">
+    <title lang="en">LA LIGA| ALMERÍA</title>
+    <desc lang="en">LA LIGA| ALMERÍA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0081">
-    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
-    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0080">
+    <title lang="en">LA LIGA| ALMERÍA</title>
+    <desc lang="en">LA LIGA| ALMERÍA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0081">
     <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
@@ -2238,21 +2222,21 @@
     <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
     <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0082">
-    <title lang="en">LA LIGA| ATLETICO MADRID</title>
-    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0081">
+    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
+    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0082">
-    <title lang="en">LA LIGA| ATLETICO MADRID</title>
-    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0081">
+    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
+    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0082">
-    <title lang="en">LA LIGA| ATLETICO MADRID</title>
-    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0081">
+    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
+    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0082">
-    <title lang="en">LA LIGA| ATLETICO MADRID</title>
-    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0081">
+    <title lang="en">LA LIGA| ATHLETIC BILBAO</title>
+    <desc lang="en">LA LIGA| ATHLETIC BILBAO</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0082">
     <title lang="en">LA LIGA| ATLETICO MADRID</title>
@@ -2262,21 +2246,21 @@
     <title lang="en">LA LIGA| ATLETICO MADRID</title>
     <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0083">
-    <title lang="en">LA LIGA| BARCELONA</title>
-    <desc lang="en">LA LIGA| BARCELONA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0082">
+    <title lang="en">LA LIGA| ATLETICO MADRID</title>
+    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0083">
-    <title lang="en">LA LIGA| BARCELONA</title>
-    <desc lang="en">LA LIGA| BARCELONA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0082">
+    <title lang="en">LA LIGA| ATLETICO MADRID</title>
+    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0083">
-    <title lang="en">LA LIGA| BARCELONA</title>
-    <desc lang="en">LA LIGA| BARCELONA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0082">
+    <title lang="en">LA LIGA| ATLETICO MADRID</title>
+    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0083">
-    <title lang="en">LA LIGA| BARCELONA</title>
-    <desc lang="en">LA LIGA| BARCELONA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0082">
+    <title lang="en">LA LIGA| ATLETICO MADRID</title>
+    <desc lang="en">LA LIGA| ATLETICO MADRID</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0083">
     <title lang="en">LA LIGA| BARCELONA</title>
@@ -2286,21 +2270,21 @@
     <title lang="en">LA LIGA| BARCELONA</title>
     <desc lang="en">LA LIGA| BARCELONA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0084">
-    <title lang="en">LA LIGA| CADIZ</title>
-    <desc lang="en">LA LIGA| CADIZ</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0083">
+    <title lang="en">LA LIGA| BARCELONA</title>
+    <desc lang="en">LA LIGA| BARCELONA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0084">
-    <title lang="en">LA LIGA| CADIZ</title>
-    <desc lang="en">LA LIGA| CADIZ</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0083">
+    <title lang="en">LA LIGA| BARCELONA</title>
+    <desc lang="en">LA LIGA| BARCELONA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0084">
-    <title lang="en">LA LIGA| CADIZ</title>
-    <desc lang="en">LA LIGA| CADIZ</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0083">
+    <title lang="en">LA LIGA| BARCELONA</title>
+    <desc lang="en">LA LIGA| BARCELONA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0084">
-    <title lang="en">LA LIGA| CADIZ</title>
-    <desc lang="en">LA LIGA| CADIZ</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0083">
+    <title lang="en">LA LIGA| BARCELONA</title>
+    <desc lang="en">LA LIGA| BARCELONA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0084">
     <title lang="en">LA LIGA| CADIZ</title>
@@ -2310,21 +2294,21 @@
     <title lang="en">LA LIGA| CADIZ</title>
     <desc lang="en">LA LIGA| CADIZ</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0085">
-    <title lang="en">LA LIGA| CELTA VIGO</title>
-    <desc lang="en">LA LIGA| CELTA VIGO</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0084">
+    <title lang="en">LA LIGA| CADIZ</title>
+    <desc lang="en">LA LIGA| CADIZ</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0085">
-    <title lang="en">LA LIGA| CELTA VIGO</title>
-    <desc lang="en">LA LIGA| CELTA VIGO</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0084">
+    <title lang="en">LA LIGA| CADIZ</title>
+    <desc lang="en">LA LIGA| CADIZ</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0085">
-    <title lang="en">LA LIGA| CELTA VIGO</title>
-    <desc lang="en">LA LIGA| CELTA VIGO</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0084">
+    <title lang="en">LA LIGA| CADIZ</title>
+    <desc lang="en">LA LIGA| CADIZ</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0085">
-    <title lang="en">LA LIGA| CELTA VIGO</title>
-    <desc lang="en">LA LIGA| CELTA VIGO</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0084">
+    <title lang="en">LA LIGA| CADIZ</title>
+    <desc lang="en">LA LIGA| CADIZ</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0085">
     <title lang="en">LA LIGA| CELTA VIGO</title>
@@ -2334,21 +2318,21 @@
     <title lang="en">LA LIGA| CELTA VIGO</title>
     <desc lang="en">LA LIGA| CELTA VIGO</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0086">
-    <title lang="en">LA LIGA| GETAFE</title>
-    <desc lang="en">LA LIGA| GETAFE</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0085">
+    <title lang="en">LA LIGA| CELTA VIGO</title>
+    <desc lang="en">LA LIGA| CELTA VIGO</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0086">
-    <title lang="en">LA LIGA| GETAFE</title>
-    <desc lang="en">LA LIGA| GETAFE</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0085">
+    <title lang="en">LA LIGA| CELTA VIGO</title>
+    <desc lang="en">LA LIGA| CELTA VIGO</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0086">
-    <title lang="en">LA LIGA| GETAFE</title>
-    <desc lang="en">LA LIGA| GETAFE</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0085">
+    <title lang="en">LA LIGA| CELTA VIGO</title>
+    <desc lang="en">LA LIGA| CELTA VIGO</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0086">
-    <title lang="en">LA LIGA| GETAFE</title>
-    <desc lang="en">LA LIGA| GETAFE</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0085">
+    <title lang="en">LA LIGA| CELTA VIGO</title>
+    <desc lang="en">LA LIGA| CELTA VIGO</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0086">
     <title lang="en">LA LIGA| GETAFE</title>
@@ -2358,21 +2342,21 @@
     <title lang="en">LA LIGA| GETAFE</title>
     <desc lang="en">LA LIGA| GETAFE</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0087">
-    <title lang="en">LA LIGA| GIRONA</title>
-    <desc lang="en">LA LIGA| GIRONA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0086">
+    <title lang="en">LA LIGA| GETAFE</title>
+    <desc lang="en">LA LIGA| GETAFE</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0087">
-    <title lang="en">LA LIGA| GIRONA</title>
-    <desc lang="en">LA LIGA| GIRONA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0086">
+    <title lang="en">LA LIGA| GETAFE</title>
+    <desc lang="en">LA LIGA| GETAFE</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0087">
-    <title lang="en">LA LIGA| GIRONA</title>
-    <desc lang="en">LA LIGA| GIRONA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0086">
+    <title lang="en">LA LIGA| GETAFE</title>
+    <desc lang="en">LA LIGA| GETAFE</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0087">
-    <title lang="en">LA LIGA| GIRONA</title>
-    <desc lang="en">LA LIGA| GIRONA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0086">
+    <title lang="en">LA LIGA| GETAFE</title>
+    <desc lang="en">LA LIGA| GETAFE</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0087">
     <title lang="en">LA LIGA| GIRONA</title>
@@ -2382,21 +2366,21 @@
     <title lang="en">LA LIGA| GIRONA</title>
     <desc lang="en">LA LIGA| GIRONA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0088">
-    <title lang="en">LA LIGA| GRANADA</title>
-    <desc lang="en">LA LIGA| GRANADA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0087">
+    <title lang="en">LA LIGA| GIRONA</title>
+    <desc lang="en">LA LIGA| GIRONA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0088">
-    <title lang="en">LA LIGA| GRANADA</title>
-    <desc lang="en">LA LIGA| GRANADA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0087">
+    <title lang="en">LA LIGA| GIRONA</title>
+    <desc lang="en">LA LIGA| GIRONA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0088">
-    <title lang="en">LA LIGA| GRANADA</title>
-    <desc lang="en">LA LIGA| GRANADA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0087">
+    <title lang="en">LA LIGA| GIRONA</title>
+    <desc lang="en">LA LIGA| GIRONA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0088">
-    <title lang="en">LA LIGA| GRANADA</title>
-    <desc lang="en">LA LIGA| GRANADA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0087">
+    <title lang="en">LA LIGA| GIRONA</title>
+    <desc lang="en">LA LIGA| GIRONA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0088">
     <title lang="en">LA LIGA| GRANADA</title>
@@ -2406,21 +2390,21 @@
     <title lang="en">LA LIGA| GRANADA</title>
     <desc lang="en">LA LIGA| GRANADA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0089">
-    <title lang="en">LA LIGA| LAS PALMAS</title>
-    <desc lang="en">LA LIGA| LAS PALMAS</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0088">
+    <title lang="en">LA LIGA| GRANADA</title>
+    <desc lang="en">LA LIGA| GRANADA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0089">
-    <title lang="en">LA LIGA| LAS PALMAS</title>
-    <desc lang="en">LA LIGA| LAS PALMAS</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0088">
+    <title lang="en">LA LIGA| GRANADA</title>
+    <desc lang="en">LA LIGA| GRANADA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0089">
-    <title lang="en">LA LIGA| LAS PALMAS</title>
-    <desc lang="en">LA LIGA| LAS PALMAS</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0088">
+    <title lang="en">LA LIGA| GRANADA</title>
+    <desc lang="en">LA LIGA| GRANADA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0089">
-    <title lang="en">LA LIGA| LAS PALMAS</title>
-    <desc lang="en">LA LIGA| LAS PALMAS</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0088">
+    <title lang="en">LA LIGA| GRANADA</title>
+    <desc lang="en">LA LIGA| GRANADA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0089">
     <title lang="en">LA LIGA| LAS PALMAS</title>
@@ -2430,21 +2414,21 @@
     <title lang="en">LA LIGA| LAS PALMAS</title>
     <desc lang="en">LA LIGA| LAS PALMAS</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0090">
-    <title lang="en">LA LIGA| MALLORCA</title>
-    <desc lang="en">LA LIGA| MALLORCA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0089">
+    <title lang="en">LA LIGA| LAS PALMAS</title>
+    <desc lang="en">LA LIGA| LAS PALMAS</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0090">
-    <title lang="en">LA LIGA| MALLORCA</title>
-    <desc lang="en">LA LIGA| MALLORCA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0089">
+    <title lang="en">LA LIGA| LAS PALMAS</title>
+    <desc lang="en">LA LIGA| LAS PALMAS</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0090">
-    <title lang="en">LA LIGA| MALLORCA</title>
-    <desc lang="en">LA LIGA| MALLORCA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0089">
+    <title lang="en">LA LIGA| LAS PALMAS</title>
+    <desc lang="en">LA LIGA| LAS PALMAS</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0090">
-    <title lang="en">LA LIGA| MALLORCA</title>
-    <desc lang="en">LA LIGA| MALLORCA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0089">
+    <title lang="en">LA LIGA| LAS PALMAS</title>
+    <desc lang="en">LA LIGA| LAS PALMAS</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0090">
     <title lang="en">LA LIGA| MALLORCA</title>
@@ -2454,21 +2438,21 @@
     <title lang="en">LA LIGA| MALLORCA</title>
     <desc lang="en">LA LIGA| MALLORCA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0091">
-    <title lang="en">LA LIGA| OSASUNA</title>
-    <desc lang="en">LA LIGA| OSASUNA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0090">
+    <title lang="en">LA LIGA| MALLORCA</title>
+    <desc lang="en">LA LIGA| MALLORCA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0091">
-    <title lang="en">LA LIGA| OSASUNA</title>
-    <desc lang="en">LA LIGA| OSASUNA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0090">
+    <title lang="en">LA LIGA| MALLORCA</title>
+    <desc lang="en">LA LIGA| MALLORCA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0091">
-    <title lang="en">LA LIGA| OSASUNA</title>
-    <desc lang="en">LA LIGA| OSASUNA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0090">
+    <title lang="en">LA LIGA| MALLORCA</title>
+    <desc lang="en">LA LIGA| MALLORCA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0091">
-    <title lang="en">LA LIGA| OSASUNA</title>
-    <desc lang="en">LA LIGA| OSASUNA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0090">
+    <title lang="en">LA LIGA| MALLORCA</title>
+    <desc lang="en">LA LIGA| MALLORCA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0091">
     <title lang="en">LA LIGA| OSASUNA</title>
@@ -2478,21 +2462,21 @@
     <title lang="en">LA LIGA| OSASUNA</title>
     <desc lang="en">LA LIGA| OSASUNA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0092">
-    <title lang="en">LA LIGA| RAYO VALLECANO</title>
-    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0091">
+    <title lang="en">LA LIGA| OSASUNA</title>
+    <desc lang="en">LA LIGA| OSASUNA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0092">
-    <title lang="en">LA LIGA| RAYO VALLECANO</title>
-    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0091">
+    <title lang="en">LA LIGA| OSASUNA</title>
+    <desc lang="en">LA LIGA| OSASUNA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0092">
-    <title lang="en">LA LIGA| RAYO VALLECANO</title>
-    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0091">
+    <title lang="en">LA LIGA| OSASUNA</title>
+    <desc lang="en">LA LIGA| OSASUNA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0092">
-    <title lang="en">LA LIGA| RAYO VALLECANO</title>
-    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0091">
+    <title lang="en">LA LIGA| OSASUNA</title>
+    <desc lang="en">LA LIGA| OSASUNA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0092">
     <title lang="en">LA LIGA| RAYO VALLECANO</title>
@@ -2502,21 +2486,21 @@
     <title lang="en">LA LIGA| RAYO VALLECANO</title>
     <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0093">
-    <title lang="en">LA LIGA| REAL BETIS</title>
-    <desc lang="en">LA LIGA| REAL BETIS</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0092">
+    <title lang="en">LA LIGA| RAYO VALLECANO</title>
+    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0093">
-    <title lang="en">LA LIGA| REAL BETIS</title>
-    <desc lang="en">LA LIGA| REAL BETIS</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0092">
+    <title lang="en">LA LIGA| RAYO VALLECANO</title>
+    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0093">
-    <title lang="en">LA LIGA| REAL BETIS</title>
-    <desc lang="en">LA LIGA| REAL BETIS</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0092">
+    <title lang="en">LA LIGA| RAYO VALLECANO</title>
+    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0093">
-    <title lang="en">LA LIGA| REAL BETIS</title>
-    <desc lang="en">LA LIGA| REAL BETIS</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0092">
+    <title lang="en">LA LIGA| RAYO VALLECANO</title>
+    <desc lang="en">LA LIGA| RAYO VALLECANO</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0093">
     <title lang="en">LA LIGA| REAL BETIS</title>
@@ -2526,21 +2510,21 @@
     <title lang="en">LA LIGA| REAL BETIS</title>
     <desc lang="en">LA LIGA| REAL BETIS</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0094">
-    <title lang="en">LA LIGA| REAL MADRID</title>
-    <desc lang="en">LA LIGA| REAL MADRID</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0093">
+    <title lang="en">LA LIGA| REAL BETIS</title>
+    <desc lang="en">LA LIGA| REAL BETIS</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0094">
-    <title lang="en">LA LIGA| REAL MADRID</title>
-    <desc lang="en">LA LIGA| REAL MADRID</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0093">
+    <title lang="en">LA LIGA| REAL BETIS</title>
+    <desc lang="en">LA LIGA| REAL BETIS</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0094">
-    <title lang="en">LA LIGA| REAL MADRID</title>
-    <desc lang="en">LA LIGA| REAL MADRID</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0093">
+    <title lang="en">LA LIGA| REAL BETIS</title>
+    <desc lang="en">LA LIGA| REAL BETIS</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0094">
-    <title lang="en">LA LIGA| REAL MADRID</title>
-    <desc lang="en">LA LIGA| REAL MADRID</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0093">
+    <title lang="en">LA LIGA| REAL BETIS</title>
+    <desc lang="en">LA LIGA| REAL BETIS</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0094">
     <title lang="en">LA LIGA| REAL MADRID</title>
@@ -2550,21 +2534,21 @@
     <title lang="en">LA LIGA| REAL MADRID</title>
     <desc lang="en">LA LIGA| REAL MADRID</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0095">
-    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
-    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0094">
+    <title lang="en">LA LIGA| REAL MADRID</title>
+    <desc lang="en">LA LIGA| REAL MADRID</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0095">
-    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
-    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0094">
+    <title lang="en">LA LIGA| REAL MADRID</title>
+    <desc lang="en">LA LIGA| REAL MADRID</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0095">
-    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
-    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0094">
+    <title lang="en">LA LIGA| REAL MADRID</title>
+    <desc lang="en">LA LIGA| REAL MADRID</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0095">
-    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
-    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0094">
+    <title lang="en">LA LIGA| REAL MADRID</title>
+    <desc lang="en">LA LIGA| REAL MADRID</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0095">
     <title lang="en">LA LIGA| REAL SOCIEDAD</title>
@@ -2574,21 +2558,21 @@
     <title lang="en">LA LIGA| REAL SOCIEDAD</title>
     <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0096">
-    <title lang="en">LA LIGA| SEVILLA</title>
-    <desc lang="en">LA LIGA| SEVILLA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0095">
+    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
+    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0096">
-    <title lang="en">LA LIGA| SEVILLA</title>
-    <desc lang="en">LA LIGA| SEVILLA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0095">
+    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
+    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0096">
-    <title lang="en">LA LIGA| SEVILLA</title>
-    <desc lang="en">LA LIGA| SEVILLA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0095">
+    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
+    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0096">
-    <title lang="en">LA LIGA| SEVILLA</title>
-    <desc lang="en">LA LIGA| SEVILLA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0095">
+    <title lang="en">LA LIGA| REAL SOCIEDAD</title>
+    <desc lang="en">LA LIGA| REAL SOCIEDAD</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0096">
     <title lang="en">LA LIGA| SEVILLA</title>
@@ -2598,21 +2582,21 @@
     <title lang="en">LA LIGA| SEVILLA</title>
     <desc lang="en">LA LIGA| SEVILLA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0097">
-    <title lang="en">LA LIGA| VALENCIA</title>
-    <desc lang="en">LA LIGA| VALENCIA</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0096">
+    <title lang="en">LA LIGA| SEVILLA</title>
+    <desc lang="en">LA LIGA| SEVILLA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0097">
-    <title lang="en">LA LIGA| VALENCIA</title>
-    <desc lang="en">LA LIGA| VALENCIA</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0096">
+    <title lang="en">LA LIGA| SEVILLA</title>
+    <desc lang="en">LA LIGA| SEVILLA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0097">
-    <title lang="en">LA LIGA| VALENCIA</title>
-    <desc lang="en">LA LIGA| VALENCIA</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0096">
+    <title lang="en">LA LIGA| SEVILLA</title>
+    <desc lang="en">LA LIGA| SEVILLA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0097">
-    <title lang="en">LA LIGA| VALENCIA</title>
-    <desc lang="en">LA LIGA| VALENCIA</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0096">
+    <title lang="en">LA LIGA| SEVILLA</title>
+    <desc lang="en">LA LIGA| SEVILLA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0097">
     <title lang="en">LA LIGA| VALENCIA</title>
@@ -2622,27 +2606,43 @@
     <title lang="en">LA LIGA| VALENCIA</title>
     <desc lang="en">LA LIGA| VALENCIA</desc>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110120000 +0000" channel="ppv.la.liga.0098">
-    <title lang="en">LA LIGA| VILLAREAL</title>
-    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0097">
+    <title lang="en">LA LIGA| VALENCIA</title>
+    <desc lang="en">LA LIGA| VALENCIA</desc>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110180000 +0000" channel="ppv.la.liga.0098">
-    <title lang="en">LA LIGA| VILLAREAL</title>
-    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0097">
+    <title lang="en">LA LIGA| VALENCIA</title>
+    <desc lang="en">LA LIGA| VALENCIA</desc>
   </programme>
-  <programme start="20261110180000 +0000" stop="20261111000000 +0000" channel="ppv.la.liga.0098">
-    <title lang="en">LA LIGA| VILLAREAL</title>
-    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0097">
+    <title lang="en">LA LIGA| VALENCIA</title>
+    <desc lang="en">LA LIGA| VALENCIA</desc>
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111060000 +0000" channel="ppv.la.liga.0098">
-    <title lang="en">LA LIGA| VILLAREAL</title>
-    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0097">
+    <title lang="en">LA LIGA| VALENCIA</title>
+    <desc lang="en">LA LIGA| VALENCIA</desc>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111120000 +0000" channel="ppv.la.liga.0098">
     <title lang="en">LA LIGA| VILLAREAL</title>
     <desc lang="en">LA LIGA| VILLAREAL</desc>
   </programme>
   <programme start="20261111120000 +0000" stop="20261111180000 +0000" channel="ppv.la.liga.0098">
+    <title lang="en">LA LIGA| VILLAREAL</title>
+    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  </programme>
+  <programme start="20261111180000 +0000" stop="20261112000000 +0000" channel="ppv.la.liga.0098">
+    <title lang="en">LA LIGA| VILLAREAL</title>
+    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  </programme>
+  <programme start="20261112000000 +0000" stop="20261112060000 +0000" channel="ppv.la.liga.0098">
+    <title lang="en">LA LIGA| VILLAREAL</title>
+    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  </programme>
+  <programme start="20261112060000 +0000" stop="20261112120000 +0000" channel="ppv.la.liga.0098">
+    <title lang="en">LA LIGA| VILLAREAL</title>
+    <desc lang="en">LA LIGA| VILLAREAL</desc>
+  </programme>
+  <programme start="20261112120000 +0000" stop="20261112180000 +0000" channel="ppv.la.liga.0098">
     <title lang="en">LA LIGA| VILLAREAL</title>
     <desc lang="en">LA LIGA| VILLAREAL</desc>
   </programme>
